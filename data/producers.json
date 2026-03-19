@@ -1,0 +1,1710 @@
+[
+  {
+    "name": "Abracadabra",
+    "country": "Frankrike",
+    "region": "Auvergne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/abracadabra/"
+  },
+  {
+    "name": "Agricola Luyt",
+    "country": null,
+    "region": "Valle del Maule",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/agricola-luyt-valle-del-maule-488/"
+  },
+  {
+    "name": "Al di là del Fiume",
+    "country": null,
+    "region": "Emilia Romagna",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/al-di-l-del-fiume-emilia-romagna-387/"
+  },
+  {
+    "name": "Alejandro Nuñes (Arquitectura del Vino)",
+    "country": null,
+    "region": "Valle Bio Bio",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/alejandro-nues-arquitectura-del-vino-valle-bio-bio-942/"
+  },
+  {
+    "name": "Alessandro Viola",
+    "country": "Italien",
+    "region": "Sicilien",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/alessandro-viola/"
+  },
+  {
+    "name": "Alexandre Jouveaux",
+    "country": "Frankrike",
+    "region": "Bourgogne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/alexandre-jouveaux/"
+  },
+  {
+    "name": "Amaury Beaufort",
+    "country": "Frankrike",
+    "region": "Champagne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/amaury-beaufort/"
+  },
+  {
+    "name": "Ana Martín",
+    "country": null,
+    "region": "Terra Alta",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/ana-martn-terra-alta-1192/"
+  },
+  {
+    "name": "Anders Frederik Steen & Anne Bruun Blauert",
+    "country": "Frankrike",
+    "region": "Ardèche",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/anders-frederik-steen/"
+  },
+  {
+    "name": "Andreas Mann",
+    "country": null,
+    "region": "Rheinhessen",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/andreas-mann-rheinhessen-462/"
+  },
+  {
+    "name": "Andréa Calek",
+    "country": "Frankrike",
+    "region": "Ardèche",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/andrea-calek/"
+  },
+  {
+    "name": "Arnaud & Malou Greiner",
+    "country": "Frankrike",
+    "region": "Jura",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/arnaud-greiner/"
+  },
+  {
+    "name": "Aurélien Lefort",
+    "country": "Frankrike",
+    "region": "Auvergne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/aurelien-lefort/"
+  },
+  {
+    "name": "Aurélien Lurquin",
+    "country": "Frankrike",
+    "region": "Champagne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/aurelien-lurquin/"
+  },
+  {
+    "name": "Azimut",
+    "country": "Spanien",
+    "region": "Penedès",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/azimut/"
+  },
+  {
+    "name": "Barranco Oscuro",
+    "country": "Spanien",
+    "region": "Granada",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/barranco-oscuro/"
+  },
+  {
+    "name": "Bastian Wolber - Laisse Tomber",
+    "country": "Frankrike",
+    "region": "Bourgogne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/laisse-tomber/"
+  },
+  {
+    "name": "Benoît Courault",
+    "country": "Frankrike",
+    "region": "Loire",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/benoit-courault/"
+  },
+  {
+    "name": "Bera",
+    "country": null,
+    "region": "Canelli Piemonte",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/bera-canelli-piemonte-277/"
+  },
+  {
+    "name": "Bichi Wines",
+    "country": null,
+    "region": "Tecate",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/bichi-wines-tecate-418/"
+  },
+  {
+    "name": "Bruno Rochard / Mirebeau",
+    "country": null,
+    "region": "Anjou",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/bruno-rochard-mirebeau-anjou-1212/"
+  },
+  {
+    "name": "Brüder Dr. Becker",
+    "country": null,
+    "region": "Rheinhessen",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/bruuder-dr-becker-rheinhessen-231/"
+  },
+  {
+    "name": "Bénédicte & Stéphane Tissot",
+    "country": "Jura",
+    "region": "Arbois",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/bndicte-stphane-tissot-arbois-jura-308/"
+  },
+  {
+    "name": "Bérêche et Fils",
+    "country": "Frankrike",
+    "region": "Champagne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/bereche-et-fils/"
+  },
+  {
+    "name": "Cacique Maravilla",
+    "country": null,
+    "region": "Valle Bio Bio",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/cacique-maravilla-valle-bio-bio-940/"
+  },
+  {
+    "name": "Camille & Mathieu Apffel",
+    "country": "Frankrike",
+    "region": "Savoie",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/mathieu-apffel/"
+  },
+  {
+    "name": "Canlibero",
+    "country": null,
+    "region": "Campania",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/canlibero-campania-302/"
+  },
+  {
+    "name": "Carussin",
+    "country": "Italien",
+    "region": "Piemonte",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/carussin/"
+  },
+  {
+    "name": "Casa de Mouraz",
+    "country": null,
+    "region": "Dão",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/casa-de-mouraz-do-75/"
+  },
+  {
+    "name": "Casa Pardet",
+    "country": null,
+    "region": "Costers del Segre",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/casa-pardet-costers-del-segre-439/"
+  },
+  {
+    "name": "Cascina 'Tavijn",
+    "country": "Italien",
+    "region": "Piemonte",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/cascina-tavijn/"
+  },
+  {
+    "name": "Cascina degli Ulivi",
+    "country": null,
+    "region": "Piemonte",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/cascina-degli-ulivi-piemonte-77/"
+  },
+  {
+    "name": "Cascina Val Liberata",
+    "country": "Italien",
+    "region": "Piemonte",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/cascina-val-liberata/"
+  },
+  {
+    "name": "Casot des Mailloles",
+    "country": "Frankrike",
+    "region": "Roussillon",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/casot-des-mailloles/"
+  },
+  {
+    "name": "Catherine & Philippe Jambon",
+    "country": "Frankrike",
+    "region": "Beaujolais",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/catherine-philippe-jambon/"
+  },
+  {
+    "name": "Catherine Riss",
+    "country": "Frankrike",
+    "region": "Alsace",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/catherine-riss/"
+  },
+  {
+    "name": "Celler Les Foes",
+    "country": null,
+    "region": "Valencia",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/celler-les-foes-valencia-408/"
+  },
+  {
+    "name": "Champagne André Beaufort",
+    "country": "Frankrike",
+    "region": "Champagne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/champagne-beaufort/"
+  },
+  {
+    "name": "Champagne Bonnet-Ponson",
+    "country": null,
+    "region": null,
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/champagne-bonnet-ponson-1161/"
+  },
+  {
+    "name": "Champagne Clandestin",
+    "country": "Frankrike",
+    "region": "Champagne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/champagne-clandestin/"
+  },
+  {
+    "name": "Champagne Dufour",
+    "country": null,
+    "region": null,
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/champagne-dufour-143/"
+  },
+  {
+    "name": "Champagne Dufour & Francoise Martinot",
+    "country": null,
+    "region": null,
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/champagne-dufour-francoise-martinot-548/"
+  },
+  {
+    "name": "Champagne Julie Dufour",
+    "country": null,
+    "region": null,
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/champagne-julie-dufour-997/"
+  },
+  {
+    "name": "Champagne La Parcelle",
+    "country": "Frankrike",
+    "region": "Champagne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/champagne-la-parcelle/"
+  },
+  {
+    "name": "Champagne Legrand-Latour",
+    "country": "Frankrike",
+    "region": "Champagne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/champagne-legrand-latour/"
+  },
+  {
+    "name": "Champagne Romain & Thomas Hénin",
+    "country": null,
+    "region": null,
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/champagne-romain-thomas-hnin-1230/"
+  },
+  {
+    "name": "CheKura",
+    "country": null,
+    "region": "Valle del Itata",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/chekura-valle-del-itata-560/"
+  },
+  {
+    "name": "Chinon og Bourgeuil",
+    "country": null,
+    "region": null,
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/chinon-og-bourgeuil-96/"
+  },
+  {
+    "name": "Christian & Thibaut Ducroux",
+    "country": "Frankrike",
+    "region": "Beaujolais",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/christian-ducroux/"
+  },
+  {
+    "name": "Château de Béru",
+    "country": "Frankrike",
+    "region": "Bourgogne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/chateau-de-beru/"
+  },
+  {
+    "name": "Château de Passavant",
+    "country": "Loire",
+    "region": "Anjou",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/chteau-de-passavant-anjou-loire-306/"
+  },
+  {
+    "name": "Cinque Campi",
+    "country": "Italien",
+    "region": "Emilia",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/cinque-campi/"
+  },
+  {
+    "name": "Claire & Florent Bejon",
+    "country": "Frankrike",
+    "region": "Loire",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/claire-florent-bejon/"
+  },
+  {
+    "name": "Claude Buchot",
+    "country": "Frankrike",
+    "region": "Jura",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/claudebuchot/"
+  },
+  {
+    "name": "Clos du Tue-Boeuf",
+    "country": null,
+    "region": "Cheverny",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/clos-du-tue-boeuf-cheverny-1218/"
+  },
+  {
+    "name": "Clos Lentiscus",
+    "country": "Penedés",
+    "region": "Manel & Joan Aviño",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/clos-lentiscus-manel-joan-avio-peneds-305/"
+  },
+  {
+    "name": "Collecapretta",
+    "country": "Italien",
+    "region": "Umbrien",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/collecapretta/"
+  },
+  {
+    "name": "Commune of Buttons",
+    "country": null,
+    "region": "Adelaide Hills",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/commune-of-buttons-adelaide-hills-300/"
+  },
+  {
+    "name": "Corentin Houillon",
+    "country": "Frankrike",
+    "region": "Savoie",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/corentin-houillon/"
+  },
+  {
+    "name": "Cueva by Mariano",
+    "country": null,
+    "region": "Valencia",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/cueva-by-mariano-valencia-343/"
+  },
+  {
+    "name": "Damien Bastian - Ça Boit Libre",
+    "country": "Frankrike",
+    "region": "Savoie",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/damien-bastian/"
+  },
+  {
+    "name": "Damien Laureau",
+    "country": null,
+    "region": null,
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/damien-laureau-1221/"
+  },
+  {
+    "name": "Denavolo",
+    "country": null,
+    "region": "Emiglia Romagna",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/denavolo-emiglia-romagna-79/"
+  },
+  {
+    "name": "Domaine Alice et Olivier De Moor & Le Vendangeur Masqué",
+    "country": "Frankrike",
+    "region": "Bourgogne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/domaine-alice-olivier-de-moor/"
+  },
+  {
+    "name": "Domaine de Dernacueillette",
+    "country": null,
+    "region": null,
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/domaine-de-dernacueillette-1190/"
+  },
+  {
+    "name": "Domaine de Kalathas",
+    "country": "Grekland",
+    "region": "Tinos",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/domaine-de-kalathas/"
+  },
+  {
+    "name": "Domaine de l'Écu",
+    "country": null,
+    "region": "Muscadet",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/domaine-de-lcu-muscadet-1207/"
+  },
+  {
+    "name": "Domaine de la Grand'Cour",
+    "country": "Frankrike",
+    "region": "Beaujolais",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/domaine-de-la-grand-cour/"
+  },
+  {
+    "name": "Domaine de la Loue",
+    "country": "Frankrike",
+    "region": "Jura",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/domaine-de-la-loue/"
+  },
+  {
+    "name": "Domaine de Rancy",
+    "country": "Frankrike",
+    "region": "Roussillon",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/domaine-de-rancy/"
+  },
+  {
+    "name": "Domaine Derain",
+    "country": "Frankrike",
+    "region": "Bourgogne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/domaine-derain/"
+  },
+  {
+    "name": "Domaine des Cavarodes",
+    "country": "Frankrike",
+    "region": "Jura",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/domaine-des-cavarodes/"
+  },
+  {
+    "name": "Domaine des Fauvettes",
+    "country": "Frankrike",
+    "region": "Bourgogne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/domaine-des-fauvettes/"
+  },
+  {
+    "name": "Domaine des Miroirs",
+    "country": "Frankrike",
+    "region": "Jura",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/domaine-des-miroirs/"
+  },
+  {
+    "name": "Domaine des Trouillères",
+    "country": "Frankrike",
+    "region": "Auvergne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/domaine-des-trouilleres/"
+  },
+  {
+    "name": "Domaine Didon",
+    "country": "Frankrike",
+    "region": "Bourgogne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/domaine-didon/"
+  },
+  {
+    "name": "Domaine Giachino",
+    "country": "Frankrike",
+    "region": "Savoie",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/domaine-giachino/"
+  },
+  {
+    "name": "Domaine Houillon",
+    "country": "Frankrike",
+    "region": "Rhône",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/domaine-houillon/"
+  },
+  {
+    "name": "Domaine la Bohème",
+    "country": "Frankrike",
+    "region": "Auvergne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/domaine-la-boheme/"
+  },
+  {
+    "name": "Domaine Labet",
+    "country": "Frankrike",
+    "region": "Jura",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/domaine-labet/"
+  },
+  {
+    "name": "Domaine Mirebeau",
+    "country": "Anjou",
+    "region": "Bruno Rochard",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/domaine-mirebeau-bruno-rochard-anjou-436/"
+  },
+  {
+    "name": "Domaine Rietsch",
+    "country": "Frankrike",
+    "region": "Alsace",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/jean-pierre-rietsch/"
+  },
+  {
+    "name": "Domaine Rouge Gorge",
+    "country": "Frankrike",
+    "region": "Roussillon",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/clos-du-rouge-gorge/"
+  },
+  {
+    "name": "Domaine Saint Nicolas",
+    "country": null,
+    "region": "Fief-Vendéens",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/domaine-saint-nicolas-fief-vendens-1214/"
+  },
+  {
+    "name": "Domaines Landron",
+    "country": null,
+    "region": "Muscadet",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/domaines-landron-muscadet-1209/"
+  },
+  {
+    "name": "El Regreso",
+    "country": null,
+    "region": "Los Marcos-Utiel",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/el-regreso-los-marcos-utiel-1165/"
+  },
+  {
+    "name": "Els Jelipins",
+    "country": "Spanien",
+    "region": "Penedès",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/els-jelipins/"
+  },
+  {
+    "name": "Emilie Mutombo",
+    "country": null,
+    "region": "Baix Penedès",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/emilie-mutombo-baix-peneds-1194/"
+  },
+  {
+    "name": "Emilien Feneuil",
+    "country": "Frankrike",
+    "region": "Champagne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/emilien-feneuil/"
+  },
+  {
+    "name": "Emmanuel Brochet",
+    "country": "Frankrike",
+    "region": "Champagne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/emmanuel-brochet/"
+  },
+  {
+    "name": "Eric Bordelet",
+    "country": null,
+    "region": "Normandie",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/eric-bordelet-normandie-870/"
+  },
+  {
+    "name": "Escala Humana",
+    "country": null,
+    "region": "Valle de Uco",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/escala-humana-valle-de-uco-563/"
+  },
+  {
+    "name": "Escoda-Sanahuja",
+    "country": null,
+    "region": "Conca de Barbera",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/escoda-sanahuja-conca-de-barbera-73/"
+  },
+  {
+    "name": "Esencia Rural",
+    "country": null,
+    "region": "Toledo",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/esencia-rural-toledo-744/"
+  },
+  {
+    "name": "Estación Yumbel",
+    "country": null,
+    "region": "Valle Bio Bio",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/estacin-yumbel-valle-bio-bio-497/"
+  },
+  {
+    "name": "Etienne Seignovert",
+    "country": "Frankrike",
+    "region": "Ardèche",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/etienne-seignovert/"
+  },
+  {
+    "name": "Ezio Cerruti",
+    "country": "Italien",
+    "region": "Piemonte",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/ezio-cerutti/"
+  },
+  {
+    "name": "Famille Dutraive",
+    "country": "Frankrike",
+    "region": "Beaujolais",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/famille-dutraive/"
+  },
+  {
+    "name": "Ferme de Porte Coustic",
+    "country": null,
+    "region": "Île de Groix",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/ferme-de-porte-coustic-le-de-groix-699/"
+  },
+  {
+    "name": "Fernando Angulo",
+    "country": null,
+    "region": "Jerez",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/fernando-angulo-jerez-807/"
+  },
+  {
+    "name": "Finca Las Payas",
+    "country": null,
+    "region": "Mendoza",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/finca-las-payas-mendoza-576/"
+  },
+  {
+    "name": "Force Boisson - Daniel Sage & Jordi Torgue",
+    "country": "Frankrike",
+    "region": "Ardèche",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/daniel-sage/"
+  },
+  {
+    "name": "Frank Cornelissen",
+    "country": "Italien",
+    "region": "Sicilien",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/frank-cornelissen/"
+  },
+  {
+    "name": "François Rousset-Martin",
+    "country": "Frankrike",
+    "region": "Jura",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/rousset-martin/"
+  },
+  {
+    "name": "Gabriel Dvoskin",
+    "country": null,
+    "region": "Valle de Uco",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/gabriel-dvoskin-valle-de-uco-799/"
+  },
+  {
+    "name": "Gonzalez Bastías",
+    "country": null,
+    "region": "Valle del Maule",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/gonzalez-bastas-valle-del-maule-482/"
+  },
+  {
+    "name": "Gustavo Martinez",
+    "country": null,
+    "region": "Valle del Itata",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/gustavo-martinez-valle-del-itata-490/"
+  },
+  {
+    "name": "Gustinella",
+    "country": "Italien",
+    "region": "Sicilien",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/gustinella/"
+  },
+  {
+    "name": "Guy Breton",
+    "country": "Frankrike",
+    "region": "Beaujolais",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/guy-breton/"
+  },
+  {
+    "name": "Gérard Schueller et Fils",
+    "country": "Frankrike",
+    "region": "Alsace",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/gerard-schueller-et-fils/"
+  },
+  {
+    "name": "Henri Chauvet",
+    "country": "Frankrike",
+    "region": "Auvergne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/henri-chauvet/"
+  },
+  {
+    "name": "Hervé Villemade",
+    "country": "Frankrike",
+    "region": "Loire",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/herve_villemade/"
+  },
+  {
+    "name": "Hors Champs",
+    "country": "Frankrike",
+    "region": "Roussillon",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/hors-champs/"
+  },
+  {
+    "name": "I Vini di Giovanni",
+    "country": "Italien",
+    "region": "Umbrien",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/i-vini-di-giovanni/"
+  },
+  {
+    "name": "Ishi no Kanbase",
+    "country": null,
+    "region": null,
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/ishi-no-kanbase-742/"
+  },
+  {
+    "name": "Jakob Tennstedt",
+    "country": "Tyskland",
+    "region": "Mosel",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/jakob-tennstedt/"
+  },
+  {
+    "name": "JC Garnier",
+    "country": null,
+    "region": "Anjou",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/jc-garnier-anjou-1219/"
+  },
+  {
+    "name": "Jean Ginglinger et Fils",
+    "country": "Frankrike",
+    "region": "Alsace",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/jean-ginglinger-et-fils/"
+  },
+  {
+    "name": "Jean-Marie Berrux",
+    "country": "Frankrike",
+    "region": "Bourgogne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/domaine-jean-marie-berrux/"
+  },
+  {
+    "name": "Jon Goenaga",
+    "country": null,
+    "region": "Getariaka Txakolina",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/jon-goenaga-getariaka-txakolina-1069/"
+  },
+  {
+    "name": "Josgrop",
+    "country": "Skandinavien",
+    "region": "Cider",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/vin-natur/"
+  },
+  {
+    "name": "Julie Balagny",
+    "country": "Frankrike",
+    "region": "Beaujolais",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/julie-balagny/"
+  },
+  {
+    "name": "Julien Courtois & Heidi Kuka",
+    "country": "Frankrike",
+    "region": "Loire",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/le-clos-de-la-bruyere/"
+  },
+  {
+    "name": "Justin Dutraive",
+    "country": "Frankrike",
+    "region": "Beaujolais",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/justin-dutraive/"
+  },
+  {
+    "name": "Jérôme Lambert",
+    "country": "Frankrike",
+    "region": "Loire",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/jerome-lambert/"
+  },
+  {
+    "name": "Karl Schnabel",
+    "country": "Österreich",
+    "region": "Steiermark",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/karl-schnabel-steiermark-ousterreich-279/"
+  },
+  {
+    "name": "Karl Scnhabel",
+    "country": "Österreich",
+    "region": "Steiermark",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/karl-scnhabel-steiermark-ousterreich-281/"
+  },
+  {
+    "name": "La Cadette",
+    "country": "Frankrike",
+    "region": "Bourgogne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/la-cadette/"
+  },
+  {
+    "name": "La Coulée d’Ambrosia",
+    "country": "Frankrike",
+    "region": "Loire",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/la-coulee-dambrosia/"
+  },
+  {
+    "name": "La Furtiva",
+    "country": null,
+    "region": "Terra Alta",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/la-furtiva-terra-alta-1006/"
+  },
+  {
+    "name": "La Grande Colline",
+    "country": "Frankrike",
+    "region": "Rhône",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/la-grande-colline/"
+  },
+  {
+    "name": "La Grange 476",
+    "country": "Frankrike",
+    "region": "Jura",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/la-grange-476/"
+  },
+  {
+    "name": "La Grange aux Belles",
+    "country": "Frankrike",
+    "region": "Loire",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/la-grange-aux-belles/"
+  },
+  {
+    "name": "La Grapperie",
+    "country": "Frankrike",
+    "region": "Loire",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/la-grapperie/"
+  },
+  {
+    "name": "La Petite Empreinte",
+    "country": "Frankrike",
+    "region": "Bourgogne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/la-petite-empreinte/"
+  },
+  {
+    "name": "La Roche Buissière",
+    "country": "Frankrike",
+    "region": "Rhône",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/la-roche-buissiere/"
+  },
+  {
+    "name": "La Sorga",
+    "country": null,
+    "region": "Rousillon",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/la-sorga-rousillon-307/"
+  },
+  {
+    "name": "La Stoppa",
+    "country": null,
+    "region": "Emiglia Romagna",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/la-stoppa-emiglia-romagna-78/"
+  },
+  {
+    "name": "La Sénéchalière",
+    "country": "Frankrike",
+    "region": "Loire",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/la-senechaliere/"
+  },
+  {
+    "name": "La Traviesa",
+    "country": "Spanien",
+    "region": "Granada",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/la-traviesa/"
+  },
+  {
+    "name": "La Vigne du Perron",
+    "country": "Frankrike",
+    "region": "Bugey",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/domaine-du-perron/"
+  },
+  {
+    "name": "La Vinoterie",
+    "country": null,
+    "region": "Anjou",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/la-vinoterie-anjou-1213/"
+  },
+  {
+    "name": "Laherte Frères",
+    "country": "Frankrike",
+    "region": "Champagne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/laherte-freres/"
+  },
+  {
+    "name": "Lamoresca",
+    "country": "Italien",
+    "region": "Sicilien",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/lamoresca/"
+  },
+  {
+    "name": "Le Coste",
+    "country": "Italien",
+    "region": "Lazio",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/le-coste/"
+  },
+  {
+    "name": "Le Grain de Sénevé",
+    "country": "Frankrike",
+    "region": "Beaujolais",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/la-grain-de-seneve/"
+  },
+  {
+    "name": "Le Mazel",
+    "country": "Frankrike",
+    "region": "Ardèche",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/le-mazel/"
+  },
+  {
+    "name": "Le Petit Gimios",
+    "country": "Frankrike",
+    "region": "Languedoc",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/le-petit-gimios/"
+  },
+  {
+    "name": "Les Cailloux du Paradis",
+    "country": "Frankrike",
+    "region": "Loire",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/les-cailloux-du-paradis/"
+  },
+  {
+    "name": "Les Capriades",
+    "country": "Frankrike",
+    "region": "Loire",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/les-capriades/"
+  },
+  {
+    "name": "Les Deux Terres",
+    "country": "Frankrike",
+    "region": "Ardèche",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/les-deux-terres/"
+  },
+  {
+    "name": "Les Errances",
+    "country": null,
+    "region": "Anjou",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/les-errances-anjou-1220/"
+  },
+  {
+    "name": "Les Jardins de la Martinière",
+    "country": "Frankrike",
+    "region": "Loire",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/les-jardins-de-la-martiniere/"
+  },
+  {
+    "name": "Les Lunes Wine",
+    "country": "California",
+    "region": "Orinda",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/les-lunes-wine-orinda-california-393/"
+  },
+  {
+    "name": "Les Lunes Wines",
+    "country": "California",
+    "region": "Orinda",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/les-lunes-wines-orinda-california-392/"
+  },
+  {
+    "name": "Les Vignes de Babass",
+    "country": "Frankrike",
+    "region": "Loire",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/les-vignes-de-babass/"
+  },
+  {
+    "name": "Les Vignes de L'Angevin (Familjen Robinot)",
+    "country": "Frankrike",
+    "region": "Loire",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/jeanpierre_robinot/"
+  },
+  {
+    "name": "Léo Dirringer",
+    "country": "Frankrike",
+    "region": "Alsace",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/leo-dirringer/"
+  },
+  {
+    "name": "L’Absurde Génie des Fleurs",
+    "country": "Frankrike",
+    "region": "Languedoc",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/labsurde-genie-des-fleurs/"
+  },
+  {
+    "name": "L’Octavin",
+    "country": "Frankrike",
+    "region": "Jura",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/loctavin/"
+  },
+  {
+    "name": "Macatho",
+    "country": null,
+    "region": "Valle del Itata",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/macatho-valle-del-itata-492/"
+  },
+  {
+    "name": "Mai & Kenji Hodgson",
+    "country": "Frankrike",
+    "region": "Loire",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/mai-kenji-hodgson/"
+  },
+  {
+    "name": "Maison en Belles Lies",
+    "country": "Frankrike",
+    "region": "Bourgogne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/maison-en-belles-lies/"
+  },
+  {
+    "name": "Maison Valette",
+    "country": "Frankrike",
+    "region": "Bourgogne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/maison-valette/"
+  },
+  {
+    "name": "Maison Vulpin",
+    "country": "Schweiz",
+    "region": "Vaud",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/maison-vulpin/"
+  },
+  {
+    "name": "Maisons Brûlées",
+    "country": "Loire",
+    "region": "Touraine",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/maisons-brles-touraine-loire-437/"
+  },
+  {
+    "name": "Manon",
+    "country": null,
+    "region": "Adelaide Hills",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/manon-adelaide-hills-378/"
+  },
+  {
+    "name": "Marga Marga",
+    "country": null,
+    "region": "Valle del Marga-Marga",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/marga-marga-valle-del-marga-marga-494/"
+  },
+  {
+    "name": "Margot & Natalia",
+    "country": null,
+    "region": "Anjou",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/margot-natalia-anjou-1211/"
+  },
+  {
+    "name": "Marie & Olivier Horiot",
+    "country": "Frankrike",
+    "region": "Champagne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/marie-olivier-horiot/"
+  },
+  {
+    "name": "Marie & Vincent Tricot",
+    "country": "Frankrike",
+    "region": "Auvergne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/marie-et-vincent-tricot/"
+  },
+  {
+    "name": "Martin Wörner",
+    "country": null,
+    "region": "Rheinhessen",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/martin-wourner-rheinhessen-464/"
+  },
+  {
+    "name": "Mas Coutelou",
+    "country": "Frankrike",
+    "region": "Languedoc",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/mas-coutelou/"
+  },
+  {
+    "name": "Massa Vecchia",
+    "country": "Italien",
+    "region": "Toscana",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/massa-vecchia/"
+  },
+  {
+    "name": "Mazière",
+    "country": "Frankrike",
+    "region": "Languedoc",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/maziere/"
+  },
+  {
+    "name": "Mendall / Alicia & Laureano",
+    "country": null,
+    "region": null,
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/mendall-alicia-laureano-1184/"
+  },
+  {
+    "name": "Mendall / Alicia & Laureano Serres",
+    "country": null,
+    "region": "Terra Alta",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/mendall-alicia-laureano-serres-terra-alta-274/"
+  },
+  {
+    "name": "Michel Guignier",
+    "country": "Frankrike",
+    "region": "Beaujolais",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/michel-guignier/"
+  },
+  {
+    "name": "Microbio Wines",
+    "country": null,
+    "region": "Segovia",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/microbio-wines-segovia-424/"
+  },
+  {
+    "name": "Misión Santiago",
+    "country": null,
+    "region": "Valle del Maule",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/misin-santiago-valle-del-maule-487/"
+  },
+  {
+    "name": "Mito Inoue",
+    "country": "Frankrike",
+    "region": "Auvergne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/mito-inoue/"
+  },
+  {
+    "name": "Montanet-Thoden",
+    "country": "Frankrike",
+    "region": "Bourgogne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/montanet-thoden/"
+  },
+  {
+    "name": "Morgane Turlier",
+    "country": "Frankrike",
+    "region": "Jura",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/morgane-turlier/"
+  },
+  {
+    "name": "Naranjuez",
+    "country": null,
+    "region": "Granada",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/naranjuez-granada-296/"
+  },
+  {
+    "name": "Nicolas Jacob",
+    "country": "Frankrike",
+    "region": "Jura",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/nicolas-jacob/"
+  },
+  {
+    "name": "Nin y Ortiz",
+    "country": null,
+    "region": "Priorato",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/nin-y-ortiz-priorato-1137/"
+  },
+  {
+    "name": "No Control",
+    "country": "Frankrike",
+    "region": "Auvergne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/vincent-marie/"
+  },
+  {
+    "name": "Noëlla Morantin",
+    "country": "Frankrike",
+    "region": "Loire",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/noella-morantin/"
+  },
+  {
+    "name": "Nuria Renom",
+    "country": null,
+    "region": "Penedès",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/nuria-renom-peneds-805/"
+  },
+  {
+    "name": "Olek Bondonio",
+    "country": "Italien",
+    "region": "Piemonte",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/olek-bondonio/"
+  },
+  {
+    "name": "Olivier Cousin",
+    "country": null,
+    "region": "Anjou",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/olivier-cousin-anjou-1210/"
+  },
+  {
+    "name": "Ophélie Dutraive",
+    "country": "Frankrike",
+    "region": "Beaujolais",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/ophelie-dutraive/"
+  },
+  {
+    "name": "Oriol Artigas",
+    "country": null,
+    "region": null,
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/oriol-artigas-372/"
+  },
+  {
+    "name": "Panevino",
+    "country": null,
+    "region": "Sardegna",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/panevino-sardegna-227/"
+  },
+  {
+    "name": "Paolo Foppiani",
+    "country": null,
+    "region": "Emilia-Romagna",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/paolo-foppiani-emilia-romagna-621/"
+  },
+  {
+    "name": "Paolo Vodopivec",
+    "country": "Italien",
+    "region": "Friuli",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/paolo-vodopivec/"
+  },
+  {
+    "name": "Partida Creus",
+    "country": null,
+    "region": "Baix Penedés",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/partida-creus-baix-peneds-272/"
+  },
+  {
+    "name": "Patrick Desplats",
+    "country": "Frankrike",
+    "region": "Loire",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/patrick-desplats/"
+  },
+  {
+    "name": "Pearl-Morissette",
+    "country": "Ontario",
+    "region": "Niagara",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/pearl-morissette-niagara-ontario-canada-353/"
+  },
+  {
+    "name": "Philippe Pibarot",
+    "country": "Frankrike",
+    "region": "Languedoc",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/domaine-pibarot/"
+  },
+  {
+    "name": "Piccolo Podere del Ceppaiolo",
+    "country": "Italien",
+    "region": "Umbrien",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/piccolo-podere-del-ceppaiolo/"
+  },
+  {
+    "name": "Pierre Andrey",
+    "country": "Frankrike",
+    "region": "Lorraine",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/pierre-andrey/"
+  },
+  {
+    "name": "Pierre Beauger",
+    "country": "Frankrike",
+    "region": "Auvergne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/pierre-beauger/"
+  },
+  {
+    "name": "Ploder-Rosenberg",
+    "country": "Österreich",
+    "region": "Vulkanland Steiermark",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/ploder-rosenberg-vulkanland-steiermark-oesterreich-895/"
+  },
+  {
+    "name": "Podere Aia Vecchia",
+    "country": "Italien",
+    "region": "Toscana",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/podere-aia-vecchia/"
+  },
+  {
+    "name": "Podere Cipolla",
+    "country": null,
+    "region": "Emilia Romagna",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/podere-cipolla-emilia-romagna-390/"
+  },
+  {
+    "name": "Populis Wine",
+    "country": "California",
+    "region": "Orinda",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/populis-wine-orinda-california-394/"
+  },
+  {
+    "name": "Porcellánic",
+    "country": null,
+    "region": "Penedés",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/porcellnic-peneds-215/"
+  },
+  {
+    "name": "Prieuré Saint-Christophe",
+    "country": "Frankrike",
+    "region": "Savoie",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/prieure-saint-christophe/"
+  },
+  {
+    "name": "Pàcina",
+    "country": null,
+    "region": "Toscana",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/pcina-toscana-427/"
+  },
+  {
+    "name": "Quinta da Boavista",
+    "country": null,
+    "region": "Dāo",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/quinta-da-boavista-do-899/"
+  },
+  {
+    "name": "Quinta de Ermegeira",
+    "country": "Portugal",
+    "region": "Torres Vedras",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/quinta-de-ermegeira-torres-vedras-portugal-715/"
+  },
+  {
+    "name": "Renaud Bruyère & Adeline Houillon",
+    "country": "Frankrike",
+    "region": "Jura",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/bruyere-houillon/"
+  },
+  {
+    "name": "Rié & Hirofumi Shoji",
+    "country": "Frankrike",
+    "region": "Roussillon",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/pedres-blanques/"
+  },
+  {
+    "name": "Roberto Henriquez",
+    "country": null,
+    "region": "Valle Bio Bio",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/roberto-henriquez-valle-bio-bio-642/"
+  },
+  {
+    "name": "Romain & Thomas Hénin",
+    "country": null,
+    "region": "Champagne",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/romain-thomas-hnin-champagne-1231/"
+  },
+  {
+    "name": "Ruth Lewandowski Wines",
+    "country": "California",
+    "region": "Sonoma",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/ruth-lewandowski-wines-sonoma-california-396/"
+  },
+  {
+    "name": "Sam Vinciullo",
+    "country": "WA",
+    "region": "Magaret River",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/sam-vinciullo-magaret-river-wa-415/"
+  },
+  {
+    "name": "Samuel Párraga",
+    "country": null,
+    "region": "Málaga",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/samuel-prraga-mlaga-1130/"
+  },
+  {
+    "name": "Sassara",
+    "country": "Italien",
+    "region": "Veneto",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/sassara/"
+  },
+  {
+    "name": "Sebastien Morin",
+    "country": "Frankrike",
+    "region": "Beaujolais",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/sebastien-morin/"
+  },
+  {
+    "name": "Serragghia",
+    "country": "Italien",
+    "region": "Pantelleria",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/azienda-agricola-serragghia/"
+  },
+  {
+    "name": "Shun Minowa",
+    "country": null,
+    "region": "Emilia Romagna",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/shun-minowa-emilia-romagna-1234/"
+  },
+  {
+    "name": "Sin Patrones",
+    "country": null,
+    "region": "Valle Bio Bio",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/sin-patrones-valle-bio-bio-941/"
+  },
+  {
+    "name": "Stefan Vetter",
+    "country": "Tyskland",
+    "region": "Franken",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/stefan-vetter/"
+  },
+  {
+    "name": "Stella di Campalto",
+    "country": null,
+    "region": "Montalcino",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/stella-di-campalto-montalcino-125/"
+  },
+  {
+    "name": "Strohmeier",
+    "country": "Österrike",
+    "region": "Steiermark",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/franz-strohmeier/"
+  },
+  {
+    "name": "Stéphane Otheguy",
+    "country": "Frankrike",
+    "region": "Rhône",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/stephane-otheguy/"
+  },
+  {
+    "name": "Syd- og Vestfrankrig (Languedoc og omegn)",
+    "country": null,
+    "region": null,
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/syd-og-vestfrankrig-languedoc-og-omegn-339/"
+  },
+  {
+    "name": "Tenuta Fornace",
+    "country": null,
+    "region": "Lombardiet",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/tenuta-fornace-lombardiet-850/"
+  },
+  {
+    "name": "Thomas Jacquin",
+    "country": "Frankrike",
+    "region": "Jura",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/thomas-jacquin/"
+  },
+  {
+    "name": "Thomas Perseval",
+    "country": "Frankrike",
+    "region": "Champagne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/thomas-perseval/"
+  },
+  {
+    "name": "Thomas Popy",
+    "country": "Frankrike",
+    "region": "Jura",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/thomas-popy/"
+  },
+  {
+    "name": "Tipaume",
+    "country": null,
+    "region": "Alta Cachapoal",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/tipaume-alta-cachapoal-485/"
+  },
+  {
+    "name": "Toby Bainbridge",
+    "country": null,
+    "region": "Anjou",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/toby-bainbridge-anjou-475/"
+  },
+  {
+    "name": "Traginer Borratxí",
+    "country": null,
+    "region": "Los Marcos-Utiel",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/traginer-borratx-los-marcos-utiel-1102/"
+  },
+  {
+    "name": "Tren de Vida",
+    "country": null,
+    "region": "Los Marcos-Utiel",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/tren-de-vida-los-marcos-utiel-1039/"
+  },
+  {
+    "name": "Vin de La Gamba",
+    "country": null,
+    "region": "Rheinhessen",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/vin-de-la-gamba-rheinhessen-1223/"
+  },
+  {
+    "name": "Vin Noé",
+    "country": "Frankrike",
+    "region": "Bourgogne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/vin-noe/"
+  },
+  {
+    "name": "Vincent Wallard",
+    "country": "Frankrike",
+    "region": "Loire",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/vincent-wallard/"
+  },
+  {
+    "name": "Vini Conestabile della Staffa",
+    "country": "Italien",
+    "region": "Umbrien",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/vini-della-staffa/"
+  },
+  {
+    "name": "Vino Sexto Elemento",
+    "country": null,
+    "region": "Valencia",
+    "source": "gladvin.dk",
+    "url": "https://gladvin.dk/vino-sexto-elemento-valencia-571/"
+  },
+  {
+    "name": "Vouette & Sorbée",
+    "country": "Frankrike",
+    "region": "Champagne",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/vouette-sorbee/"
+  },
+  {
+    "name": "Yannick Meckert",
+    "country": "Frankrike",
+    "region": "Alsace",
+    "source": "vinnatur.se",
+    "url": "https://vinnatur.se/bonde/yannick-meckert/"
+  }
+]
