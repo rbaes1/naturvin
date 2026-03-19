@@ -224,7 +224,7 @@ def main():
 
     annotated.sort(key=lambda w: (-w["conf"], w["name"].lower()))
 
-    (DATA / "results.json").write_text(
+    (DATA.parent.parent / "docs" / "data" / "results.json").write_text(
         json.dumps(annotated, ensure_ascii=False, indent=2), encoding="utf-8"
     )
 
