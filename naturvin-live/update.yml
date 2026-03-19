@@ -1,0 +1,40 @@
+name: Update natural wine list
+
+on:
+  schedule:
+    - cron: '0 8 * * 5'   # Every Friday at 08:00 UTC (when Systembolaget releases)
+  workflow_dispatch:        # Also allow manual trigger from GitHub UI
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests rapidfuzz
+
+      - name: Fetch Systembolaget wines
+        env:
+          SYSTEMBOLAGET_API_KEY: ${{ secrets.SYSTEMBOLAGET_API_KEY }}
+        run: python3 scripts/fetch_systembolaget.py
+
+      - name: Match and classify
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python3 scripts/match.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/results.json data/producer_cache.json
+          git diff --staged --quiet || git commit -m "Update natural wine list $(date +'%Y-%m-%d')"
+          git push
