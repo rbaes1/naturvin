@@ -2,8 +2,11 @@ name: Update natural wine list
 
 on:
   schedule:
-    - cron: '0 8 * * 5'   # Every Friday at 08:00 UTC (when Systembolaget releases)
-  workflow_dispatch:        # Also allow manual trigger from GitHub UI
+    - cron: '0 8 * * 5'   # Every Friday at 08:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update:
@@ -31,10 +34,13 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python3 scripts/match.py
 
+      - name: Copy results to docs
+        run: cp docs/data/results.json docs/data/results.json || true
+
       - name: Commit updated data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/results.json data/producer_cache.json
+          git add docs/data/results.json data/producer_cache.json
           git diff --staged --quiet || git commit -m "Update natural wine list $(date +'%Y-%m-%d')"
           git push

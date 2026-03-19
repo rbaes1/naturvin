@@ -45,7 +45,11 @@ def normalize(name):
 
 
 def load_corpus():
-    data = json.loads((DATA / "producers.json").read_text(encoding="utf-8"))
+    # Use docs/data/producers.json if available (updated corpus), else data/
+    corpus_path = DATA.parent / "docs" / "data" / "producers.json"
+    if not corpus_path.exists():
+        corpus_path = DATA / "producers.json"
+    data = json.loads(corpus_path.read_text(encoding="utf-8"))
     return [{"name": p["name"], "normalized": normalize(p["name"]),
              "country": p.get("country"), "source": p["source"]} for p in data]
 
@@ -224,7 +228,9 @@ def main():
 
     annotated.sort(key=lambda w: (-w["conf"], w["name"].lower()))
 
-    (DATA.parent / "docs" / "data" / "results.json").write_text(
+    out = DATA.parent / "docs" / "data" / "results.json"
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(
         json.dumps(annotated, ensure_ascii=False, indent=2), encoding="utf-8"
     )
 
