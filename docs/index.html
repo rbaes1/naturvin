@@ -404,7 +404,7 @@ document.getElementById('search').addEventListener('input', e => { query = e.tar
 document.getElementById('sort').addEventListener('change', e => { sort = e.target.value; render(); });
 
 // Fetch data from repo
-fetch('/naturvin/data/results.json')
+fetch('data/results.json')
   .then(r => r.json())
   .then(data => {
     wines = data;
