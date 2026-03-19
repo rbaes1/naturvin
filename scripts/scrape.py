@@ -2,12 +2,15 @@
 Scrape natural wine producer lists from:
   - vinnatur.se/bonder/
   - gladvin.dk
+  - louisdressner.com/producers
+  - lescaves.co.uk/producers (if accessible)
+  - winetrade.se (if accessible)
 
 Usage:
-  python3 scrape.py              # live scrape
-  python3 scrape.py --offline    # parse from cached vinnatur.html / gladvin.html
+  python3 scripts/scrape.py              # live scrape
+  python3 scripts/scrape.py --offline    # use cached HTML files
 
-Output: producers.json
+Output: data/producers.json
 """
 
 import json, re, sys, requests
@@ -17,16 +20,19 @@ from pathlib import Path
 HEADERS = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"}
 OFFLINE = "--offline" in sys.argv
 
+ROOT = Path(__file__).parent.parent
+DATA = ROOT / "data"
+
 
 def get_html(url, filename):
+    cache = DATA / filename
     if OFFLINE:
-        p = Path(filename)
-        if not p.exists():
-            sys.exit(f"ERROR: {filename} not found. Run without --offline first.")
-        return p.read_text(encoding="utf-8")
+        if not cache.exists():
+            sys.exit(f"ERROR: {cache} not found. Run without --offline first.")
+        return cache.read_text(encoding="utf-8")
     r = requests.get(url, headers=HEADERS, timeout=15)
     r.raise_for_status()
-    Path(filename).write_text(r.text, encoding="utf-8")
+    cache.write_text(r.text, encoding="utf-8")
     return r.text
 
 
@@ -42,7 +48,6 @@ def scrape_vinnatur():
         name = a.get_text(strip=True)
         href = a["href"]
         url = href if href.startswith("http") else "https://vinnatur.se" + href
-
         region = country = None
         for el in h5.find_all_previous():
             if el.name == "h4" and region is None:
@@ -51,7 +56,6 @@ def scrape_vinnatur():
                 country = el.get_text(strip=True)
             if region and country:
                 break
-
         producers.append({"name": name, "country": country, "region": region,
                           "source": "vinnatur.se", "url": url})
 
@@ -96,43 +100,32 @@ def scrape_gladvin():
 
     all_uls = [ul for ul in soup.find_all("ul")
                if "dropdown-menu" in (ul.get("class") or [])]
-    print(f"  dropdown-menu uls: {len(all_uls)}")
 
     for ul in all_uls:
         for a in ul.find_all("a"):
             href = a.get("href", "")
             label = a.get_text(strip=True)
-
             if not href or not label or len(label) < 3:
                 continue
-
             m = re.match(r"^/([^/]+)-(\d+)/$", href)
             if not m:
                 continue
-
             slug_base = re.sub(r"-\d+$", "", m.group(1))
-
             if slug_base in SKIP_SLUGS:
                 continue
             if any(w in slug_base for w in NON_WINE_SLUG_WORDS):
                 continue
-
-            # Strip region suffix: "Producer, Region, Country" → "Producer"
             parts = [p.strip() for p in label.split(",")]
             name = parts[0]
             region = parts[1] if len(parts) > 1 else None
             country = parts[2] if len(parts) > 2 else None
-
             if any(w in name.lower() for w in NON_WINE_WORDS):
                 continue
-
             norm = name.lower()
             if norm not in seen and len(name) > 2:
                 seen.add(norm)
                 producers.append({
-                    "name": name,
-                    "country": country,
-                    "region": region,
+                    "name": name, "country": country, "region": region,
                     "source": "gladvin.dk",
                     "url": "https://gladvin.dk" + href,
                 })
@@ -141,42 +134,144 @@ def scrape_gladvin():
     return producers
 
 
+def scrape_louisdressner():
+    print("Scraping louisdressner.com...")
+    soup = BeautifulSoup(get_html("https://louisdressner.com/producers", "louisdressner.html"), "html.parser")
+    producers = []
+    seen = set()
+
+    # Structure: h3 = country, h4 = region, li > a = producer
+    current_country = None
+    current_region = None
+
+    for el in soup.find_all(["h3", "h4", "li"]):
+        if el.name == "h3":
+            current_country = el.get_text(strip=True).title()
+            current_region = None
+        elif el.name == "h4":
+            current_region = el.get_text(strip=True)
+        elif el.name == "li":
+            a = el.find("a")
+            if not a:
+                continue
+            href = a.get("href", "")
+            if "/producers/" not in href:
+                continue
+            name = a.get_text(strip=True)
+            # Skip non-wine and non-European (we include all for corpus breadth)
+            if not name or len(name) < 2:
+                continue
+            norm = name.lower()
+            if norm not in seen:
+                seen.add(norm)
+                producers.append({
+                    "name": name,
+                    "country": current_country,
+                    "region": current_region,
+                    "source": "louisdressner.com",
+                    "url": "https://louisdressner.com" + href if href.startswith("/") else href,
+                })
+
+    # Deduplicate (the page renders the list twice)
+    deduped = []
+    seen2 = set()
+    for p in producers:
+        k = p["name"].lower()
+        if k not in seen2:
+            seen2.add(k)
+            deduped.append(p)
+
+    print(f"  Found {len(deduped)} producers")
+    return deduped
+
+
 def normalize(name):
-    """Normalize for cross-source deduplication."""
     name = re.sub(r"\s*\(.*?\)", "", name)
     return name.split(",")[0].strip().lower()
 
 
+def scrape_winetrade():
+    print("Scraping winetrade.se...")
+    soup = BeautifulSoup(
+        get_html("https://winetrade.se/en/pages/vinbonder", "winetrade.html"),
+        "html.parser"
+    )
+    producers = []
+    seen = set()
+    current_country = None
+    current_region = None
+
+    for el in soup.find_all(["h2", "h3", "li"]):
+        text = el.get_text(strip=True)
+        if not text:
+            continue
+        if el.name == "h2":
+            current_country = text
+            current_region = None
+        elif el.name == "h3":
+            current_region = text
+        elif el.name == "li":
+            a = el.find("a")
+            if not a:
+                continue
+            name = a.get_text(strip=True)
+            if not name or len(name) < 3:
+                continue
+            if any(w in name.lower() for w in {"webshop", "systembolaget", "restaurang",
+                                                "kontakt", "log in", "search", "cart"}):
+                continue
+            norm = name.lower()
+            if norm not in seen:
+                seen.add(norm)
+                producers.append({
+                    "name": name, "country": current_country,
+                    "region": current_region, "source": "winetrade.se",
+                    "url": a.get("href", ""),
+                })
+
+    SKIP = {"webshop", "systembolaget", "restaurang", "kontakt", "om oss",
+            "allmänna", "subscribe", "facebook", "instagram", "loading", "hemleverans"}
+    filtered = [p for p in producers
+                if not any(w in p["name"].lower() for w in SKIP)]
+    print(f"  Found {len(filtered)} producers")
+    return filtered
+
+
 def main():
-    vinnatur = scrape_vinnatur()
-    gladvin = scrape_gladvin()
+    vinnatur      = scrape_vinnatur()
+    gladvin       = scrape_gladvin()
+    louisdressner = scrape_louisdressner()
+    winetrade     = scrape_winetrade()
+
+    all_producers = vinnatur + gladvin + louisdressner + winetrade
 
     seen = {}
     merged = []
-    for p in vinnatur + gladvin:
+    for p in all_producers:
         key = normalize(p["name"])
         if key not in seen:
             seen[key] = True
             merged.append(p)
 
-    # Sort by name only, regardless of source
     merged.sort(key=lambda p: p["name"].lower())
 
+    by_source = {}
+    for p in merged:
+        by_source[p["source"]] = by_source.get(p["source"], 0) + 1
+
     print(f"\n{'─'*60}")
-    print(f"  vinnatur.se:  {len(vinnatur):>4} producers")
-    print(f"  gladvin.dk:   {len(gladvin):>4} producers")
-    print(f"  unique total: {len(merged):>4} producers")
+    for s, n in by_source.items():
+        print(f"  {s:<25} {n:>4} producers")
+    print(f"  {'unique total':<25} {len(merged):>4} producers")
     print(f"{'─'*60}")
 
-    Path("producers.json").write_text(
+    DATA.mkdir(exist_ok=True)
+    (DATA / "producers.json").write_text(
         json.dumps(merged, ensure_ascii=False, indent=2), encoding="utf-8"
     )
-    print("\nSaved → producers.json")
+    print(f"\nSaved → data/producers.json")
 
-    print("\nSample (first 20 alphabetically):")
-    for p in merged[:20]:
-        country = (p["country"] or p["region"] or "?")[:20]
-        print(f"  {p['name']:<42} {country:<20} [{p['source']}]")
 
 if __name__ == "__main__":
     main()
+

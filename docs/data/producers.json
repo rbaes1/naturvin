@@ -1,10 +1,31 @@
 [
   {
+    "name": "A la Vôtre!/Laurent Lebled",
+    "country": "France",
+    "region": "Loire",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/a%20la%20vôtre!|laurent%20lebled"
+  },
+  {
     "name": "Abracadabra",
     "country": "Frankrike",
     "region": "Auvergne",
     "source": "vinnatur.se",
     "url": "https://vinnatur.se/bonde/abracadabra/"
+  },
+  {
+    "name": "Agnanum",
+    "country": "Italy",
+    "region": "Campania",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/agnanum"
+  },
+  {
+    "name": "Agnès et René Mosse",
+    "country": "France",
+    "region": "Loire",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/agnès%20et%20rené%20mosse"
   },
   {
     "name": "Agricola Luyt",
@@ -21,11 +42,25 @@
     "url": "https://gladvin.dk/al-di-l-del-fiume-emilia-romagna-387/"
   },
   {
+    "name": "Alamansa",
+    "country": "Sierra de Gredos",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/alamansa"
+  },
+  {
     "name": "Alejandro Nuñes (Arquitectura del Vino)",
     "country": null,
     "region": "Valle Bio Bio",
     "source": "gladvin.dk",
     "url": "https://gladvin.dk/alejandro-nues-arquitectura-del-vino-valle-bio-bio-942/"
+  },
+  {
+    "name": "Alessandra Bera",
+    "country": "Piemonte",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/alessandra-bera"
   },
   {
     "name": "Alessandro Viola",
@@ -35,11 +70,32 @@
     "url": "https://vinnatur.se/bonde/alessandro-viola/"
   },
   {
+    "name": "Alex Foillard",
+    "country": "Beaujolais",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/alex-foillard"
+  },
+  {
     "name": "Alexandre Jouveaux",
     "country": "Frankrike",
     "region": "Bourgogne",
     "source": "vinnatur.se",
     "url": "https://vinnatur.se/bonde/alexandre-jouveaux/"
+  },
+  {
+    "name": "Alice et Olivier De Moor",
+    "country": "France",
+    "region": "Burgundy",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/alice%20et%20olivier%20de%20moor"
+  },
+  {
+    "name": "Altura",
+    "country": "Italy",
+    "region": "Tuscany",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/altura"
   },
   {
     "name": "Amaury Beaufort",
@@ -63,6 +119,13 @@
     "url": "https://vinnatur.se/bonde/anders-frederik-steen/"
   },
   {
+    "name": "Andrea Bragagni",
+    "country": "Italy",
+    "region": "Emilia-Romagna",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/andrea%20bragagni"
+  },
+  {
     "name": "Andreas Mann",
     "country": null,
     "region": "Rheinhessen",
@@ -77,11 +140,39 @@
     "url": "https://vinnatur.se/bonde/andrea-calek/"
   },
   {
+    "name": "Antica Az. Agr. Trinchero",
+    "country": "Piemonte",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/antica-az-agr-trinchero"
+  },
+  {
+    "name": "Apolinaire",
+    "country": "Skåne",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/apolinaire"
+  },
+  {
+    "name": "Arianna Occhipinti",
+    "country": "Italy",
+    "region": "Sicily",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/arianna%20occhipinti"
+  },
+  {
     "name": "Arnaud & Malou Greiner",
     "country": "Frankrike",
     "region": "Jura",
     "source": "vinnatur.se",
     "url": "https://vinnatur.se/bonde/arnaud-greiner/"
+  },
+  {
+    "name": "Arnaud Combier",
+    "country": "Bourgogne",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/arnaud-combier"
   },
   {
     "name": "Aurélien Lefort",
@@ -96,6 +187,13 @@
     "region": "Champagne",
     "source": "vinnatur.se",
     "url": "https://vinnatur.se/bonde/aurelien-lurquin/"
+  },
+  {
+    "name": "Az. Agr. Ajola",
+    "country": "Lazio",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/az-agr-ajola"
   },
   {
     "name": "Azimut",
@@ -140,6 +238,20 @@
     "url": "https://gladvin.dk/bichi-wines-tecate-418/"
   },
   {
+    "name": "Bruno Duchêne",
+    "country": "France",
+    "region": "Roussillon",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/bruno%20duchêne"
+  },
+  {
+    "name": "Bruno Dûchene",
+    "country": "Roussillon",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/bruno-duchene"
+  },
+  {
     "name": "Bruno Rochard / Mirebeau",
     "country": null,
     "region": "Anjou",
@@ -152,6 +264,13 @@
     "region": "Rheinhessen",
     "source": "gladvin.dk",
     "url": "https://gladvin.dk/bruuder-dr-becker-rheinhessen-231/"
+  },
+  {
+    "name": "Buronfosse",
+    "country": "Jura",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/buronfosse"
   },
   {
     "name": "Bénédicte & Stéphane Tissot",
@@ -168,11 +287,32 @@
     "url": "https://vinnatur.se/bonde/bereche-et-fils/"
   },
   {
+    "name": "C.O.S.",
+    "country": "Sicilien",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/c-o-s"
+  },
+  {
     "name": "Cacique Maravilla",
     "country": null,
     "region": "Valle Bio Bio",
     "source": "gladvin.dk",
     "url": "https://gladvin.dk/cacique-maravilla-valle-bio-bio-940/"
+  },
+  {
+    "name": "Calabretta",
+    "country": "Sicilien",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/calabretta"
+  },
+  {
+    "name": "Calvez Bobinet",
+    "country": "Loire",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/calvez-bobinet"
   },
   {
     "name": "Camille & Mathieu Apffel",
@@ -182,6 +322,20 @@
     "url": "https://vinnatur.se/bonde/mathieu-apffel/"
   },
   {
+    "name": "Camille et Mathieu Apffel",
+    "country": "France",
+    "region": "Savoie",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/camille%20et%20mathieu%20apffel"
+  },
+  {
+    "name": "Camillo Donati",
+    "country": "Italy",
+    "region": "Emilia-Romagna",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/camillo%20donati"
+  },
+  {
     "name": "Canlibero",
     "country": null,
     "region": "Campania",
@@ -189,11 +343,32 @@
     "url": "https://gladvin.dk/canlibero-campania-302/"
   },
   {
+    "name": "Cantina Giardino",
+    "country": "Italy",
+    "region": "Campania",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/cantina%20giardino"
+  },
+  {
+    "name": "Cappellano",
+    "country": "Piemonte",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/cappellano"
+  },
+  {
     "name": "Carussin",
     "country": "Italien",
     "region": "Piemonte",
     "source": "vinnatur.se",
     "url": "https://vinnatur.se/bonde/carussin/"
+  },
+  {
+    "name": "Casa Coste Piane",
+    "country": "Italy",
+    "region": "Veneto",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/casa%20coste%20piane"
   },
   {
     "name": "Casa de Mouraz",
@@ -217,6 +392,13 @@
     "url": "https://vinnatur.se/bonde/cascina-tavijn/"
   },
   {
+    "name": "Cascina `Tavijn",
+    "country": "Italy",
+    "region": "Piemonte",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/cascina%20`tavijn"
+  },
+  {
     "name": "Cascina degli Ulivi",
     "country": null,
     "region": "Piemonte",
@@ -236,6 +418,13 @@
     "region": "Roussillon",
     "source": "vinnatur.se",
     "url": "https://vinnatur.se/bonde/casot-des-mailloles/"
+  },
+  {
+    "name": "Castello Conti",
+    "country": "Piemonte",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/castello-conti"
   },
   {
     "name": "Catherine & Philippe Jambon",
@@ -308,6 +497,13 @@
     "url": "https://vinnatur.se/bonde/champagne-la-parcelle/"
   },
   {
+    "name": "Champagne Larmandier-Bernier",
+    "country": "Champagne",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/champagne-larmandier-bernier"
+  },
+  {
     "name": "Champagne Legrand-Latour",
     "country": "Frankrike",
     "region": "Champagne",
@@ -322,11 +518,32 @@
     "url": "https://gladvin.dk/champagne-romain-thomas-hnin-1230/"
   },
   {
+    "name": "Champagne Tarlant",
+    "country": "France",
+    "region": "Champagne",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/champagne%20tarlant"
+  },
+  {
+    "name": "Champagne Vadin-Plateau",
+    "country": "Champagne",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/champagne-vadin-plateau"
+  },
+  {
     "name": "CheKura",
     "country": null,
     "region": "Valle del Itata",
     "source": "gladvin.dk",
     "url": "https://gladvin.dk/chekura-valle-del-itata-560/"
+  },
+  {
+    "name": "Chinati Vergano",
+    "country": "Italy",
+    "region": "Piemonte",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/chinati%20vergano"
   },
   {
     "name": "Chinon og Bourgeuil",
@@ -343,6 +560,20 @@
     "url": "https://vinnatur.se/bonde/christian-ducroux/"
   },
   {
+    "name": "Château Combel la Serre",
+    "country": "France",
+    "region": "Cahors",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/château%20combel%20la%20serre"
+  },
+  {
+    "name": "Château d'Oupia",
+    "country": "France",
+    "region": "Languedoc",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/château%20d'oupia"
+  },
+  {
     "name": "Château de Béru",
     "country": "Frankrike",
     "region": "Bourgogne",
@@ -355,6 +586,13 @@
     "region": "Anjou",
     "source": "gladvin.dk",
     "url": "https://gladvin.dk/chteau-de-passavant-anjou-loire-306/"
+  },
+  {
+    "name": "Château d’Arlay",
+    "country": "Jura",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/chateau-d-arlay"
   },
   {
     "name": "Cinque Campi",
@@ -371,11 +609,32 @@
     "url": "https://vinnatur.se/bonde/claire-florent-bejon/"
   },
   {
+    "name": "Claire et Florent Bejon",
+    "country": "France",
+    "region": "Loire",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/claire%20et%20florent%20bejon"
+  },
+  {
     "name": "Claude Buchot",
     "country": "Frankrike",
     "region": "Jura",
     "source": "vinnatur.se",
     "url": "https://vinnatur.se/bonde/claudebuchot/"
+  },
+  {
+    "name": "Clemens Busch",
+    "country": "Germany",
+    "region": "Mosel",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/clemens%20busch"
+  },
+  {
+    "name": "Clos de la Roilette",
+    "country": "France",
+    "region": "Beaujolais",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/clos%20de%20la%20roilette"
   },
   {
     "name": "Clos du Tue-Boeuf",
@@ -392,11 +651,39 @@
     "url": "https://gladvin.dk/clos-lentiscus-manel-joan-avio-peneds-305/"
   },
   {
+    "name": "Clos Roche Blanche",
+    "country": "France",
+    "region": "Loire",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/clos%20roche%20blanche"
+  },
+  {
+    "name": "Closerie Saint Roc",
+    "country": "Bordeaux",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/closerie-saint-roc"
+  },
+  {
     "name": "Collecapretta",
     "country": "Italien",
     "region": "Umbrien",
     "source": "vinnatur.se",
     "url": "https://vinnatur.se/bonde/collecapretta/"
+  },
+  {
+    "name": "Colvert",
+    "country": "France",
+    "region": "Provence",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/colvert"
+  },
+  {
+    "name": "Comando G",
+    "country": "Sierra de Gredos",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/comando-g"
   },
   {
     "name": "Commune of Buttons",
@@ -413,11 +700,39 @@
     "url": "https://vinnatur.se/bonde/corentin-houillon/"
   },
   {
+    "name": "Craig Hawkins",
+    "country": "Testalonga / El Bandito",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/craig-hawkins"
+  },
+  {
+    "name": "Create account",
+    "country": null,
+    "region": null,
+    "source": "winetrade.se",
+    "url": "https://shopify.com/98697052485/account?locale=en"
+  },
+  {
+    "name": "Croci Tenuta Vitivinicola",
+    "country": "Italy",
+    "region": "Emilia-Romagna",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/croci%20tenuta%20vitivinicola"
+  },
+  {
     "name": "Cueva by Mariano",
     "country": null,
     "region": "Valencia",
     "source": "gladvin.dk",
     "url": "https://gladvin.dk/cueva-by-mariano-valencia-343/"
+  },
+  {
+    "name": "Cà de Noci",
+    "country": "Italy",
+    "region": "Emilia-Romagna",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/cà%20de%20noci"
   },
   {
     "name": "Damien Bastian - Ça Boit Libre",
@@ -434,6 +749,27 @@
     "url": "https://gladvin.dk/damien-laureau-1221/"
   },
   {
+    "name": "Danila Pisano",
+    "country": "Italy",
+    "region": "Liguria",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/danila%20pisano"
+  },
+  {
+    "name": "Dard & Ribo",
+    "country": "France",
+    "region": "Rhône",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/dard%20&%20ribo"
+  },
+  {
+    "name": "Dario Princic",
+    "country": "Collio",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/dario-princic"
+  },
+  {
     "name": "Denavolo",
     "country": null,
     "region": "Emiglia Romagna",
@@ -446,6 +782,48 @@
     "region": "Bourgogne",
     "source": "vinnatur.se",
     "url": "https://vinnatur.se/bonde/domaine-alice-olivier-de-moor/"
+  },
+  {
+    "name": "Domaine aux Moines",
+    "country": "Loire",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/domaine-aux-moines"
+  },
+  {
+    "name": "Domaine Bernard Baudry",
+    "country": "France",
+    "region": "Loire",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/domaine%20bernard%20baudry"
+  },
+  {
+    "name": "Domaine Carterole",
+    "country": "France",
+    "region": "Roussillon",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/domaine%20carterole"
+  },
+  {
+    "name": "Domaine Chamonard",
+    "country": "France",
+    "region": "Beaujolais",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/domaine%20chamonard"
+  },
+  {
+    "name": "Domaine de Bellivière",
+    "country": "France",
+    "region": "Loire",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/domaine%20de%20bellivière"
+  },
+  {
+    "name": "Domaine de Bongran",
+    "country": "France",
+    "region": "Burgundy",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/domaine%20de%20bongran"
   },
   {
     "name": "Domaine de Dernacueillette",
@@ -462,11 +840,25 @@
     "url": "https://vinnatur.se/bonde/domaine-de-kalathas/"
   },
   {
+    "name": "Domaine de L'Oubliée",
+    "country": "France",
+    "region": "Loire",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/domaine%20de%20l'oubliée"
+  },
+  {
     "name": "Domaine de l'Écu",
     "country": null,
     "region": "Muscadet",
     "source": "gladvin.dk",
     "url": "https://gladvin.dk/domaine-de-lcu-muscadet-1207/"
+  },
+  {
+    "name": "Domaine de la Borde",
+    "country": "Jura",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/domaine-de-la-borde"
   },
   {
     "name": "Domaine de la Grand'Cour",
@@ -476,6 +868,13 @@
     "url": "https://vinnatur.se/bonde/domaine-de-la-grand-cour/"
   },
   {
+    "name": "Domaine de la Grange des Pères",
+    "country": "Languedoc",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/domaine-de-la-grange-des-peres"
+  },
+  {
     "name": "Domaine de la Loue",
     "country": "Frankrike",
     "region": "Jura",
@@ -483,11 +882,39 @@
     "url": "https://vinnatur.se/bonde/domaine-de-la-loue/"
   },
   {
+    "name": "Domaine de la Pépière",
+    "country": "France",
+    "region": "Loire",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/domaine%20de%20la%20pépière"
+  },
+  {
+    "name": "Domaine de Majas",
+    "country": "France",
+    "region": "Roussillon",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/domaine%20de%20majas"
+  },
+  {
     "name": "Domaine de Rancy",
     "country": "Frankrike",
     "region": "Roussillon",
     "source": "vinnatur.se",
     "url": "https://vinnatur.se/bonde/domaine-de-rancy/"
+  },
+  {
+    "name": "Domaine de Roally",
+    "country": "France",
+    "region": "Burgundy",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/domaine%20de%20roally"
+  },
+  {
+    "name": "Domaine de Trévallon",
+    "country": "Provence",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/domaine-de-trevallon"
   },
   {
     "name": "Domaine Derain",
@@ -518,6 +945,13 @@
     "url": "https://vinnatur.se/bonde/domaine-des-miroirs/"
   },
   {
+    "name": "Domaine des Terres Dorées",
+    "country": "France",
+    "region": "Beaujolais",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/domaine%20des%20terres%20dorées"
+  },
+  {
     "name": "Domaine des Trouillères",
     "country": "Frankrike",
     "region": "Auvergne",
@@ -532,6 +966,27 @@
     "url": "https://vinnatur.se/bonde/domaine-didon/"
   },
   {
+    "name": "Domaine du Closel",
+    "country": "France",
+    "region": "Loire",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/domaine%20du%20closel"
+  },
+  {
+    "name": "Domaine du Possible",
+    "country": "France",
+    "region": "Roussillon",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/domaine%20du%20possible"
+  },
+  {
+    "name": "Domaine Filliatreau",
+    "country": "France",
+    "region": "Loire",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/domaine%20filliatreau"
+  },
+  {
     "name": "Domaine Giachino",
     "country": "Frankrike",
     "region": "Savoie",
@@ -539,11 +994,32 @@
     "url": "https://vinnatur.se/bonde/domaine-giachino/"
   },
   {
+    "name": "Domaine Girard",
+    "country": "France",
+    "region": "Loire",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/domaine%20girard"
+  },
+  {
+    "name": "Domaine Grand Pré",
+    "country": "Beaujolais",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/domaine-grand-pre"
+  },
+  {
     "name": "Domaine Houillon",
     "country": "Frankrike",
     "region": "Rhône",
     "source": "vinnatur.se",
     "url": "https://vinnatur.se/bonde/domaine-houillon/"
+  },
+  {
+    "name": "Domaine Jean Foillard",
+    "country": "Beaujolais",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/domaine-jean-foillard"
   },
   {
     "name": "Domaine la Bohème",
@@ -560,11 +1036,74 @@
     "url": "https://vinnatur.se/bonde/domaine-labet/"
   },
   {
+    "name": "Domaine le Briseau/Nana, Vins et Cie",
+    "country": "France",
+    "region": "Loire",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/domaine%20le%20briseau|nana,%20vins%20et%20cie"
+  },
+  {
+    "name": "Domaine Louis-Claude Desvignes",
+    "country": "France",
+    "region": "Beaujolais",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/domaine%20louis-claude%20desvignes"
+  },
+  {
+    "name": "Domaine Luneau-Papin",
+    "country": "Loire",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/domaine-luneau-papin"
+  },
+  {
+    "name": "Domaine Marcel Lapierre",
+    "country": "Beaujolais",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/domaine-marcel-lapierre"
+  },
+  {
     "name": "Domaine Mirebeau",
     "country": "Anjou",
     "region": "Bruno Rochard",
     "source": "gladvin.dk",
     "url": "https://gladvin.dk/domaine-mirebeau-bruno-rochard-anjou-436/"
+  },
+  {
+    "name": "Domaine Olga Raffault",
+    "country": "France",
+    "region": "Loire",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/domaine%20olga%20raffault"
+  },
+  {
+    "name": "Domaine Pattes Loup",
+    "country": "Bourgogne",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/domaine-pattes-loup"
+  },
+  {
+    "name": "Domaine Pierre Morey",
+    "country": "Bourgogne",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/domaine-pierre-morey"
+  },
+  {
+    "name": "Domaine Prieuré Roch",
+    "country": "Bourgogne",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/domaine-prieure-roch"
+  },
+  {
+    "name": "Domaine Puech Redon",
+    "country": "France",
+    "region": "Languedoc",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/domaine%20puech%20redon"
   },
   {
     "name": "Domaine Rietsch",
@@ -595,11 +1134,39 @@
     "url": "https://gladvin.dk/domaines-landron-muscadet-1209/"
   },
   {
+    "name": "Dominó",
+    "country": "Portugal",
+    "region": "Lisbon",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/dominó"
+  },
+  {
+    "name": "Eduardo Torres Acosta",
+    "country": "Italy",
+    "region": "Sicily",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/eduardo%20torres%20acosta"
+  },
+  {
+    "name": "El Maestro Sierra",
+    "country": "Jerez",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/el-maestro-sierra"
+  },
+  {
     "name": "El Regreso",
     "country": null,
     "region": "Los Marcos-Utiel",
     "source": "gladvin.dk",
     "url": "https://gladvin.dk/el-regreso-los-marcos-utiel-1165/"
+  },
+  {
+    "name": "Elodie Balme",
+    "country": "France",
+    "region": "Rhône",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/elodie%20balme"
   },
   {
     "name": "Els Jelipins",
@@ -623,6 +1190,13 @@
     "url": "https://vinnatur.se/bonde/emilien-feneuil/"
   },
   {
+    "name": "Emilio Hidalgo",
+    "country": "Jerez",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/emilio-hidalgo"
+  },
+  {
     "name": "Emmanuel Brochet",
     "country": "Frankrike",
     "region": "Champagne",
@@ -630,11 +1204,39 @@
     "url": "https://vinnatur.se/bonde/emmanuel-brochet/"
   },
   {
+    "name": "Emmanuel Houillon/Maison Pierre Overnoy",
+    "country": "France",
+    "region": "Jura",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/emmanuel%20houillon|maison%20pierre%20overnoy"
+  },
+  {
+    "name": "Envínate",
+    "country": "Ribiera Sacra",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/envinate"
+  },
+  {
     "name": "Eric Bordelet",
     "country": null,
     "region": "Normandie",
     "source": "gladvin.dk",
     "url": "https://gladvin.dk/eric-bordelet-normandie-870/"
+  },
+  {
+    "name": "Eric Narioo med flera",
+    "country": "Terroir Projects",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/eric-narioo-med-flera"
+  },
+  {
+    "name": "Eric Texier",
+    "country": "France",
+    "region": "Rhône",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/eric%20texier"
   },
   {
     "name": "Escala Humana",
@@ -672,6 +1274,13 @@
     "url": "https://vinnatur.se/bonde/etienne-seignovert/"
   },
   {
+    "name": "Etnella",
+    "country": "Sicilien",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/etnella"
+  },
+  {
     "name": "Ezio Cerruti",
     "country": "Italien",
     "region": "Piemonte",
@@ -679,11 +1288,67 @@
     "url": "https://vinnatur.se/bonde/ezio-cerutti/"
   },
   {
+    "name": "Fabbrica di San Martino",
+    "country": "Italy",
+    "region": "Tuscany",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/fabbrica%20di%20san%20martino"
+  },
+  {
+    "name": "Fabio Gea",
+    "country": "Italy",
+    "region": "Piemonte",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/fabio%20gea"
+  },
+  {
     "name": "Famille Dutraive",
     "country": "Frankrike",
     "region": "Beaujolais",
     "source": "vinnatur.se",
     "url": "https://vinnatur.se/bonde/famille-dutraive/"
+  },
+  {
+    "name": "Fanny Sabre",
+    "country": "Bourgogne",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/fanny-sabre"
+  },
+  {
+    "name": "Fattoria Mani di Luna",
+    "country": "Italy",
+    "region": "Umbria",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/fattoria%20mani%20di%20luna"
+  },
+  {
+    "name": "Fattorie Romeo del Castello",
+    "country": "Italy",
+    "region": "Sicily",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/fattorie%20romeo%20del%20castello"
+  },
+  {
+    "name": "Fedellos do Couto",
+    "country": "Ribiera Sacra",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/fedellos-do-couto"
+  },
+  {
+    "name": "Federico Orsi/Vigneto San Vito",
+    "country": "Italy",
+    "region": "Emilia-Romagna",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/federico%20orsi|vigneto%20san%20vito"
+  },
+  {
+    "name": "Ferme de la Sansonnière",
+    "country": "France",
+    "region": "Loire",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/ferme%20de%20la%20sansonnière"
   },
   {
     "name": "Ferme de Porte Coustic",
@@ -700,11 +1365,39 @@
     "url": "https://gladvin.dk/fernando-angulo-jerez-807/"
   },
   {
+    "name": "Filippa Pato",
+    "country": "Bairrada",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/filippa-pato"
+  },
+  {
     "name": "Finca Las Payas",
     "country": null,
     "region": "Mendoza",
     "source": "gladvin.dk",
     "url": "https://gladvin.dk/finca-las-payas-mendoza-576/"
+  },
+  {
+    "name": "Fongoli",
+    "country": "Italy",
+    "region": "Umbria",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/fongoli"
+  },
+  {
+    "name": "Fonterenza",
+    "country": "Italy",
+    "region": "Tuscany",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/fonterenza"
+  },
+  {
+    "name": "Foradori",
+    "country": "Italy",
+    "region": "Trentino-Alto Adige/Südtirol",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/foradori"
   },
   {
     "name": "Force Boisson - Daniel Sage & Jordi Torgue",
@@ -714,11 +1407,53 @@
     "url": "https://vinnatur.se/bonde/daniel-sage/"
   },
   {
+    "name": "Forjas del Salnés",
+    "country": "Rías Baixas",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/forjas-del-salnes"
+  },
+  {
+    "name": "Francis Boulard et Fille",
+    "country": "France",
+    "region": "Champagne",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/francis%20boulard%20et%20fille"
+  },
+  {
+    "name": "Franck Peillot",
+    "country": "France",
+    "region": "Bugey",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/franck%20peillot"
+  },
+  {
+    "name": "Franco Noussan",
+    "country": "Italy",
+    "region": "Valle D’Aosta",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/franco%20noussan"
+  },
+  {
     "name": "Frank Cornelissen",
     "country": "Italien",
     "region": "Sicilien",
     "source": "vinnatur.se",
     "url": "https://vinnatur.se/bonde/frank-cornelissen/"
+  },
+  {
+    "name": "François Cazin",
+    "country": "France",
+    "region": "Loire",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/françois%20cazin"
+  },
+  {
+    "name": "François et Julien Pinon",
+    "country": "France",
+    "region": "Loire",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/françois%20et%20julien%20pinon"
   },
   {
     "name": "François Rousset-Martin",
@@ -733,6 +1468,48 @@
     "region": "Valle de Uco",
     "source": "gladvin.dk",
     "url": "https://gladvin.dk/gabriel-dvoskin-valle-de-uco-799/"
+  },
+  {
+    "name": "Galactic Wines",
+    "country": "Portugal",
+    "region": "Minho",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/galactic%20wines"
+  },
+  {
+    "name": "Gazzetta",
+    "country": "Lazio",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/gazzetta"
+  },
+  {
+    "name": "Georges Descombes",
+    "country": "France",
+    "region": "Beaujolais",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/georges%20descombes"
+  },
+  {
+    "name": "Geremi",
+    "country": "Italy",
+    "region": "Lazio",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/geremi"
+  },
+  {
+    "name": "Giovanni Canonica",
+    "country": "Italy",
+    "region": "Piemonte",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/giovanni%20canonica"
+  },
+  {
+    "name": "Giuseppe Cipolla",
+    "country": "Italy",
+    "region": "Sicily",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/giuseppe%20cipolla"
   },
   {
     "name": "Gonzalez Bastías",
@@ -777,6 +1554,13 @@
     "url": "https://vinnatur.se/bonde/henri-chauvet/"
   },
   {
+    "name": "Hervé Souhaut",
+    "country": "Rhône / Ardèche",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/herve-souhaut"
+  },
+  {
     "name": "Hervé Villemade",
     "country": "Frankrike",
     "region": "Loire",
@@ -791,11 +1575,25 @@
     "url": "https://vinnatur.se/bonde/hors-champs/"
   },
   {
+    "name": "Humus",
+    "country": "Portugal",
+    "region": "Lisbon",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/humus"
+  },
+  {
     "name": "I Vini di Giovanni",
     "country": "Italien",
     "region": "Umbrien",
     "source": "vinnatur.se",
     "url": "https://vinnatur.se/bonde/i-vini-di-giovanni/"
+  },
+  {
+    "name": "Immich-Batterieberg",
+    "country": "Germany",
+    "region": "Mosel",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/immich-batterieberg"
   },
   {
     "name": "Ishi no Kanbase",
@@ -826,6 +1624,27 @@
     "url": "https://vinnatur.se/bonde/jean-ginglinger-et-fils/"
   },
   {
+    "name": "Jean Manciat",
+    "country": "France",
+    "region": "Burgundy",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/jean%20manciat"
+  },
+  {
+    "name": "Jean Maupertuis",
+    "country": "France",
+    "region": "Auvergne",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/jean%20maupertuis"
+  },
+  {
+    "name": "Jean-Christophe Garnier",
+    "country": "France",
+    "region": "Loire",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/jean-christophe%20garnier"
+  },
+  {
     "name": "Jean-Marie Berrux",
     "country": "Frankrike",
     "region": "Bourgogne",
@@ -840,11 +1659,25 @@
     "url": "https://gladvin.dk/jon-goenaga-getariaka-txakolina-1069/"
   },
   {
+    "name": "Josep i Pau",
+    "country": "Katalonien",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/josep-i-pau"
+  },
+  {
     "name": "Josgrop",
     "country": "Skandinavien",
     "region": "Cider",
     "source": "vinnatur.se",
     "url": "https://vinnatur.se/bonde/vin-natur/"
+  },
+  {
+    "name": "Joy Kull/La Villana",
+    "country": "Italy",
+    "region": "Lazio",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/joy%20kull|la%20villana"
   },
   {
     "name": "Julie Balagny",
@@ -859,6 +1692,27 @@
     "region": "Loire",
     "source": "vinnatur.se",
     "url": "https://vinnatur.se/bonde/le-clos-de-la-bruyere/"
+  },
+  {
+    "name": "Julien Frémont",
+    "country": "France",
+    "region": "Normandy",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/julien%20frémont"
+  },
+  {
+    "name": "Julien Pineau",
+    "country": "France",
+    "region": "Loire",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/julien%20pineau"
+  },
+  {
+    "name": "Julien Renard",
+    "country": "Mosel",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/julien-renard"
   },
   {
     "name": "Justin Dutraive",
@@ -889,6 +1743,55 @@
     "url": "https://gladvin.dk/karl-scnhabel-steiermark-ousterreich-281/"
   },
   {
+    "name": "Kewin Descombes",
+    "country": "France",
+    "region": "Beaujolais",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/kewin%20descombes"
+  },
+  {
+    "name": "Királyudvar",
+    "country": "Tokaj",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/kiralyudvar"
+  },
+  {
+    "name": "Knebelbrüder",
+    "country": "Mosel",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/knebelbruder"
+  },
+  {
+    "name": "Koehler-Ruprecht",
+    "country": "Germany",
+    "region": "Pfalz",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/koehler-ruprecht"
+  },
+  {
+    "name": "L'Acino",
+    "country": "Italy",
+    "region": "Calabria",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/l'acino"
+  },
+  {
+    "name": "La Biancara - Angiolino Maule",
+    "country": "Italy",
+    "region": "Veneto",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/la%20biancara%20-%20angiolino%20maule"
+  },
+  {
+    "name": "La Biancara di Angiolino Maule",
+    "country": "Veneto",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/la-biancara-di-angiolino-maule"
+  },
+  {
     "name": "La Cadette",
     "country": "Frankrike",
     "region": "Bourgogne",
@@ -903,11 +1806,25 @@
     "url": "https://vinnatur.se/bonde/la-coulee-dambrosia/"
   },
   {
+    "name": "La Distesa",
+    "country": "Italy",
+    "region": "Marche",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/la%20distesa"
+  },
+  {
     "name": "La Furtiva",
     "country": null,
     "region": "Terra Alta",
     "source": "gladvin.dk",
     "url": "https://gladvin.dk/la-furtiva-terra-alta-1006/"
+  },
+  {
+    "name": "La Gazzetta",
+    "country": "Italy",
+    "region": "Lazio",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/la%20gazzetta"
   },
   {
     "name": "La Grande Colline",
@@ -929,6 +1846,13 @@
     "region": "Loire",
     "source": "vinnatur.se",
     "url": "https://vinnatur.se/bonde/la-grange-aux-belles/"
+  },
+  {
+    "name": "La Grange Tiphane",
+    "country": "Loire",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/la-grange-tiphane"
   },
   {
     "name": "La Grapperie",
@@ -1006,6 +1930,20 @@
     "region": "Sicilien",
     "source": "vinnatur.se",
     "url": "https://vinnatur.se/bonde/lamoresca/"
+  },
+  {
+    "name": "Las Vedras",
+    "country": "Portugal",
+    "region": "Lisbon",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/las%20vedras"
+  },
+  {
+    "name": "Laurent Barth",
+    "country": "France",
+    "region": "Alsace",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/laurent%20barth"
   },
   {
     "name": "Le Coste",
@@ -1099,6 +2037,34 @@
     "url": "https://vinnatur.se/bonde/jeanpierre_robinot/"
   },
   {
+    "name": "Les Ânes Ailés",
+    "country": "France",
+    "region": "Roussillon",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/les%20Ânes%20ailés"
+  },
+  {
+    "name": "Louis-Antoine Luyt",
+    "country": "Chile",
+    "region": "Maule Valley",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/louis-antoine%20luyt"
+  },
+  {
+    "name": "Louis/Dressner Selections",
+    "country": "France",
+    "region": "New York City",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/louis|dressner%20selections"
+  },
+  {
+    "name": "Luciano Saetti",
+    "country": "Italy",
+    "region": "Emilia-Romagna",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/luciano%20saetti"
+  },
+  {
     "name": "Léo Dirringer",
     "country": "Frankrike",
     "region": "Alsace",
@@ -1169,6 +2135,13 @@
     "url": "https://gladvin.dk/manon-adelaide-hills-378/"
   },
   {
+    "name": "Marco De Bartoli",
+    "country": "Italy",
+    "region": "Sicily",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/marco%20de%20bartoli"
+  },
+  {
     "name": "Marga Marga",
     "country": null,
     "region": "Valle del Marga-Marga",
@@ -1181,6 +2154,13 @@
     "region": "Anjou",
     "source": "gladvin.dk",
     "url": "https://gladvin.dk/margot-natalia-anjou-1211/"
+  },
+  {
+    "name": "Maria Ernesta Berucci",
+    "country": "Italy",
+    "region": "Lazio",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/maria%20ernesta%20berucci"
   },
   {
     "name": "Marie & Olivier Horiot",
@@ -1197,6 +2177,13 @@
     "url": "https://vinnatur.se/bonde/marie-et-vincent-tricot/"
   },
   {
+    "name": "Marinho Vinhos",
+    "country": "Portugal",
+    "region": "Lisbon",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/marinho%20vinhos"
+  },
+  {
     "name": "Martin Wörner",
     "country": null,
     "region": "Rheinhessen",
@@ -1211,11 +2198,32 @@
     "url": "https://vinnatur.se/bonde/mas-coutelou/"
   },
   {
+    "name": "Mas des Chimères",
+    "country": "France",
+    "region": "Languedoc",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/mas%20des%20chimères"
+  },
+  {
     "name": "Massa Vecchia",
     "country": "Italien",
     "region": "Toscana",
     "source": "vinnatur.se",
     "url": "https://vinnatur.se/bonde/massa-vecchia/"
+  },
+  {
+    "name": "Matassa",
+    "country": "France",
+    "region": "Roussillon",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/matassa"
+  },
+  {
+    "name": "Mattia Carfagna",
+    "country": "France",
+    "region": "Auvergne",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/mattia%20carfagna"
   },
   {
     "name": "Mazière",
@@ -1274,6 +2282,20 @@
     "url": "https://vinnatur.se/bonde/montanet-thoden/"
   },
   {
+    "name": "Monte Dall'Ora",
+    "country": "Italy",
+    "region": "Veneto",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/monte%20dall'ora"
+  },
+  {
+    "name": "Montesecondo/Silvio Messana",
+    "country": "Italy",
+    "region": "Tuscany",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/montesecondo|silvio%20messana"
+  },
+  {
     "name": "Morgane Turlier",
     "country": "Frankrike",
     "region": "Jura",
@@ -1286,6 +2308,13 @@
     "region": "Granada",
     "source": "gladvin.dk",
     "url": "https://gladvin.dk/naranjuez-granada-296/"
+  },
+  {
+    "name": "Natalino del Prete",
+    "country": "Italy",
+    "region": "Puglia",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/natalino%20del%20prete"
   },
   {
     "name": "Nicolas Jacob",
@@ -1323,6 +2352,13 @@
     "url": "https://gladvin.dk/nuria-renom-peneds-805/"
   },
   {
+    "name": "Odilio Antoniotti",
+    "country": "Italy",
+    "region": "Piemonte",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/odilio%20antoniotti"
+  },
+  {
     "name": "Olek Bondonio",
     "country": "Italien",
     "region": "Piemonte",
@@ -1330,11 +2366,32 @@
     "url": "https://vinnatur.se/bonde/olek-bondonio/"
   },
   {
+    "name": "Olivier and Marie Horiot",
+    "country": "France",
+    "region": "Champagne",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/olivier%20and%20marie%20horiot"
+  },
+  {
     "name": "Olivier Cousin",
     "country": null,
     "region": "Anjou",
     "source": "gladvin.dk",
     "url": "https://gladvin.dk/olivier-cousin-anjou-1210/"
+  },
+  {
+    "name": "Olivier Lemasson - Les Vins Contés",
+    "country": "France",
+    "region": "Loire",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/olivier%20lemasson%20-%20les%20vins%20contés"
+  },
+  {
+    "name": "Ombretta Agricola",
+    "country": "Italy",
+    "region": "Veneto",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/ombretta%20agricola"
   },
   {
     "name": "Ophélie Dutraive",
@@ -1372,6 +2429,13 @@
     "url": "https://vinnatur.se/bonde/paolo-vodopivec/"
   },
   {
+    "name": "Paraiso Natural",
+    "country": "Portugal",
+    "region": "Minho",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/paraiso%20natural"
+  },
+  {
     "name": "Partida Creus",
     "country": null,
     "region": "Baix Penedés",
@@ -1391,6 +2455,27 @@
     "region": "Niagara",
     "source": "gladvin.dk",
     "url": "https://gladvin.dk/pearl-morissette-niagara-ontario-canada-353/"
+  },
+  {
+    "name": "Pedecastello",
+    "country": "Italy",
+    "region": "Veneto",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/pedecastello"
+  },
+  {
+    "name": "Peltier-Ravineau",
+    "country": "Loire",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/peltier-ravineau"
+  },
+  {
+    "name": "Perrini Organic",
+    "country": "Italy",
+    "region": "Puglia",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/perrini%20organic"
   },
   {
     "name": "Philippe Pibarot",
@@ -1421,6 +2506,20 @@
     "url": "https://vinnatur.se/bonde/pierre-beauger/"
   },
   {
+    "name": "Pierre-Olivier Bonhomme",
+    "country": "France",
+    "region": "Loire",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/pierre-olivier%20bonhomme"
+  },
+  {
+    "name": "Pisador",
+    "country": "Chile",
+    "region": "Maule Valley",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/pisador"
+  },
+  {
     "name": "Ploder-Rosenberg",
     "country": "Österreich",
     "region": "Vulkanland Steiermark",
@@ -1440,6 +2539,20 @@
     "region": "Emilia Romagna",
     "source": "gladvin.dk",
     "url": "https://gladvin.dk/podere-cipolla-emilia-romagna-390/"
+  },
+  {
+    "name": "Podere le Boncie",
+    "country": "Toskana",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/podere-le-boncie"
+  },
+  {
+    "name": "Poderi Sanguineto 1 & 2",
+    "country": "Italy",
+    "region": "Tuscany",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/poderi%20sanguineto%201%20&%202"
   },
   {
     "name": "Populis Wine",
@@ -1484,6 +2597,34 @@
     "url": "https://gladvin.dk/quinta-de-ermegeira-torres-vedras-portugal-715/"
   },
   {
+    "name": "Quinta do Infantado",
+    "country": "Portugal",
+    "region": "Douro",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/quinta%20do%20infantado"
+  },
+  {
+    "name": "Radikon",
+    "country": "Italy",
+    "region": "Friuli",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/radikon"
+  },
+  {
+    "name": "Raisin et l’Ange",
+    "country": "Rhône / Ardèche",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/raisin-et-l-ange"
+  },
+  {
+    "name": "Renardat-Fâche",
+    "country": "France",
+    "region": "Bugey",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/renardat-fâche"
+  },
+  {
     "name": "Renaud Bruyère & Adeline Houillon",
     "country": "Frankrike",
     "region": "Jura",
@@ -1496,6 +2637,13 @@
     "region": "Roussillon",
     "source": "vinnatur.se",
     "url": "https://vinnatur.se/bonde/pedres-blanques/"
+  },
+  {
+    "name": "Roagna",
+    "country": "Italy",
+    "region": "Piemonte",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/roagna"
   },
   {
     "name": "Roberto Henriquez",
@@ -1519,6 +2667,13 @@
     "url": "https://gladvin.dk/ruth-lewandowski-wines-sonoma-california-396/"
   },
   {
+    "name": "Salvo Foti-I Vigneri",
+    "country": "Italy",
+    "region": "Sicily",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/salvo%20foti-i%20vigneri"
+  },
+  {
     "name": "Sam Vinciullo",
     "country": "WA",
     "region": "Magaret River",
@@ -1533,6 +2688,13 @@
     "url": "https://gladvin.dk/samuel-prraga-mlaga-1130/"
   },
   {
+    "name": "Santuvario",
+    "country": "Italy",
+    "region": "Piemonte",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/santuvario"
+  },
+  {
     "name": "Sassara",
     "country": "Italien",
     "region": "Veneto",
@@ -1540,11 +2702,32 @@
     "url": "https://vinnatur.se/bonde/sassara/"
   },
   {
+    "name": "Schödl",
+    "country": "Weinviertel",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/schodl"
+  },
+  {
+    "name": "Sebastien Brunet",
+    "country": "Loire",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/sebastien-brunet"
+  },
+  {
     "name": "Sebastien Morin",
     "country": "Frankrike",
     "region": "Beaujolais",
     "source": "vinnatur.se",
     "url": "https://vinnatur.se/bonde/sebastien-morin/"
+  },
+  {
+    "name": "Serradinha",
+    "country": "Portugal",
+    "region": "Lisbon",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/serradinha"
   },
   {
     "name": "Serragghia",
@@ -1566,6 +2749,13 @@
     "region": "Valle Bio Bio",
     "source": "gladvin.dk",
     "url": "https://gladvin.dk/sin-patrones-valle-bio-bio-941/"
+  },
+  {
+    "name": "Skrea Backe Destilleri",
+    "country": "Falkenberg, Halland",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/skrea-backe-destilleri"
   },
   {
     "name": "Stefan Vetter",
@@ -1603,11 +2793,53 @@
     "url": "https://gladvin.dk/syd-og-vestfrankrig-languedoc-og-omegn-339/"
   },
   {
+    "name": "Sylvie Esmonin",
+    "country": "France",
+    "region": "Burgundy",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/sylvie%20esmonin"
+  },
+  {
+    "name": "Tanca Nica",
+    "country": "Italy",
+    "region": "Sicily",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/tanca%20nica"
+  },
+  {
+    "name": "Tchin Cheers/Barbara Lebled",
+    "country": "France",
+    "region": "Loire",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/tchin%20cheers|barbara%20lebled"
+  },
+  {
+    "name": "Teneriffa",
+    "country": "Jerez",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/teneriffa"
+  },
+  {
     "name": "Tenuta Fornace",
     "country": null,
     "region": "Lombardiet",
     "source": "gladvin.dk",
     "url": "https://gladvin.dk/tenuta-fornace-lombardiet-850/"
+  },
+  {
+    "name": "Teobaldo Rivella",
+    "country": "Piemonte",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/teobaldo-rivella"
+  },
+  {
+    "name": "Testalonga",
+    "country": "Italy",
+    "region": "Liguria",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/testalonga"
   },
   {
     "name": "Thomas Jacquin",
@@ -1629,6 +2861,20 @@
     "region": "Jura",
     "source": "vinnatur.se",
     "url": "https://vinnatur.se/bonde/thomas-popy/"
+  },
+  {
+    "name": "Thomas Puechavy",
+    "country": "France",
+    "region": "Loire",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/thomas%20puechavy"
+  },
+  {
+    "name": "Thomas-Labaille",
+    "country": "France",
+    "region": "Loire",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/thomas-labaille"
   },
   {
     "name": "Tipaume",
@@ -1659,6 +2905,34 @@
     "url": "https://gladvin.dk/tren-de-vida-los-marcos-utiel-1039/"
   },
   {
+    "name": "Turi Marino",
+    "country": "Italy",
+    "region": "Sicily",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/turi%20marino"
+  },
+  {
+    "name": "Tutti Frutti Ananas",
+    "country": "France",
+    "region": "Roussillon",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/tutti%20frutti%20ananas"
+  },
+  {
+    "name": "Ulysse Collin",
+    "country": "France",
+    "region": "Champagne",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/ulysse%20collin"
+  },
+  {
+    "name": "Vale da Capucha",
+    "country": "Torres Vedras",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/vale-da-capucha"
+  },
+  {
     "name": "Vin de La Gamba",
     "country": null,
     "region": "Rheinhessen",
@@ -1671,6 +2945,13 @@
     "region": "Bourgogne",
     "source": "vinnatur.se",
     "url": "https://vinnatur.se/bonde/vin-noe/"
+  },
+  {
+    "name": "Vinbönder",
+    "country": null,
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/pages/vinbonder"
   },
   {
     "name": "Vincent Wallard",
@@ -1687,11 +2968,46 @@
     "url": "https://vinnatur.se/bonde/vini-della-staffa/"
   },
   {
+    "name": "Vino di Anna",
+    "country": "Sicilien",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/vino-di-anna"
+  },
+  {
     "name": "Vino Sexto Elemento",
     "country": null,
     "region": "Valencia",
     "source": "gladvin.dk",
     "url": "https://gladvin.dk/vino-sexto-elemento-valencia-571/"
+  },
+  {
+    "name": "Vinyer de la Ruca",
+    "country": "France",
+    "region": "Roussillon",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/vinyer%20de%20la%20ruca"
+  },
+  {
+    "name": "Viticola Mentridana",
+    "country": "Sierra de Gredos",
+    "region": null,
+    "source": "winetrade.se",
+    "url": "/en/collections/viticola-mentridana"
+  },
+  {
+    "name": "Vittorio Bera & Figli",
+    "country": "Italy",
+    "region": "Piemonte",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/vittorio%20bera%20&%20figli"
+  },
+  {
+    "name": "Vittorio Graziano",
+    "country": "Italy",
+    "region": "Emilia-Romagna",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/vittorio%20graziano"
   },
   {
     "name": "Vouette & Sorbée",
@@ -1701,10 +3017,31 @@
     "url": "https://vinnatur.se/bonde/vouette-sorbee/"
   },
   {
+    "name": "Weingut Nusserhof",
+    "country": "Italy",
+    "region": "Trentino-Alto Adige/Südtirol",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/weingut%20nusserhof"
+  },
+  {
     "name": "Yannick Meckert",
     "country": "Frankrike",
     "region": "Alsace",
     "source": "vinnatur.se",
     "url": "https://vinnatur.se/bonde/yannick-meckert/"
+  },
+  {
+    "name": "Yannick Pelletier",
+    "country": "France",
+    "region": "Languedoc",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/yannick%20pelletier"
+  },
+  {
+    "name": "Čotar",
+    "country": "Slovenia",
+    "region": "Kras",
+    "source": "louisdressner.com",
+    "url": "https://louisdressner.com/producers/Čotar"
   }
 ]
