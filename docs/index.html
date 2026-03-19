@@ -302,6 +302,7 @@
   <div class="search-wrap">
     <input type="text" id="search" placeholder="Sök namn, producent, druva...">
   </div>
+  <div class="filters" id="type-filters"></div>
   <div class="filters" id="filters"></div>
   <select class="sort-select" id="sort">
     <option value="conf">Säkrast</option>
@@ -319,12 +320,14 @@
 const TOP_COUNTRIES = ['Frankrike','Italien','Spanien','Österrike','Tyskland','Portugal'];
 let wines = [];
 let activeCountry = null;
+let activeType = null;
 let query = '';
 let sort = 'conf';
 
 function getFiltered() {
   let list = wines;
   if (activeCountry) list = list.filter(w => w.country === activeCountry);
+  if (activeType) list = list.filter(w => w.cat === activeType);
   if (query) {
     const q = query.toLowerCase();
     list = list.filter(w =>
@@ -384,6 +387,30 @@ function render() {
   }).join('');
 }
 
+const WINE_TYPES = [
+  { key: 'Rött vin',        label: 'Rött' },
+  { key: 'Vitt vin',        label: 'Vitt' },
+  { key: 'Mousserande vin', label: 'Mousserande' },
+  { key: 'Rosévin',         label: 'Rosé' },
+  { key: 'Orangevin',       label: 'Orange' },
+];
+
+function buildTypeFilters() {
+  const wrap = document.getElementById('type-filters');
+  WINE_TYPES.forEach(({ key, label }) => {
+    const btn = document.createElement('button');
+    btn.className = 'filter-btn';
+    btn.textContent = label;
+    btn.onclick = () => {
+      activeType = activeType === key ? null : key;
+      wrap.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      if (activeType) btn.classList.add('active');
+      render();
+    };
+    wrap.appendChild(btn);
+  });
+}
+
 function buildFilters() {
   const wrap = document.getElementById('filters');
   TOP_COUNTRIES.forEach(c => {
@@ -404,13 +431,14 @@ document.getElementById('search').addEventListener('input', e => { query = e.tar
 document.getElementById('sort').addEventListener('change', e => { sort = e.target.value; render(); });
 
 // Fetch data from repo
-fetch('data/results.json')
+fetch('../data/results.json')
   .then(r => r.json())
   .then(data => {
     wines = data;
     const today = new Date().toLocaleDateString('sv-SE', {day:'numeric', month:'long', year:'numeric'});
     document.getElementById('header-meta').textContent =
       `${wines.length} europeiska naturviner i lager\nUppdaterat ${today}`;
+    buildTypeFilters();
     buildFilters();
     render();
   })
