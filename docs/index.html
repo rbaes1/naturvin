@@ -5,290 +5,118 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Naturvin på Systembolaget</title>
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&display=swap');
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+:root {
+  --bg: #f2ede4; --surface: #faf8f4; --border: #ddd6c9;
+  --text: #1c1916; --text-muted: #7c7469;
+  --accent: #2a4519; --accent-light: #4a7a30;
+}
+body { font-family: 'DM Sans', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+header {
+  max-width: 1400px; margin: 0 auto; padding: 3.5rem 2rem 2rem;
+  border-bottom: 1px solid var(--border); margin-bottom: 2rem;
+  display: flex; align-items: flex-end; justify-content: space-between;
+  gap: 2rem; flex-wrap: wrap;
+}
+h1 { font-family: 'DM Serif Display', serif; font-size: clamp(2.2rem, 5vw, 3.8rem); font-weight: 400; letter-spacing: -0.025em; line-height: 1; }
+h1 em { font-style: italic; color: var(--accent-light); }
+.header-meta { font-size: 0.8rem; color: var(--text-muted); font-weight: 300; line-height: 1.7; text-align: right; white-space: pre-line; }
+.controls {
+  max-width: 1400px; margin: 0 auto; padding: 0 2rem 1.5rem;
+  display: flex; gap: 0.75rem; flex-wrap: wrap; align-items: center;
+}
+.search-wrap { position: relative; flex: 1; min-width: 200px; max-width: 320px; }
+.search-wrap input {
+  width: 100%; padding: 0.55rem 1rem 0.55rem 2.4rem;
+  border: 1px solid var(--border); border-radius: 2rem;
+  background: var(--surface); font-family: inherit; font-size: 0.85rem;
+  color: var(--text); outline: none; transition: border-color 0.15s;
+}
+.search-wrap input:focus { border-color: var(--accent); }
+.search-wrap::before {
+  content: '⌕'; position: absolute; left: 0.8rem; top: 50%;
+  transform: translateY(-50%); color: var(--text-muted); font-size: 1rem; pointer-events: none;
+}
+.filters { display: flex; gap: 0.4rem; flex-wrap: wrap; }
+.filter-btn {
+  padding: 0.45rem 0.9rem; border: 1px solid var(--border); border-radius: 2rem;
+  background: var(--surface); font-family: inherit; font-size: 0.78rem;
+  cursor: pointer; color: var(--text-muted); transition: all 0.15s; white-space: nowrap;
+}
+.filter-btn:hover { border-color: var(--accent); color: var(--accent); }
+.filter-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
 
-  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+/* Store toggle button */
+.store-btn {
+  display: inline-flex; align-items: center; gap: 0.4rem;
+  padding: 0.45rem 0.9rem; border: 1px solid var(--border); border-radius: 2rem;
+  background: var(--surface); font-family: inherit; font-size: 0.78rem;
+  cursor: pointer; color: var(--text-muted); transition: all 0.15s; white-space: nowrap;
+}
+.store-btn:hover { border-color: var(--accent); color: var(--accent); }
+.store-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+.store-btn .dot {
+  width: 6px; height: 6px; border-radius: 50%;
+  background: var(--border); transition: background 0.15s; flex-shrink: 0;
+}
+.store-btn.active .dot { background: #8fdb6a; }
 
-  :root {
-    --bg: #f2ede4;
-    --surface: #faf8f4;
-    --border: #ddd6c9;
-    --text: #1c1916;
-    --text-muted: #7c7469;
-    --accent: #2a4519;
-    --accent-light: #4a7a30;
-  }
+select.sort-select {
+  padding: 0.45rem 0.9rem; border: 1px solid var(--border); border-radius: 2rem;
+  background: var(--surface); font-family: inherit; font-size: 0.78rem;
+  color: var(--text-muted); outline: none; cursor: pointer;
+}
+.count { margin-left: auto; font-size: 0.78rem; color: var(--text-muted); white-space: nowrap; }
+.grid {
+  max-width: 1400px; margin: 0 auto; padding: 0 2rem 5rem;
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 1.25rem;
+}
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: 3px; overflow: hidden; transition: box-shadow 0.2s, transform 0.2s; }
+.card:hover { box-shadow: 0 6px 28px rgba(0,0,0,0.09); transform: translateY(-2px); }
+.card a { text-decoration: none; color: inherit; display: flex; flex-direction: column; height: 100%; }
+.img-wrap {
+  background: #ede8de; height: 200px; display: flex; align-items: flex-end;
+  justify-content: center; padding: 1.5rem 2rem 0; position: relative;
+}
+.img-wrap img {
+  max-height: 180px; max-width: 75px; object-fit: contain;
+  filter: drop-shadow(0 4px 10px rgba(0,0,0,0.13));
+  transition: transform 0.3s ease; display: block;
+}
+.card:hover .img-wrap img { transform: scale(1.05) translateY(-3px); }
+.conf-pip { position: absolute; top: 0.7rem; right: 0.7rem; width: 7px; height: 7px; border-radius: 50%; }
+.pip-high { background: #4a7a30; }
+.pip-mid { background: #b8860b; }
+.badge {
+  position: absolute; top: 0.7rem; left: 0.7rem; font-size: 0.6rem; font-weight: 500;
+  padding: 0.18rem 0.45rem; border-radius: 2rem; letter-spacing: 0.05em; text-transform: uppercase;
+}
+.badge-eko { background: #dff0d8; color: #2a4519; }
+.badge-tilf { background: #f0e8d4; color: #7a5a14; }
 
-  body {
-    font-family: 'DM Sans', sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    min-height: 100vh;
-  }
+/* In-store stock indicator on card */
+.stock-bar {
+  display: flex; align-items: center; gap: 0.35rem;
+  padding: 0.35rem 1rem 0; font-size: 0.68rem; color: var(--accent-light); font-weight: 500;
+}
+.stock-bar .stock-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--accent-light); flex-shrink: 0; }
 
-  header {
-    max-width: 1400px;
-    margin: 0 auto;
-    padding: 3.5rem 2rem 2rem;
-    border-bottom: 1px solid var(--border);
-    margin-bottom: 2rem;
-    display: flex;
-    align-items: flex-end;
-    justify-content: space-between;
-    gap: 2rem;
-    flex-wrap: wrap;
-  }
-
-  h1 {
-    font-family: 'DM Serif Display', serif;
-    font-size: clamp(2.2rem, 5vw, 3.8rem);
-    font-weight: 400;
-    letter-spacing: -0.025em;
-    line-height: 1;
-  }
-
-  h1 em { font-style: italic; color: var(--accent-light); }
-
-  .header-meta {
-    font-size: 0.8rem;
-    color: var(--text-muted);
-    font-weight: 300;
-    line-height: 1.7;
-    text-align: right;
-    white-space: pre-line;
-  }
-
-  .controls {
-    max-width: 1400px;
-    margin: 0 auto;
-    padding: 0 2rem 1.5rem;
-    display: flex;
-    gap: 0.75rem;
-    flex-wrap: wrap;
-    align-items: center;
-  }
-
-  .search-wrap {
-    position: relative;
-    flex: 1;
-    min-width: 200px;
-    max-width: 320px;
-  }
-
-  .search-wrap input {
-    width: 100%;
-    padding: 0.55rem 1rem 0.55rem 2.4rem;
-    border: 1px solid var(--border);
-    border-radius: 2rem;
-    background: var(--surface);
-    font-family: inherit;
-    font-size: 0.85rem;
-    color: var(--text);
-    outline: none;
-    transition: border-color 0.15s;
-  }
-
-  .search-wrap input:focus { border-color: var(--accent); }
-  .search-wrap::before {
-    content: '⌕';
-    position: absolute;
-    left: 0.8rem;
-    top: 50%;
-    transform: translateY(-50%);
-    color: var(--text-muted);
-    font-size: 1rem;
-    pointer-events: none;
-  }
-
-  .filters { display: flex; gap: 0.4rem; flex-wrap: wrap; }
-
-  .filter-btn {
-    padding: 0.45rem 0.9rem;
-    border: 1px solid var(--border);
-    border-radius: 2rem;
-    background: var(--surface);
-    font-family: inherit;
-    font-size: 0.78rem;
-    cursor: pointer;
-    color: var(--text-muted);
-    transition: all 0.15s;
-    white-space: nowrap;
-  }
-
-  .filter-btn:hover { border-color: var(--accent); color: var(--accent); }
-  .filter-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
-
-  select.sort-select {
-    padding: 0.45rem 0.9rem;
-    border: 1px solid var(--border);
-    border-radius: 2rem;
-    background: var(--surface);
-    font-family: inherit;
-    font-size: 0.78rem;
-    color: var(--text-muted);
-    outline: none;
-    cursor: pointer;
-  }
-
-  .count {
-    margin-left: auto;
-    font-size: 0.78rem;
-    color: var(--text-muted);
-    white-space: nowrap;
-  }
-
-  .grid {
-    max-width: 1400px;
-    margin: 0 auto;
-    padding: 0 2rem 5rem;
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
-    gap: 1.25rem;
-  }
-
-  .card {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 3px;
-    overflow: hidden;
-    transition: box-shadow 0.2s, transform 0.2s;
-  }
-
-  .card:hover {
-    box-shadow: 0 6px 28px rgba(0,0,0,0.09);
-    transform: translateY(-2px);
-  }
-
-  .card a {
-    text-decoration: none;
-    color: inherit;
-    display: flex;
-    flex-direction: column;
-    height: 100%;
-  }
-
-  .img-wrap {
-    background: #ede8de;
-    height: 200px;
-    display: flex;
-    align-items: flex-end;
-    justify-content: center;
-    padding: 1.5rem 2rem 0;
-    position: relative;
-  }
-
-  .img-wrap img {
-    max-height: 180px;
-    max-width: 75px;
-    object-fit: contain;
-    filter: drop-shadow(0 4px 10px rgba(0,0,0,0.13));
-    transition: transform 0.3s ease;
-    display: block;
-  }
-
-  .card:hover .img-wrap img { transform: scale(1.05) translateY(-3px); }
-
-  .conf-pip {
-    position: absolute;
-    top: 0.7rem;
-    right: 0.7rem;
-    width: 7px;
-    height: 7px;
-    border-radius: 50%;
-  }
-  .pip-high { background: #4a7a30; }
-  .pip-mid  { background: #b8860b; }
-
-  .badge {
-    position: absolute;
-    top: 0.7rem;
-    left: 0.7rem;
-    font-size: 0.6rem;
-    font-weight: 500;
-    padding: 0.18rem 0.45rem;
-    border-radius: 2rem;
-    letter-spacing: 0.05em;
-    text-transform: uppercase;
-  }
-  .badge-eko  { background: #dff0d8; color: #2a4519; }
-  .badge-tilf { background: #f0e8d4; color: #7a5a14; }
-
-  .card-body {
-    padding: 0.9rem 1rem 1rem;
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-  }
-
-  .card-name {
-    font-family: 'DM Serif Display', serif;
-    font-size: 0.98rem;
-    line-height: 1.25;
-    font-weight: 400;
-  }
-
-  .card-sub {
-    font-size: 0.72rem;
-    color: var(--text-muted);
-    font-style: italic;
-    margin-top: 0.15rem;
-  }
-
-  .card-producer {
-    font-size: 0.72rem;
-    color: var(--text-muted);
-    margin-top: 0.3rem;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-
-  .card-footer {
-    margin-top: auto;
-    padding-top: 0.75rem;
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
-  }
-
-  .card-country {
-    font-size: 0.68rem;
-    color: var(--text-muted);
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-  }
-
-  .card-price {
-    font-size: 0.92rem;
-    font-weight: 500;
-  }
-
-  .loading {
-    grid-column: 1/-1;
-    text-align: center;
-    padding: 5rem 2rem;
-    color: var(--text-muted);
-    font-family: 'DM Serif Display', serif;
-    font-size: 1.2rem;
-    font-style: italic;
-  }
-
-  .empty {
-    grid-column: 1/-1;
-    text-align: center;
-    padding: 5rem 2rem;
-    color: var(--text-muted);
-    font-family: 'DM Serif Display', serif;
-    font-size: 1.2rem;
-    font-style: italic;
-  }
-
-  @media (max-width: 640px) {
-    header { padding: 2rem 1rem 1.5rem; }
-    .header-meta { text-align: left; }
-    .controls { padding: 0 1rem 1rem; }
-    .grid { grid-template-columns: repeat(2, 1fr); gap: 0.9rem; padding: 0 1rem 3rem; }
-  }
+.card-body { padding: 0.9rem 1rem 1rem; flex: 1; display: flex; flex-direction: column; }
+.card-name { font-family: 'DM Serif Display', serif; font-size: 0.98rem; line-height: 1.25; font-weight: 400; }
+.card-sub { font-size: 0.72rem; color: var(--text-muted); font-style: italic; margin-top: 0.15rem; }
+.card-producer { font-size: 0.72rem; color: var(--text-muted); margin-top: 0.3rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.card-footer { margin-top: auto; padding-top: 0.75rem; display: flex; justify-content: space-between; align-items: flex-end; }
+.card-country { font-size: 0.68rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.08em; }
+.card-price { font-size: 0.92rem; font-weight: 500; }
+.loading { grid-column: 1/-1; text-align: center; padding: 5rem 2rem; color: var(--text-muted); font-family: 'DM Serif Display', serif; font-size: 1.2rem; font-style: italic; }
+.empty { grid-column: 1/-1; text-align: center; padding: 5rem 2rem; color: var(--text-muted); font-family: 'DM Serif Display', serif; font-size: 1.2rem; font-style: italic; }
+@media (max-width: 640px) {
+  header { padding: 2rem 1rem 1.5rem; }
+  .header-meta { text-align: left; }
+  .controls { padding: 0 1rem 1rem; }
+  .grid { grid-template-columns: repeat(2, 1fr); gap: 0.9rem; padding: 0 1rem 3rem; }
+}
 </style>
 </head>
 <body>
@@ -304,6 +132,10 @@
   </div>
   <div class="filters" id="type-filters"></div>
   <div class="filters" id="filters"></div>
+  <button class="store-btn" id="store-btn" onclick="toggleStore()">
+    <span class="dot"></span>
+    PK-Huset
+  </button>
   <select class="sort-select" id="sort">
     <option value="conf">Säkrast</option>
     <option value="price-asc">Pris ↑</option>
@@ -323,9 +155,18 @@ let activeCountry = null;
 let activeType = null;
 let query = '';
 let sort = 'conf';
+let storeOnly = false;
+
+function toggleStore() {
+  storeOnly = !storeOnly;
+  const btn = document.getElementById('store-btn');
+  btn.classList.toggle('active', storeOnly);
+  render();
+}
 
 function getFiltered() {
   let list = wines;
+  if (storeOnly) list = list.filter(w => w.inStore === true);
   if (activeCountry) list = list.filter(w => w.country === activeCountry);
   if (activeType) list = list.filter(w => w.cat === activeType);
   if (query) {
@@ -351,21 +192,22 @@ function render() {
   const list = getFiltered();
   document.getElementById('count').textContent = list.length + ' viner';
   const grid = document.getElementById('grid');
-
   if (!list.length) {
     grid.innerHTML = '<div class="empty">Inga viner hittades.</div>';
     return;
   }
-
   grid.innerHTML = list.map(w => {
     const img = `https://product-cdn.systembolaget.se/productimages/${w.id}/${w.id}_400.png`;
     const url = `https://www.systembolaget.se/sortiment/?q=${w.num}`;
-    const pip  = w.conf >= 0.9 ? 'pip-high' : 'pip-mid';
+    const pip = w.conf >= 0.9 ? 'pip-high' : 'pip-mid';
     const vintage = w.vintage ? ' ' + w.vintage : '';
     const isTilf = w.assortment === 'Tillfälligt sortiment';
     const badge = w.organic
       ? '<span class="badge badge-eko">Eko</span>'
       : isTilf ? '<span class="badge badge-tilf">Release</span>' : '';
+    const stockBar = (w.inStore && w.storeStock > 0)
+      ? `<div class="stock-bar"><span class="stock-dot"></span>${w.storeStock} st · PK-Huset</div>`
+      : '';
     return `<div class="card">
       <a href="${url}" target="_blank" rel="noopener">
         <div class="img-wrap">
@@ -373,6 +215,7 @@ function render() {
           <div class="conf-pip ${pip}"></div>
           <img src="${img}" alt="${w.name}" loading="lazy" onerror="this.style.opacity='.2'">
         </div>
+        ${stockBar}
         <div class="card-body">
           <div class="card-name">${w.name}${vintage}</div>
           ${w.sub ? `<div class="card-sub">${w.sub}</div>` : ''}
@@ -388,11 +231,11 @@ function render() {
 }
 
 const WINE_TYPES = [
-  { key: 'Rött vin',        label: 'Rött' },
-  { key: 'Vitt vin',        label: 'Vitt' },
+  { key: 'Rött vin', label: 'Rött' },
+  { key: 'Vitt vin', label: 'Vitt' },
   { key: 'Mousserande vin', label: 'Mousserande' },
-  { key: 'Rosévin',         label: 'Rosé' },
-  { key: 'Orangevin',       label: 'Orange' },
+  { key: 'Rosévin', label: 'Rosé' },
+  { key: 'Orangevin', label: 'Orange' },
 ];
 
 function buildTypeFilters() {
@@ -430,21 +273,20 @@ function buildFilters() {
 document.getElementById('search').addEventListener('input', e => { query = e.target.value; render(); });
 document.getElementById('sort').addEventListener('change', e => { sort = e.target.value; render(); });
 
-// Fetch data from repo
 fetch('/naturvin/data/results.json')
   .then(r => r.json())
   .then(data => {
     wines = data;
-    const today = new Date().toLocaleDateString('sv-SE', {day:'numeric', month:'long', year:'numeric'});
+    const inStoreCount = wines.filter(w => w.inStore).length;
+    const today = new Date().toLocaleDateString('sv-SE', { day: 'numeric', month: 'long', year: 'numeric' });
     document.getElementById('header-meta').textContent =
-      `${wines.length} europeiska naturviner i lager\nUppdaterat ${today}`;
+      `${wines.length} europeiska naturviner i lager · ${inStoreCount} på PK-Huset\nUppdaterat ${today}`;
     buildTypeFilters();
     buildFilters();
     render();
   })
   .catch(() => {
-    document.getElementById('grid').innerHTML =
-      '<div class="empty">Kunde inte ladda viner. Försök igen senare.</div>';
+    document.getElementById('grid').innerHTML = '<div class="empty">Kunde inte ladda viner. Försök igen senare.</div>';
   });
 </script>
 </body>
