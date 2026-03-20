@@ -81,34 +81,36 @@ def fuzzy_match(producer_name, corpus):
     return (corpus[best_idx], best_score) if best_idx is not None else (None, 0)
 
 
-def claude_classify(producers_batch):
-    api_key = os.environ.get("ANTHROPIC_API_KEY", "")
+def classify_producers(producers_batch):
+    api_key = os.environ.get("GEMINI_API_KEY", "")
     if not api_key:
-        print("  WARNING: ANTHROPIC_API_KEY not set")
+        print("  WARNING: GEMINI_API_KEY not set")
         return {}
-    names_list = "\n".join(f"- {n}" for n in producers_batch)
-    prompt = f"""You are a natural wine expert. For each producer below, determine if they make natural wine (wild fermentation, minimal intervention, no/low sulfites, organic/biodynamic farming).
 
-Respond ONLY with a JSON object. Keys = exact producer names. Values = objects with:
+    names_list = "\n".join(f"- {n}" for n in producers_batch)
+    prompt = f"""You are a natural wine expert. For each producer below, determine if they make natural wine.
+Natural wine means: wild/ambient fermentation, minimal or no added sulfites, organic or biodynamic farming, no fining/filtering or minimal, no added yeasts or enzymes.
+Be strict — organic alone is NOT enough. The producer must specifically be known for natural winemaking practices.
+
+Respond ONLY with a JSON object. Keys = exact producer names as given. Values = objects with:
 - "isNatural": true or false
-- "confidence": 0.0 to 1.0
+- "confidence": 0.0 to 1.0 (be conservative — use <0.8 if uncertain)
 - "reason": one sentence max
 
 Producers:
 {names_list}
 
-JSON only:"""
+JSON only, no markdown:"""
 
     r = requests.post(
-        "https://api.anthropic.com/v1/messages",
-        headers={"x-api-key": api_key, "anthropic-version": "2023-06-01",
-                 "content-type": "application/json"},
-        json={"model": "claude-haiku-4-5-20251001", "max_tokens": 2000,
-              "messages": [{"role": "user", "content": prompt}]},
+        f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={api_key}",
+        headers={"content-type": "application/json"},
+        json={"contents": [{"parts": [{"text": prompt}]}],
+              "generationConfig": {"temperature": 0.1, "maxOutputTokens": 2000}},
         timeout=30,
     )
     r.raise_for_status()
-    text = r.json()["content"][0]["text"].strip()
+    text = r.json()["candidates"][0]["content"]["parts"][0]["text"].strip()
     text = re.sub(r"^```json\s*", "", text)
     text = re.sub(r"```\s*$", "", text).strip()
     try:
@@ -173,7 +175,7 @@ def main():
         for i in range(0, len(for_claude), BATCH):
             batch = for_claude[i:i+BATCH]
             print(f"  Batch {i//BATCH+1}/{(len(for_claude)-1)//BATCH+1}...")
-            verdicts = claude_classify(batch)
+            verdicts = classify_producers(batch)
             for producer, v in verdicts.items():
                 results[producer] = {
                     "isNatural": v.get("isNatural", False),
@@ -193,6 +195,14 @@ def main():
     cache.update(results)
     cache_path.write_text(json.dumps(cache, ensure_ascii=False, indent=2), encoding="utf-8")
 
+    # Load blacklist
+    blacklist_path = DATA / "blacklist.json"
+    blacklist = set()
+    if blacklist_path.exists():
+        bl = json.loads(blacklist_path.read_text(encoding="utf-8"))
+        blacklist = {p.lower() for p in bl.get("producers", [])}
+        print(f"Blacklist: {len(blacklist)} producers")
+
     # Annotate and save
     EU_COUNTRIES = {
         'Frankrike','Italien','Spanien','Österrike','Tyskland','Portugal',
@@ -208,7 +218,8 @@ def main():
         if (v["isNatural"]
                 and v["confidence"] >= 0.80
                 and w.get("country") in EU_COUNTRIES
-                and w.get("volume", 0) <= 1500):
+                and w.get("volume", 0) <= 1500
+                and w.get("producer", "").lower() not in blacklist):
             annotated.append({
                 "id":       w["productId"],
                 "num":      w["productNumber"],
