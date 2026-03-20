@@ -120,14 +120,14 @@
   },
   "Schenk Italia Spa": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Cirillo Estate Wines": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -141,63 +141,63 @@
   },
   "Luigi Righetti": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "4Kilos": {
     "isNatural": true,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Castillo de Perelada": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "G H von Mumm": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Dominio de Punctum": {
     "isNatural": false,
-    "confidence": 0.75,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "A Christmann": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Umani Ronchi": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Abbotts & Delaunay": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Adega Castelo Rodrigo": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -211,14 +211,14 @@
   },
   "Foley Estate": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Adega de Monção": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -232,21 +232,21 @@
   },
   "Adelsheim Vineyard": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Viñedos Emiliana": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Kinmon Akita Sake Brewery Co": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -260,7 +260,7 @@
   },
   "José Maria da Fonseca": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -274,14 +274,14 @@
   },
   "Quinta das Arcas – Soc. Agr. Lda": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Hammeken Cellars": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -302,7 +302,7 @@
   },
   "Alkina": {
     "isNatural": true,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -337,21 +337,21 @@
   },
   "Altavins Viticultors": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "BLANCK ANDRE ET SES FILS": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Alta Alella": {
     "isNatural": true,
-    "confidence": 0.75,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -365,7 +365,7 @@
   },
   "Azienda Agricola Altare di Altare Nicholas": {
     "isNatural": true,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -393,7 +393,7 @@
   },
   "Vinko": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -406,7 +406,7 @@
     "reason": ""
   },
   "Quinta de Santiago": {
-    "isNatural": true,
+    "isNatural": false,
     "confidence": 0.7,
     "method": "claude",
     "matchedTo": null,
@@ -428,7 +428,7 @@
   },
   "Weingut am Klotz": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.7,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -470,7 +470,7 @@
   },
   "Rallo SpA soc. Agr": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.65,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -581,8 +581,8 @@
     "reason": ""
   },
   "Ktima Apostolidi": {
-    "isNatural": true,
-    "confidence": 0.85,
+    "isNatural": false,
+    "confidence": 0.75,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -617,7 +617,7 @@
   },
   "The Company of Urban wines And Other Liquids Sweden AB": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -630,8 +630,8 @@
     "reason": ""
   },
   "Arnaud Lambert": {
-    "isNatural": true,
-    "confidence": 0.85,
+    "isNatural": false,
+    "confidence": 0.7,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -694,7 +694,7 @@
   },
   "Domaine Wines": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -708,21 +708,21 @@
   },
   "Askheimer AS": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.7,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Cinzano": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Martini Rossi": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -736,14 +736,14 @@
   },
   "Hartwall": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Anora Group PLC": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -764,7 +764,7 @@
   },
   "Azelia": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -778,21 +778,21 @@
   },
   "Bacalhôa Vinhos de Portugal": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Via Vincia SPA.": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "47 Anno Domini": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -855,7 +855,7 @@
   },
   "Roagna Azienda Agricola I Paglieri S.S": {
     "isNatural": true,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -925,7 +925,7 @@
   },
   "Frasca": {
     "isNatural": false,
-    "confidence": 0.7,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -946,21 +946,21 @@
   },
   "Giacomo Grimaldi di Grimaldi Ferruccio": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "M. Marengo": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Francesco Rinaldi & Figli": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -1037,21 +1037,21 @@
   },
   "Bass Phillip Wines": {
     "isNatural": true,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Geheimer Rat Dr. von Bassermann-Jordan": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Domaine Dubost": {
-    "isNatural": true,
-    "confidence": 0.7,
+    "isNatural": false,
+    "confidence": 0.75,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -1114,7 +1114,7 @@
   },
   "Joseph Drouhin": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -1135,7 +1135,7 @@
   },
   "Icon Wines": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -1149,7 +1149,7 @@
   },
   "Contemporary Wines AB": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -1177,7 +1177,7 @@
   },
   "Biondi Santi International": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -1191,7 +1191,7 @@
   },
   "Birichino": {
     "isNatural": false,
-    "confidence": 0.7,
+    "confidence": 0.75,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -1260,15 +1260,15 @@
     "reason": ""
   },
   "Vignerons des Grandes Vignes": {
-    "isNatural": false,
-    "confidence": 0.7,
+    "isNatural": true,
+    "confidence": 0.75,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Weingut Markus Altenburger": {
     "isNatural": true,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -1289,14 +1289,14 @@
   },
   "Schäfer-Fröhlich": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Bodegas Corcel": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -1317,7 +1317,7 @@
   },
   "Boekenhoutskloof": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -1338,49 +1338,49 @@
   },
   "Cantine Volpi srl": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "St Andrea Vineyard": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Bolla": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Gruppo Italiano Vini": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Bollinger": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Poderi dal Nespoli": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Viña Requingua": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -1394,7 +1394,7 @@
   },
   "Domaine Louis Jadot": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -1422,84 +1422,84 @@
   },
   "Bonpas": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Bonterra Vineyards": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Charles Smith Wines": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Boschendal Estate": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Boschkloof Wines": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Bottega": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Bouchard Aîné et Fils": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Clotilde Davenne": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Domaine Marquis d'Angerville": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "J M Brocard": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Labouré-Roi": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Vignerons des Terres Secrètes": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -1513,7 +1513,7 @@
   },
   "Patrick Javillier": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -1527,91 +1527,91 @@
   },
   "Domaine Robert Groffier Père et Fils": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Domaine Roux": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Vincent Girardin": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Braida di Bologna Giacomo": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Brancaia": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Bread & Butter Wines": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "La Spinetta": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Harvey & Son": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Ampelidae": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Brokenwood Wines": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Ricasoli": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Brooklyn Kura Craft Sake": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Brown Family Wine Group": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -1625,21 +1625,21 @@
   },
   "Angelini Wines & Estates": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Fattoi Ofelio & Figli Soc. Sempl. - Soc. Agr.": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Pieve Santa Restituta": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -1653,21 +1653,21 @@
   },
   "Conti Costanti": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Biondi-Santi": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Mastrojanni": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -1681,7 +1681,7 @@
   },
   "Pieve Santa Restituta/Gaja": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -1695,7 +1695,7 @@
   },
   "Az. Agr. Santa Maria": {
     "isNatural": true,
-    "confidence": 0.9,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -1716,7 +1716,7 @@
   },
   "Domaine Bruno Clair": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -1779,7 +1779,7 @@
   },
   "Béres Vineyards and Winery": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -1861,181 +1861,6 @@
     "matchedTo": null,
     "reason": ""
   },
-  "Maison Idiart": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Gruppo Campari - Glen Grant Limited": {
-    "isNatural": false,
-    "confidence": 1.0,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Bodegas Campillo": {
-    "isNatural": false,
-    "confidence": 0.95,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Campo alle Comete/ Feudi group": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Vinarchy": {
-    "isNatural": false,
-    "confidence": 0.8,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Cosecheros y Criadores": {
-    "isNatural": false,
-    "confidence": 0.95,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Cantina Kurtatsch": {
-    "isNatural": false,
-    "confidence": 0.95,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Ciccio Zaccagnini": {
-    "isNatural": false,
-    "confidence": 0.95,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Cantine Gregoletto": {
-    "isNatural": false,
-    "confidence": 0.85,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "The Grape Grinder": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Boutinot South Africa": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Tenuta Di Capraia": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Azienda Agricola Carlone Davide": {
-    "isNatural": true,
-    "confidence": 0.75,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "CARM - Casa Agricola Roboredo Madeira SA": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Podere Il Carnasciale - Il Carnasciale s.r.l. società agricola": {
-    "isNatural": false,
-    "confidence": 0.85,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Fratelli Branca": {
-    "isNatural": false,
-    "confidence": 1.0,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Alheit Vineyards": {
-    "isNatural": true,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Cartuxa": {
-    "isNatural": false,
-    "confidence": 0.95,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Cantina Vini Armani A. Srl": {
-    "isNatural": false,
-    "confidence": 0.95,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Casa Capriolo": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Casa Castillo": {
-    "isNatural": false,
-    "confidence": 0.75,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Solar de Cambres, LDA": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Casa de Sarmento": {
-    "isNatural": false,
-    "confidence": 0.85,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Casa Marzoni": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Winepartners Nordic AB": {
-    "isNatural": false,
-    "confidence": 0.95,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
   "Casa Relvas": {
     "isNatural": false,
     "confidence": 0.95,
@@ -2045,7 +1870,7 @@
   },
   "Casa Romana Vini": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2059,7 +1884,7 @@
   },
   "Aveleda": {
     "isNatural": false,
-    "confidence": 0.98,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2080,14 +1905,14 @@
   },
   "Casas del Bosque": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Agricola Casas del Bosque": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2108,7 +1933,7 @@
   },
   "Viña Maipo SpA": {
     "isNatural": false,
-    "confidence": 0.98,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2129,42 +1954,42 @@
   },
   "Castello di Ama": {
     "isNatural": false,
-    "confidence": 0.98,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Oenoforos S A": {
     "isNatural": false,
-    "confidence": 0.98,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Cantina Valpolicella Negrar": {
     "isNatural": false,
-    "confidence": 0.98,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Oenoforos": {
     "isNatural": false,
-    "confidence": 0.98,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Château Suduiraut": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Bodegas Vinartis": {
     "isNatural": false,
-    "confidence": 0.98,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2178,14 +2003,14 @@
   },
   "Les Domaines Auriol": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Bodega Catena Zapata": {
     "isNatural": false,
-    "confidence": 0.98,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2199,14 +2024,14 @@
   },
   "1+1=3 U Mes U Fan Tres S.L.": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Cecchi": {
     "isNatural": false,
-    "confidence": 0.98,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2227,7 +2052,7 @@
   },
   "Celler del Roure": {
     "isNatural": false,
-    "confidence": 0.75,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2276,7 +2101,7 @@
   },
   "Domaine Laroche": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2318,14 +2143,14 @@
   },
   "André Jacquart": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Chassenay d'Arce": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2367,7 +2192,7 @@
   },
   "M.Chapoutier": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2402,21 +2227,21 @@
   },
   "Domaine Dujac": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Château Angelus": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Chateau de la Font du Loup": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2430,21 +2255,21 @@
   },
   "Château Guiraud": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "SC des Heritiers Nicolas": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Francois Mitjavile": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2458,21 +2283,21 @@
   },
   "Vingaraget AB": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Chateau Ste Michelle": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.99,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Carovin AB": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2493,14 +2318,14 @@
   },
   "Cheval des Andes": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Domaine de la Baume": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2514,35 +2339,35 @@
   },
   "Castell'in Villa": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Chiara Condello": {
     "isNatural": true,
-    "confidence": 0.8,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Fourth Wave Wine": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Andrew Peace Wines": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Viña Morande": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2556,14 +2381,14 @@
   },
   "Charles Joguet": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Weingut Franz Netzl": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2577,7 +2402,7 @@
   },
   "Terres Bordelaises": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2591,7 +2416,7 @@
   },
   "Vins et Vignobles Dourthe": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2605,14 +2430,14 @@
   },
   "Vignobles André Lurton": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "André Lurton": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2626,14 +2451,14 @@
   },
   "Château Cantemerle": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Chateau Carbonnieux": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2654,14 +2479,14 @@
   },
   "Château d'Yquem": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Chateau Dalem": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2675,14 +2500,14 @@
   },
   "SCEA du Château de Lussac": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Château de Seguin": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2696,7 +2521,7 @@
   },
   "Château Dereszla": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2724,7 +2549,7 @@
   },
   "Chateau Haut-Brion": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2759,7 +2584,7 @@
   },
   "Château La Mission Haut-Brion": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.99,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2780,28 +2605,28 @@
   },
   "Château Lagrange": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.99,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Château Latour": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "SCEA Vignobles Cruchon et Fils": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Château Léoville-Las-Cases": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.99,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2815,7 +2640,7 @@
   },
   "Château Mouton Rothschild": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.99,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2829,7 +2654,7 @@
   },
   "Château Palmer": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2843,14 +2668,14 @@
   },
   "Château Pichon-Longueville-Baron": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.99,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "EARL de Montignac": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2871,7 +2696,7 @@
   },
   "Molinari": {
     "isNatural": false,
-    "confidence": 0.75,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2885,28 +2710,28 @@
   },
   "Vignobles Dourthe": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.99,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Château Rieussec": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.99,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Château Rocheyron SARL.": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Bruno Bilancini El": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2927,7 +2752,7 @@
   },
   "Domaine de Panisse": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -2941,7 +2766,7 @@
   },
   "Domeniile Speia Prim": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3039,7 +2864,7 @@
   },
   "Domaine Les Clos Maurice": {
     "isNatural": true,
-    "confidence": 0.75,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3060,7 +2885,7 @@
   },
   "Giulio Cocchi": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3074,7 +2899,7 @@
   },
   "Codorníu": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.99,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3088,7 +2913,7 @@
   },
   "Passione Natura": {
     "isNatural": true,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3102,7 +2927,7 @@
   },
   "Castello Romitorio": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3151,14 +2976,14 @@
   },
   "Azienda Vitivinicola Conterno Gattinara Cantine Nervi Soc. Agr. SRL": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "AZIENDA VITIVINICOLA CONTERNO GATTINARA CANTINE NERVI SOC. AGR. SRL": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3172,14 +2997,14 @@
   },
   "Benanti Viticoltori Srl": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Contratto": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3193,14 +3018,14 @@
   },
   "Cantina Sociale Copertino": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Paul Jaboulet Ainé": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3235,7 +3060,7 @@
   },
   "Descendientes de J Palacios": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3263,21 +3088,21 @@
   },
   "Soc Coop Ag Olearia Vinicola Orsogna": {
     "isNatural": false,
-    "confidence": 0.7,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Vignerons de Buxy": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "El Coto de Rioja": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3291,70 +3116,70 @@
   },
   "SAS Famille Joly": {
     "isNatural": true,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Louis Jadot": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "VINMUNDI": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "ViniMundi": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Boland Vineyard International Pty Ltd": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Cricova S.A": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Cristom Vineyards": {
     "isNatural": false,
-    "confidence": 0.7,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Domaine du Cros": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Alain Graillot": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.75,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Terranea": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.7,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3368,28 +3193,28 @@
   },
   "Domaine Fayolle": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Emmanuel Darnaud": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Delas": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "JL Chave Sélection": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3417,21 +3242,21 @@
   },
   "Domaine Fernand Engel": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Bussay Pince": {
     "isNatural": false,
-    "confidence": 0.7,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Bodegas Barbadillo": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3508,7 +3333,7 @@
   },
   "Pellerin": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3543,14 +3368,14 @@
   },
   "David & Nadia": {
     "isNatural": true,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Myrko Tépus": {
     "isNatural": true,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3571,14 +3396,14 @@
   },
   "De Haan Altés": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Union Champagne": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3606,7 +3431,7 @@
   },
   "Fernández Rivera": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3648,14 +3473,14 @@
   },
   "Dicey Ltd": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Venus La Universal, SL": {
     "isNatural": true,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3676,7 +3501,7 @@
   },
   "Dog Point Vineyards": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3725,21 +3550,21 @@
   },
   "Domain de Collavery": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Domaine de Cébène": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Domaine De L'Argenteille": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3767,14 +3592,14 @@
   },
   "Domaine des Pasquiers": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Pothiers La Chapelle": {
     "isNatural": true,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3782,6 +3607,181 @@
   "Domaine du Pesquier": {
     "isNatural": false,
     "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine du Pélican": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine du Vieux Lazaret": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Evremond": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Font Sante": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Helena": {
+    "isNatural": false,
+    "confidence": 0.6,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Henri Cruchon": {
+    "isNatural": true,
+    "confidence": 0.7,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Jean-Max Roger": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Lalande": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Nico": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Pouderoux": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Santa Duc": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Vigneau-Chevreau": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domino de Es": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Dominio del Aguila": {
+    "isNatural": false,
+    "confidence": 0.7,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Cornin": {
+    "isNatural": true,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domäne Wachau": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Viña Don Melchor": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "J García Carrión": {
+    "isNatural": false,
+    "confidence": 0.99,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "McPherson Wines": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Dopff au Moulin": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Botter": {
+    "isNatural": false,
+    "confidence": 0.99,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Casa Vinicola Botter": {
+    "isNatural": false,
+    "confidence": 0.99,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Botter Spa": {
+    "isNatural": false,
+    "confidence": 0.99,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Fitapreta Vinhos": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Symington Family Estates": {
+    "isNatural": false,
+    "confidence": 0.99,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3823,14 +3823,14 @@
   },
   "Duckhorn Wine Company": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Duemani": {
     "isNatural": true,
-    "confidence": 0.85,
+    "confidence": 0.75,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3851,14 +3851,14 @@
   },
   "White Walnut Estate": {
     "isNatural": false,
-    "confidence": 0.75,
+    "confidence": 0.7,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Dune Wine": {
-    "isNatural": false,
-    "confidence": 0.8,
+    "isNatural": true,
+    "confidence": 0.75,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3879,14 +3879,14 @@
   },
   "Accolade Wines": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Domaine Saint-Remy": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.75,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3914,7 +3914,7 @@
   },
   "Egly-Ouriet": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.75,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3949,7 +3949,7 @@
   },
   "Emidio Pepe": {
     "isNatural": true,
-    "confidence": 0.99,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -3963,56 +3963,56 @@
   },
   "MGM S.r.l.": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Femar Vini": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Weingut Markus Molitor": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "DFJ Vinhos": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Pico Cuadro S.L": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Andeluna Cellars SRL": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Aresti Chile Wine": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Famiglia Statella": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.7,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -4033,70 +4033,70 @@
   },
   "Amyntas Winery": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Spring Wine & Spirits": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Montlaiz": {
     "isNatural": false,
-    "confidence": 0.75,
+    "confidence": 0.7,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Eyrie Vineyards": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Molí Parellada": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Failla Wines": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Fairview Wines Pty Ltd": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "JBF": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.7,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Famiglia Grillo": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.7,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Bodegas Fariña": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -4110,49 +4110,49 @@
   },
   "Faustino Martínez": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Bodegas Faustino": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "United Wineries": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Bodegas Rey Fernando de Castilla": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Ferrari": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "FERRARI F.LLI LUNELLI SPA": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Urban Wines": {
     "isNatural": false,
-    "confidence": 0.7,
+    "confidence": 0.75,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -4187,14 +4187,14 @@
   },
   "Miguel Torres Chile": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Valdespino": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -4208,14 +4208,14 @@
   },
   "Fontodi": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Flechas de Los Andes": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -4243,7 +4243,7 @@
   },
   "Florio": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -4264,14 +4264,14 @@
   },
   "Fonseca Guimaraens": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Fontana Candida": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -4285,28 +4285,28 @@
   },
   "Kiviks Musteri": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Kleine Zalze": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Van Loveren Vineyards": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Franch Bonville": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -4320,7 +4320,7 @@
   },
   "Frankland Estate": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -4341,7 +4341,7 @@
   },
   "Strekov 1075": {
     "isNatural": true,
-    "confidence": 0.95,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -4390,7 +4390,7 @@
   },
   "Fuchs und Hase": {
     "isNatural": true,
-    "confidence": 0.95,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -4411,7 +4411,7 @@
   },
   "Gabriel Meffre": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -4425,7 +4425,7 @@
   },
   "Petrolo": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -4446,7 +4446,7 @@
   },
   "Garage Wine Co. / Vitivinicola Two Winters Ltda": {
     "isNatural": true,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -4509,7 +4509,7 @@
   },
   "Giant Steps": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -4663,7 +4663,7 @@
   },
   "Gramona": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -4684,7 +4684,7 @@
   },
   "Bodegas Gran Feudo SL": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -4803,7 +4803,7 @@
   },
   "Terroir Sense Fronteres": {
     "isNatural": true,
-    "confidence": 0.8,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -4838,21 +4838,21 @@
   },
   "Tegnér Spirits & Wine AB": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Scanivinus Lda.": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Gamla Stans Vinhandel": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -4866,7 +4866,7 @@
   },
   "Winemarket Nordic AB": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -4887,7 +4887,7 @@
   },
   "Hacienda El Espino": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -4922,7 +4922,7 @@
   },
   "Hardy Wine Company": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.99,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -4936,7 +4936,7 @@
   },
   "Domaine Sylvain Cathiard et Fils": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -4991,8 +4991,8 @@
     "reason": ""
   },
   "Heya Wines": {
-    "isNatural": false,
-    "confidence": 0.7,
+    "isNatural": true,
+    "confidence": 0.75,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -5007,181 +5007,6 @@
   "Homola": {
     "isNatural": false,
     "confidence": 0.8,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Weingut Markus Huber GmbH & Co KG": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Hubert Beck": {
-    "isNatural": false,
-    "confidence": 0.8,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Hunter's Wines": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Castellare di Castellina": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Poggio al Tesoro": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Umenoyado Brewery": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Cum Natura GmbH": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Casa Vila Verde - Sociedade Agricola, Lda": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Perdeberg Winery": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Azienda Agricola Inama": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Viña Indómita": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Inglenook": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Azienda Agricola Chiusa Grande di Franco d'Eusanio": {
-    "isNatural": true,
-    "confidence": 0.8,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Cantine Settesoli": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Domaine Benoit Cantin": {
-    "isNatural": false,
-    "confidence": 0.8,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Gabin et Felix Richoux": {
-    "isNatural": true,
-    "confidence": 0.7,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Van Zeller Wine Collection SA": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Irony Wine Cellars": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Tenuta Cavalier Pepe": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Riley Vinum S.L.": {
-    "isNatural": false,
-    "confidence": 0.8,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Itata Paraiso wines SPA": {
-    "isNatural": false,
-    "confidence": 0.7,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "J.H Goncalves & Co": {
-    "isNatural": false,
-    "confidence": 0.8,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "J.P Kämmerer": {
-    "isNatural": false,
-    "confidence": 0.8,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Bratt & Partners": {
-    "isNatural": false,
-    "confidence": 0.8,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Jaume Serra": {
-    "isNatural": false,
-    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -5250,8 +5075,8 @@
     "reason": ""
   },
   "Jérôme Arnoux": {
-    "isNatural": false,
-    "confidence": 0.7,
+    "isNatural": true,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -5293,7 +5118,7 @@
   },
   "Zorah Wines LLC": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.7,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -5306,8 +5131,8 @@
     "reason": ""
   },
   "Weingut Katharina Wechlsler": {
-    "isNatural": false,
-    "confidence": 0.7,
+    "isNatural": true,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -5361,184 +5186,9 @@
     "matchedTo": null,
     "reason": ""
   },
-  "Weingut Stefan Meyer": {
-    "isNatural": false,
-    "confidence": 0.8,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Weingut Knipser": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Kokuryu Sake Corporation": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Weingut Kolkman": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Kopke": {
-    "isNatural": false,
-    "confidence": 1.0,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Sogevinus Fine Wines": {
-    "isNatural": false,
-    "confidence": 1.0,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Koueigiku Sake Brewery": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Kourtakis": {
-    "isNatural": false,
-    "confidence": 1.0,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Nakashima Brewery": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Kracher": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Krug": {
-    "isNatural": false,
-    "confidence": 1.0,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Weingut Krug'scher Hof": {
-    "isNatural": false,
-    "confidence": 0.8,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Shaoxing Wine Co. Ltd.": {
-    "isNatural": false,
-    "confidence": 1.0,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Kullabergs Vingård": {
-    "isNatural": false,
-    "confidence": 0.8,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "TINAL WINE CO SAS/Riccitelli Wines": {
-    "isNatural": false,
-    "confidence": 0.7,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Kutch Wines": {
-    "isNatural": false,
-    "confidence": 0.8,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Antiyal": {
-    "isNatural": false,
-    "confidence": 0.7,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Ewald Theod Drathen": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Laroche": {
-    "isNatural": false,
-    "confidence": 1.0,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Stolpman Vineyards": {
-    "isNatural": true,
-    "confidence": 0.7,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Bodegas Luis Pérez S.L.": {
-    "isNatural": true,
-    "confidence": 0.8,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Earl Bronzo": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Chaquepe": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "CHAQUEPE S.A.": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "François Lurton": {
-    "isNatural": false,
-    "confidence": 1.0,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
   "Champagne Autréau": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -5559,7 +5209,7 @@
   },
   "Les Frères Couillaud": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -5636,7 +5286,7 @@
   },
   "Bodegas Arrayán": {
     "isNatural": false,
-    "confidence": 0.75,
+    "confidence": 0.7,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -5657,7 +5307,7 @@
   },
   "Weingut Lackner-Tinnacher": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -5678,7 +5328,7 @@
   },
   "Piero Benevelli": {
     "isNatural": false,
-    "confidence": 0.75,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -5699,14 +5349,14 @@
   },
   "Language of Yes (E&J Gallo Winery)": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "San Martin": {
     "isNatural": false,
-    "confidence": 0.7,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -5734,7 +5384,7 @@
   },
   "Rossignol-Trapet": {
     "isNatural": false,
-    "confidence": 0.75,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -5748,14 +5398,14 @@
   },
   "Clos I Terrasses": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Laurent Ponsot SAS": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -5776,7 +5426,7 @@
   },
   "Vini Franchetti SRL": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -5797,7 +5447,7 @@
   },
   "Famille Roumieux": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -5825,28 +5475,28 @@
   },
   "Ornellaia": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Terre Cevico Soc. Coop. Agr.": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Leclerc Briant": {
     "isNatural": true,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Leeuwin Estate": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -5867,14 +5517,14 @@
   },
   "Domaine de la Noblaie": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Cellier des Dauphins": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -5909,7 +5559,7 @@
   },
   "REMI POUIZIN": {
     "isNatural": true,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -5944,7 +5594,7 @@
   },
   "Juhászvin": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -5965,7 +5615,7 @@
   },
   "Weinkontor Westhofen": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -5979,21 +5629,21 @@
   },
   "Weingut Veyder-Malberg": {
     "isNatural": true,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Lillet Frères": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.99,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Lindemans": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.99,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6007,7 +5657,7 @@
   },
   "Listel": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.99,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6021,14 +5671,14 @@
   },
   "Logan Wines": {
     "isNatural": false,
-    "confidence": 0.75,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Viñedos Montegrande Limitada": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6091,14 +5741,14 @@
   },
   "Luke Lambert": {
     "isNatural": true,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Nigab": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6112,7 +5762,7 @@
   },
   "Lustau": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6126,7 +5776,7 @@
   },
   "Jeanjean": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6140,7 +5790,7 @@
   },
   "Massoc Frères": {
     "isNatural": true,
-    "confidence": 0.6,
+    "confidence": 0.75,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6168,14 +5818,14 @@
   },
   "Bodegas Benjamin de Rothschild Vega Sicilia": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "SAS MAISON CHARLES FREY": {
     "isNatural": true,
-    "confidence": 0.75,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6196,7 +5846,7 @@
   },
   "Maeli Societa' Agricola": {
     "isNatural": false,
-    "confidence": 0.7,
+    "confidence": 0.75,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6210,7 +5860,7 @@
   },
   "Vins Biecher": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6224,14 +5874,14 @@
   },
   "Vignobles de Cicéron": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Claude Vialade": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6266,7 +5916,7 @@
   },
   "Herederos de Argüeso": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6301,7 +5951,7 @@
   },
   "OY Hartwall": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.99,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6315,7 +5965,7 @@
   },
   "Oxer Bastegieta Zenigaonaindia": {
     "isNatural": true,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6336,28 +5986,28 @@
   },
   "Domaine des Tourelles": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Bodegas Marqués de Cáceres": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.99,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Marqués de Riscal": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.99,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Marrenon, Vignobles en Ventoux & Luberon": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6371,21 +6021,21 @@
   },
   "Marta Maté": {
     "isNatural": false,
-    "confidence": 0.7,
+    "confidence": 0.75,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Domaine du Mas Becha": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Mas Champart": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6406,7 +6056,7 @@
   },
   "Masi": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.99,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6525,7 +6175,7 @@
   },
   "Michel Gonet": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6553,7 +6203,7 @@
   },
   "Wiberica Biotec S.L.": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6602,21 +6252,21 @@
   },
   "Bodegas Montelciego": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Monteraponi": {
     "isNatural": true,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Monterustico": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6637,14 +6287,14 @@
   },
   "Tenuta Sant' Antonio": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Org de Rac": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6658,7 +6308,7 @@
   },
   "Ortúzar y Poblete produccion de vinos limitada": {
     "isNatural": false,
-    "confidence": 0.75,
+    "confidence": 0.6,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6693,14 +6343,14 @@
   },
   "Touchais": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Domaine Jules Desjourneys": {
     "isNatural": true,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6714,7 +6364,7 @@
   },
   "Mount Eden Vineyards": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6741,8 +6391,8 @@
     "reason": ""
   },
   "Mullineux & Leeu Family Wines": {
-    "isNatural": true,
-    "confidence": 0.85,
+    "isNatural": false,
+    "confidence": 0.75,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6819,7 +6469,7 @@
   },
   "Niepoort Vinhos": {
     "isNatural": false,
-    "confidence": 0.7,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6833,21 +6483,21 @@
   },
   "Navarro Correas": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Gonzalez-Byass": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Nederburg Wines": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6882,14 +6532,14 @@
   },
   "Nicolas Feuillatte": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Niepoort": {
     "isNatural": false,
-    "confidence": 0.7,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6917,35 +6567,35 @@
   },
   "Vite Colte": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Bodegas Ibañesas De Exportacion S.A.": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Noble Vines": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Noilly Prat": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Bodega Norton": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6966,14 +6616,14 @@
   },
   "Occidental Wines": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Ochota Barrels": {
     "isNatural": true,
-    "confidence": 0.99,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -6987,21 +6637,21 @@
   },
   "Odfjell Vineyards": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Ojai Vineyard": {
     "isNatural": false,
-    "confidence": 0.75,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "The Wine People Srl": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -7043,7 +6693,7 @@
   },
   "My Pleasure in Sweden AB": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -7057,7 +6707,7 @@
   },
   "Fèlsina Spa": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -7071,7 +6721,7 @@
   },
   "Bodegas Tradición": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -7085,21 +6735,21 @@
   },
   "CPL SRL": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Parajes del Valle Bodegas y Viñedos S.L": {
     "isNatural": false,
-    "confidence": 0.7,
+    "confidence": 0.75,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Global Wines Sweden AB": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -7113,7 +6763,7 @@
   },
   "Cantine Paolo Leo": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -7127,7 +6777,7 @@
   },
   "Paul Durdilly": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -7141,7 +6791,7 @@
   },
   "CW Wines": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -7155,7 +6805,7 @@
   },
   "Weinmanufaktur Frey": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.75,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -7169,7 +6819,7 @@
   },
   "Pedro Parra y Familia": {
     "isNatural": true,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -7218,14 +6868,14 @@
   },
   "Crystallum Wines": {
     "isNatural": false,
-    "confidence": 0.75,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Vignobles Gabriel & CO": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -7246,28 +6896,28 @@
   },
   "Liciacept (Pty) Ltd (trading as Visio Vintners)": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "L´Herre": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "SARL Peyrassol": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Weinkontor A.&J. Pflüger": {
-    "isNatural": true,
-    "confidence": 0.85,
+    "isNatural": false,
+    "confidence": 0.75,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -7351,7 +7001,7 @@
   },
   "Pierre Olivier": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -7414,7 +7064,7 @@
   },
   "Chichateau Doo": {
     "isNatural": true,
-    "confidence": 0.75,
+    "confidence": 0.7,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -7428,7 +7078,7 @@
   },
   "Domaine Zind Humbrecht": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -7463,49 +7113,49 @@
   },
   "ColleMassari Spa Società Agricola": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Poggiotondo": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Pol Rémy": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Poliziano": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Philippe Pacalet": {
     "isNatural": true,
-    "confidence": 0.99,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Pommery": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Bergkelder": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -7519,35 +7169,35 @@
   },
   "Vidigal wines": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Quinta do Portal": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Bodegas Portia": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Quinta do Conde": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Maison Jean Loron": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -7561,14 +7211,14 @@
   },
   "Bodegas Pradorey": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Pratsch": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -7582,14 +7232,14 @@
   },
   "Cave Robert et Marcel": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Celler Privat": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -7617,196 +7267,21 @@
   },
   "Punt Road Wines": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Foncalieu": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Les Vignobles Foncalieu": {
     "isNatural": false,
-    "confidence": 0.99,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Pyros Wines": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Quinta do Popa": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Bodegas Felix Lavaque": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Portal del Priorat": {
-    "isNatural": false,
-    "confidence": 0.8,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Società Agricola Querciabella SpA": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Achillee": {
-    "isNatural": true,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Casa Agrícola das Mimosas": {
-    "isNatural": false,
-    "confidence": 0.8,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Quinta de Chocapalha": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Quinta do Noval-Vinhos, S.A.": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Quinta do Noval": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Quinta do Paral": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Quinta do Vallado": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Quintessa": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Bodegas Palacios Remondo": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Weinland Königsbach-Neustadt GmdH": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Weingut Rudolf Rabl": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Mastroberardino": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Rall Wines": {
-    "isNatural": true,
-    "confidence": 0.8,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "João Portugal Ramos": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Raventós i Blanc": {
-    "isNatural": false,
-    "confidence": 0.8,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Rawson's Retreat": {
-    "isNatural": false,
     "confidence": 1.0,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Olivier Riviere": {
-    "isNatural": true,
-    "confidence": 0.8,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "La Riojana Coop": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Bodegas Y Vinedos Raúl Pérez": {
-    "isNatural": true,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "José Estevez": {
-    "isNatural": false,
-    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -7820,7 +7295,7 @@
   },
   "Uvas Felices": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -7834,7 +7309,7 @@
   },
   "Remelluri": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -7868,8 +7343,8 @@
     "reason": ""
   },
   "Reyneke Winery": {
-    "isNatural": false,
-    "confidence": 0.8,
+    "isNatural": true,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -7883,13 +7358,13 @@
   },
   "Bodegas Aster": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Matias Riccitelli": {
-    "isNatural": false,
+    "isNatural": true,
     "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
@@ -7911,14 +7386,14 @@
   },
   "Ridge Vineyards": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Riecine": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -7967,7 +7442,7 @@
   },
   "Società Agricola Ripa della Volta S.r.l.": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8051,7 +7526,7 @@
   },
   "Raen Winery": {
     "isNatural": true,
-    "confidence": 0.8,
+    "confidence": 0.75,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8065,7 +7540,7 @@
   },
   "Mora Wines": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8114,7 +7589,7 @@
   },
   "Azienda Agricola Menegola Walter": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.7,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8135,14 +7610,14 @@
   },
   "Viña Bouchon": {
     "isNatural": false,
-    "confidence": 0.75,
+    "confidence": 0.7,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "S.C. Pannell": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8219,7 +7694,7 @@
   },
   "Bodegas Santa Julia": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8247,7 +7722,7 @@
   },
   "Saurwein": {
     "isNatural": false,
-    "confidence": 0.7,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8261,7 +7736,7 @@
   },
   "Savage Wines LTD": {
     "isNatural": false,
-    "confidence": 0.7,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8317,14 +7792,14 @@
   },
   "Badenhorst Family Wines": {
     "isNatural": true,
-    "confidence": 0.9,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Seghesio Family Vineyards": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8365,22 +7840,22 @@
     "reason": ""
   },
   "Evening Land Vineyards": {
-    "isNatural": true,
-    "confidence": 0.8,
+    "isNatural": false,
+    "confidence": 0.75,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "San Isidro, SCCLM ( Bodegas Latúe )": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Shafer Vineyards": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8401,21 +7876,21 @@
   },
   "Viña Undurraga": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Spring Wine & Spirits AB": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Silver Oak Cellars": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8436,7 +7911,7 @@
   },
   "Sister's Run Wine Company": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8450,7 +7925,7 @@
   },
   "Premiumpartners AB": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8485,28 +7960,28 @@
   },
   "Robert Hall Winery": {
     "isNatural": false,
-    "confidence": 0.99,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Case Basse di Gianfranco Soldera": {
     "isNatural": true,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Mjödhamnen": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Bodega Son Antem": {
     "isNatural": false,
-    "confidence": 0.7,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8555,7 +8030,7 @@
   },
   "Kövágó Estate": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.7,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8569,7 +8044,7 @@
   },
   "Minimalist Wines": {
     "isNatural": true,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8597,7 +8072,7 @@
   },
   "Stift Admont": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8631,8 +8106,8 @@
     "reason": ""
   },
   "Bodegas Parra Jimenez": {
-    "isNatural": false,
-    "confidence": 0.7,
+    "isNatural": true,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8646,7 +8121,7 @@
   },
   "Weingut Sybille Kuntz": {
     "isNatural": true,
-    "confidence": 0.7,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8681,7 +8156,7 @@
   },
   "Erdevik": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8730,7 +8205,7 @@
   },
   "Henkell-Freixenet Sweden AB": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.99,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8744,7 +8219,7 @@
   },
   "Te Kairanga Wines": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8772,14 +8247,14 @@
   },
   "Tenuta Di Tavignano": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.7,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Azienda Agricola Bettili Cristiana": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8800,14 +8275,14 @@
   },
   "A Henriques Lda": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Cavit": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.99,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8828,7 +8303,7 @@
   },
   "Schwarz": {
     "isNatural": false,
-    "confidence": 0.7,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8884,7 +8359,7 @@
   },
   "3 Finger Jack Cellars": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8919,7 +8394,7 @@
   },
   "Gonzalez Byass": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8940,14 +8415,14 @@
   },
   "Tolpuddle Vineyard": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Tommasi Viticoltori": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -8982,7 +8457,7 @@
   },
   "Trimbach": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -9024,14 +8499,14 @@
   },
   "Wither Hills Wines": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 1.0,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Tyler Winery": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -9080,7 +8555,7 @@
   },
   "Vinarija Lakicevic": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -9108,35 +8583,35 @@
   },
   "Musella": {
     "isNatural": true,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Van Volxem": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Weingut Van Volxem": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "José Maria da Fonseca & Van Zeller, SA": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Vasse Felix": {
     "isNatural": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -9150,7 +8625,7 @@
   },
   "Torrevilla": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -9206,14 +8681,14 @@
   },
   "Vickery Wines": {
     "isNatural": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Valle Reale SRL Societa Agricola": {
-    "isNatural": true,
-    "confidence": 0.8,
+    "isNatural": false,
+    "confidence": 0.7,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -9276,7 +8751,7 @@
   },
   "Villa Wolf": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -9304,14 +8779,14 @@
   },
   "Vinette": {
     "isNatural": false,
-    "confidence": 0.6,
+    "confidence": 0.7,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Luis Pato": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -9331,14 +8806,14 @@
     "reason": ""
   },
   "Wine Terroirists": {
-    "isNatural": false,
+    "isNatural": true,
     "confidence": 0.6,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Vins el Cep": {
-    "isNatural": false,
+    "isNatural": true,
     "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
@@ -9346,14 +8821,14 @@
   },
   "H M Borges, Sucrs. Lda": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Andresen AS": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -9367,7 +8842,7 @@
   },
   "Jean-Marie Chaland": {
     "isNatural": true,
-    "confidence": 0.8,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -9382,181 +8857,6 @@
   "R López de Heredia Viña Tondonia": {
     "isNatural": false,
     "confidence": 0.8,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Viña Casa Marin": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Quinta de Maipo SpA": {
-    "isNatural": false,
-    "confidence": 0.95,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Viña Solorca": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Törley Pezsgopincészet": {
-    "isNatural": false,
-    "confidence": 0.95,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Per Se": {
-    "isNatural": false,
-    "confidence": 0.8,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Domaine Marquis d´Angerville": {
-    "isNatural": false,
-    "confidence": 0.85,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Coche-Dury": {
-    "isNatural": false,
-    "confidence": 0.95,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Weingut Andres": {
-    "isNatural": true,
-    "confidence": 0.75,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Von Winning": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Domaine Michel Gros": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Domaine des Lauriers": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Domaine Vincent Careme": {
-    "isNatural": false,
-    "confidence": 0.75,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Couleurs d'Aquitaine": {
-    "isNatural": false,
-    "confidence": 0.95,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Vve Fourny & Fils": {
-    "isNatural": false,
-    "confidence": 0.85,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Vérité Wines": {
-    "isNatural": false,
-    "confidence": 0.95,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Vérité Estate": {
-    "isNatural": false,
-    "confidence": 0.95,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Weingut Waldschütz": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Walter Hansel": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Walter Scott Wines": {
-    "isNatural": false,
-    "confidence": 0.85,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Joh. Jos. Prüm": {
-    "isNatural": false,
-    "confidence": 0.95,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Max Ferd Richter": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Bodega y Cavas de Weinert S.A": {
-    "isNatural": false,
-    "confidence": 0.9,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Weingut Geyerhof - Familie Maier": {
-    "isNatural": false,
-    "confidence": 0.8,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Weingut Hirsch": {
-    "isNatural": false,
-    "confidence": 0.85,
-    "method": "claude",
-    "matchedTo": null,
-    "reason": ""
-  },
-  "Weingut Jürgen Landmann": {
-    "isNatural": false,
-    "confidence": 0.85,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -9611,7 +8911,7 @@
     "reason": ""
   },
   "Permavis SpA Wildmakers": {
-    "isNatural": false,
+    "isNatural": true,
     "confidence": 0.7,
     "method": "claude",
     "matchedTo": null,
@@ -9640,21 +8940,21 @@
   },
   "Wolf Blass": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.99,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Wongraven Wines": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Wynns Coonawarra Estate": {
     "isNatural": false,
-    "confidence": 1.0,
+    "confidence": 0.99,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -9703,7 +9003,7 @@
   },
   "Weingut In den Zehn Morgen SJ Montigny KG": {
     "isNatural": false,
-    "confidence": 0.8,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -9717,14 +9017,14 @@
   },
   "The Coterie": {
     "isNatural": false,
-    "confidence": 0.7,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
   },
   "Azienda Agricola Zidarich": {
     "isNatural": true,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -9752,7 +9052,7 @@
   },
   "Familia Zuccardi": {
     "isNatural": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -9766,7 +9066,7 @@
   },
   "Ànima Negra": {
     "isNatural": false,
-    "confidence": 0.75,
+    "confidence": 0.8,
     "method": "claude",
     "matchedTo": null,
     "reason": ""
@@ -9953,175 +9253,700 @@
     "matchedTo": null,
     "reason": ""
   },
-  "Domaine du Pélican": {
+  "Maison Idiart": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",
     "matchedTo": null,
     "reason": ""
   },
-  "Domaine du Vieux Lazaret": {
+  "Gruppo Campari - Glen Grant Limited": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",
     "matchedTo": null,
     "reason": ""
   },
-  "Domaine Evremond": {
+  "Bodegas Campillo": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",
     "matchedTo": null,
     "reason": ""
   },
-  "Domaine Font Sante": {
+  "Campo alle Comete/ Feudi group": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",
     "matchedTo": null,
     "reason": ""
   },
-  "Domaine Helena": {
+  "Vinarchy": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",
     "matchedTo": null,
     "reason": ""
   },
-  "Domaine Henri Cruchon": {
+  "Cosecheros y Criadores": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",
     "matchedTo": null,
     "reason": ""
   },
-  "Jean-Max Roger": {
+  "Cantina Kurtatsch": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",
     "matchedTo": null,
     "reason": ""
   },
-  "Domaine Lalande": {
+  "Ciccio Zaccagnini": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",
     "matchedTo": null,
     "reason": ""
   },
-  "Domaine Nico": {
+  "Cantine Gregoletto": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",
     "matchedTo": null,
     "reason": ""
   },
-  "Domaine Pouderoux": {
+  "The Grape Grinder": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",
     "matchedTo": null,
     "reason": ""
   },
-  "Domaine Santa Duc": {
+  "Boutinot South Africa": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",
     "matchedTo": null,
     "reason": ""
   },
-  "Domaine Vigneau-Chevreau": {
+  "Tenuta Di Capraia": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",
     "matchedTo": null,
     "reason": ""
   },
-  "Domino de Es": {
+  "Azienda Agricola Carlone Davide": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",
     "matchedTo": null,
     "reason": ""
   },
-  "Dominio del Aguila": {
+  "CARM - Casa Agricola Roboredo Madeira SA": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",
     "matchedTo": null,
     "reason": ""
   },
-  "Cornin": {
+  "Podere Il Carnasciale - Il Carnasciale s.r.l. società agricola": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",
     "matchedTo": null,
     "reason": ""
   },
-  "Domäne Wachau": {
+  "Fratelli Branca": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",
     "matchedTo": null,
     "reason": ""
   },
-  "Viña Don Melchor": {
+  "Alheit Vineyards": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",
     "matchedTo": null,
     "reason": ""
   },
-  "J García Carrión": {
+  "Cartuxa": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",
     "matchedTo": null,
     "reason": ""
   },
-  "McPherson Wines": {
+  "Cantina Vini Armani A. Srl": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",
     "matchedTo": null,
     "reason": ""
   },
-  "Dopff au Moulin": {
+  "Casa Capriolo": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",
     "matchedTo": null,
     "reason": ""
   },
-  "Botter": {
+  "Casa Castillo": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",
     "matchedTo": null,
     "reason": ""
   },
-  "Casa Vinicola Botter": {
+  "Solar de Cambres, LDA": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",
     "matchedTo": null,
     "reason": ""
   },
-  "Botter Spa": {
+  "Casa de Sarmento": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",
     "matchedTo": null,
     "reason": ""
   },
-  "Fitapreta Vinhos": {
+  "Casa Marzoni": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",
     "matchedTo": null,
     "reason": ""
   },
-  "Symington Family Estates": {
+  "Winepartners Nordic AB": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Markus Huber GmbH & Co KG": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Hubert Beck": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Hunter's Wines": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Castellare di Castellina": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Poggio al Tesoro": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Umenoyado Brewery": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Cum Natura GmbH": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Casa Vila Verde - Sociedade Agricola, Lda": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Perdeberg Winery": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Azienda Agricola Inama": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Viña Indómita": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Inglenook": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Azienda Agricola Chiusa Grande di Franco d'Eusanio": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Cantine Settesoli": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Benoit Cantin": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Gabin et Felix Richoux": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Van Zeller Wine Collection SA": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Irony Wine Cellars": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Tenuta Cavalier Pepe": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Riley Vinum S.L.": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Itata Paraiso wines SPA": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "J.H Goncalves & Co": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "J.P Kämmerer": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bratt & Partners": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Jaume Serra": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Stefan Meyer": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Knipser": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Kokuryu Sake Corporation": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Kolkman": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Kopke": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Sogevinus Fine Wines": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Koueigiku Sake Brewery": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Kourtakis": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Nakashima Brewery": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Kracher": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Krug": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Krug'scher Hof": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Shaoxing Wine Co. Ltd.": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Kullabergs Vingård": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "TINAL WINE CO SAS/Riccitelli Wines": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Kutch Wines": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Antiyal": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Ewald Theod Drathen": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Laroche": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Stolpman Vineyards": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bodegas Luis Pérez S.L.": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Earl Bronzo": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Chaquepe": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "CHAQUEPE S.A.": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "François Lurton": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Pyros Wines": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Quinta do Popa": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bodegas Felix Lavaque": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Portal del Priorat": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Società Agricola Querciabella SpA": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Achillee": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Casa Agrícola das Mimosas": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Quinta de Chocapalha": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Quinta do Noval-Vinhos, S.A.": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Quinta do Noval": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Quinta do Paral": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Quinta do Vallado": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Quintessa": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bodegas Palacios Remondo": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weinland Königsbach-Neustadt GmdH": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Rudolf Rabl": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Mastroberardino": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Rall Wines": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "João Portugal Ramos": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Raventós i Blanc": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Rawson's Retreat": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Olivier Riviere": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "La Riojana Coop": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bodegas Y Vinedos Raúl Pérez": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "José Estevez": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",
@@ -10297,6 +10122,181 @@
     "reason": ""
   },
   "Weingut Sander": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Viña Casa Marin": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Quinta de Maipo SpA": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Viña Solorca": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Törley Pezsgopincészet": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Per Se": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Marquis d´Angerville": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Coche-Dury": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Andres": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Von Winning": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Michel Gros": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine des Lauriers": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Vincent Careme": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Couleurs d'Aquitaine": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Vve Fourny & Fils": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Vérité Wines": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Vérité Estate": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Waldschütz": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Walter Hansel": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Walter Scott Wines": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Joh. Jos. Prüm": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Max Ferd Richter": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bodega y Cavas de Weinert S.A": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Geyerhof - Familie Maier": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Hirsch": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Jürgen Landmann": {
     "isNatural": false,
     "confidence": 0,
     "method": "unclassified",

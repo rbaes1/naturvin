@@ -94,6 +94,41 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
+    "id": "61402083",
+    "num": "93239",
+    "name": "Fred",
+    "sub": "Strekov 1075",
+    "producer": "Strekov 1075",
+    "country": "Slovakien",
+    "cat": "Rött vin",
+    "price": 260.0,
+    "vintage": null,
+    "grapes": [],
+    "organic": false,
+    "conf": 1.0,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "59501533",
+    "num": "30661",
+    "name": "Fuchs und Hase",
+    "sub": "Pet Nat Vol 2",
+    "producer": "Fuchs und Hase",
+    "country": "Österrike",
+    "cat": "Mousserande vin",
+    "price": 229.0,
+    "vintage": "2024",
+    "grapes": [
+      "Grüner veltliner",
+      "Gelber muskateller"
+    ],
+    "organic": true,
+    "conf": 1.0,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
     "id": "59269760",
     "num": "93007",
     "name": "Grotte Alte",
@@ -277,6 +312,22 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
+    "id": "51088332",
+    "num": "93099",
+    "name": "Pommard Premier Cru Les Epentos",
+    "sub": "Philippe Pacalet",
+    "producer": "Philippe Pacalet",
+    "country": "Frankrike",
+    "cat": "Rött vin",
+    "price": 1919.0,
+    "vintage": "2022",
+    "grapes": [],
+    "organic": true,
+    "conf": 1.0,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
     "id": "59269790",
     "num": "93308",
     "name": "SM Vino di Contrada",
@@ -422,34 +473,20 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "59732936",
-    "num": "94485",
-    "name": "Emidio Pepe",
-    "sub": "Trebbiano d'Abruzzo V",
-    "producer": "Emidio Pepe",
+    "id": "54893267",
+    "num": "94419",
+    "name": "Altare",
+    "sub": "Dogliani",
+    "producer": "Azienda Agricola Altare di Altare Nicholas",
     "country": "Italien",
-    "cat": "Vitt vin",
-    "price": 825.0,
-    "vintage": "2022",
-    "grapes": [],
-    "organic": false,
-    "conf": 0.99,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
-  },
-  {
-    "id": "51088332",
-    "num": "93099",
-    "name": "Pommard Premier Cru Les Epentos",
-    "sub": "Philippe Pacalet",
-    "producer": "Philippe Pacalet",
-    "country": "Frankrike",
     "cat": "Rött vin",
-    "price": 1919.0,
-    "vintage": "2022",
-    "grapes": [],
-    "organic": true,
-    "conf": 0.99,
+    "price": 179.0,
+    "vintage": "2024",
+    "grapes": [
+      "Dolcetto"
+    ],
+    "organic": false,
+    "conf": 0.95,
     "method": "claude",
     "assortment": "Tillfälligt sortiment"
   },
@@ -525,18 +562,17 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "53532963",
-    "num": "91103",
-    "name": "Daï Solera",
-    "sub": null,
-    "producer": "Myrko Tépus",
+    "id": "53882116",
+    "num": "94736",
+    "name": "Coulée de Serrant",
+    "sub": "Famille Joly",
+    "producer": "SAS Famille Joly",
     "country": "Frankrike",
-    "cat": "Rosévin",
-    "price": 299.0,
-    "vintage": null,
+    "cat": "Vitt vin",
+    "price": 859.0,
+    "vintage": "2023",
     "grapes": [
-      "Grenache",
-      "Cinsault"
+      "Chenin blanc"
     ],
     "organic": true,
     "conf": 0.95,
@@ -544,36 +580,17 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "61402083",
-    "num": "93239",
-    "name": "Fred",
-    "sub": "Strekov 1075",
-    "producer": "Strekov 1075",
-    "country": "Slovakien",
-    "cat": "Rött vin",
-    "price": 260.0,
-    "vintage": null,
+    "id": "59732936",
+    "num": "94485",
+    "name": "Emidio Pepe",
+    "sub": "Trebbiano d'Abruzzo V",
+    "producer": "Emidio Pepe",
+    "country": "Italien",
+    "cat": "Vitt vin",
+    "price": 825.0,
+    "vintage": "2022",
     "grapes": [],
     "organic": false,
-    "conf": 0.95,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
-  },
-  {
-    "id": "59501533",
-    "num": "30661",
-    "name": "Fuchs und Hase",
-    "sub": "Pet Nat Vol 2",
-    "producer": "Fuchs und Hase",
-    "country": "Österrike",
-    "cat": "Mousserande vin",
-    "price": 229.0,
-    "vintage": "2024",
-    "grapes": [
-      "Grüner veltliner",
-      "Gelber muskateller"
-    ],
-    "organic": true,
     "conf": 0.95,
     "method": "claude",
     "assortment": "Tillfälligt sortiment"
@@ -717,22 +734,6 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "53665830",
-    "num": "93737",
-    "name": "Soldera",
-    "sub": "Case Basse",
-    "producer": "Case Basse di Gianfranco Soldera",
-    "country": "Italien",
-    "cat": "Rött vin",
-    "price": 6299.0,
-    "vintage": "2020",
-    "grapes": [],
-    "organic": false,
-    "conf": 0.95,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
-  },
-  {
     "id": "507128",
     "num": "2167",
     "name": "Terre de Mistral Reserve",
@@ -767,6 +768,22 @@
       "Verdeca"
     ],
     "organic": true,
+    "conf": 0.95,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "32103668",
+    "num": "90424",
+    "name": "Zidarich",
+    "sub": "Teran",
+    "producer": "Azienda Agricola Zidarich",
+    "country": "Italien",
+    "cat": "Rött vin",
+    "price": 349.0,
+    "vintage": "2020",
+    "grapes": [],
+    "organic": false,
     "conf": 0.95,
     "method": "claude",
     "assortment": "Tillfälligt sortiment"
@@ -826,24 +843,6 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "54893267",
-    "num": "94419",
-    "name": "Altare",
-    "sub": "Dogliani",
-    "producer": "Azienda Agricola Altare di Altare Nicholas",
-    "country": "Italien",
-    "cat": "Rött vin",
-    "price": 179.0,
-    "vintage": "2024",
-    "grapes": [
-      "Dolcetto"
-    ],
-    "organic": false,
-    "conf": 0.9,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
-  },
-  {
     "id": "24544725",
     "num": "83136",
     "name": "Arndorfer",
@@ -862,35 +861,87 @@
     "assortment": "Fast sortiment"
   },
   {
-    "id": "52988248",
-    "num": "92855",
-    "name": "Blaufränkisch vom Kalk",
-    "sub": "Markus Altenburger",
-    "producer": "Weingut Markus Altenburger",
-    "country": "Österrike",
+    "id": "44762200",
+    "num": "94925",
+    "name": "Barbaresco Gallina",
+    "sub": "Roagna Azienda Agricola I Paglieri",
+    "producer": "Roagna Azienda Agricola I Paglieri S.S",
+    "country": "Italien",
     "cat": "Rött vin",
-    "price": 199.0,
-    "vintage": "2023",
-    "grapes": [
-      "Blaufränkisch"
-    ],
-    "organic": true,
+    "price": 1999.0,
+    "vintage": "2018",
+    "grapes": [],
+    "organic": false,
     "conf": 0.9,
     "method": "claude",
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "53663711",
-    "num": "93399",
-    "name": "Brunello di Montalcino Riserva",
-    "sub": "Poggio Sant'Arna",
-    "producer": "Az. Agr. Santa Maria",
+    "id": "44674285",
+    "num": "93256",
+    "name": "Barbaresco Pajé Vecchie Viti",
+    "sub": "Roagna Azienda Agricola",
+    "producer": "Roagna Azienda Agricola I Paglieri S.S",
     "country": "Italien",
     "cat": "Rött vin",
-    "price": 949.0,
-    "vintage": "2019",
+    "price": 4999.0,
+    "vintage": "2018",
+    "grapes": [
+      "Nebbiolo"
+    ],
+    "organic": false,
+    "conf": 0.9,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "44762208",
+    "num": "90305",
+    "name": "Barolo Pira Vecchie Viti",
+    "sub": "Roagna Azienda Agricola I Paglieri",
+    "producer": "Roagna Azienda Agricola I Paglieri S.S",
+    "country": "Italien",
+    "cat": "Rött vin",
+    "price": 4999.0,
+    "vintage": "2018",
     "grapes": [],
     "organic": false,
+    "conf": 0.9,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "44762241",
+    "num": "90692",
+    "name": "Barolo Rocche di Castiglione",
+    "sub": "Roagna Azienda Agricola I Paglieri",
+    "producer": "Roagna Azienda Agricola I Paglieri S.S",
+    "country": "Italien",
+    "cat": "Rött vin",
+    "price": 1999.0,
+    "vintage": "2018",
+    "grapes": [
+      "Nebbiolo"
+    ],
+    "organic": false,
+    "conf": 0.9,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "54946314",
+    "num": "95823",
+    "name": "Chiara Condello",
+    "sub": "Predappio",
+    "producer": "Chiara Condello",
+    "country": "Italien",
+    "cat": "Rött vin",
+    "price": 199.0,
+    "vintage": "2022",
+    "grapes": [
+      "Sangiovese"
+    ],
+    "organic": true,
     "conf": 0.9,
     "method": "claude",
     "assortment": "Tillfälligt sortiment"
@@ -932,24 +983,6 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "243239",
-    "num": "2242",
-    "name": "Colle Reale",
-    "sub": "Cerasuolo Rosé",
-    "producer": "Passione Natura",
-    "country": "Italien",
-    "cat": "Rosévin",
-    "price": 99.0,
-    "vintage": "2023",
-    "grapes": [
-      "Montepulciano"
-    ],
-    "organic": true,
-    "conf": 0.9,
-    "method": "claude",
-    "assortment": "Fast sortiment"
-  },
-  {
     "id": "54946313",
     "num": "95824",
     "name": "Corte Sant'Alda Ca'Fiui",
@@ -966,18 +999,35 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "53882116",
-    "num": "94736",
-    "name": "Coulée de Serrant",
-    "sub": "Famille Joly",
-    "producer": "SAS Famille Joly",
+    "id": "53532963",
+    "num": "91103",
+    "name": "Daï Solera",
+    "sub": null,
+    "producer": "Myrko Tépus",
     "country": "Frankrike",
-    "cat": "Vitt vin",
-    "price": 859.0,
-    "vintage": "2023",
+    "cat": "Rosévin",
+    "price": 299.0,
+    "vintage": null,
     "grapes": [
-      "Chenin blanc"
+      "Grenache",
+      "Cinsault"
     ],
+    "organic": true,
+    "conf": 0.9,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "59993085",
+    "num": "94631",
+    "name": "Domaine des Pothiers",
+    "sub": "La Chapelle",
+    "producer": "Pothiers La Chapelle",
+    "country": "Frankrike",
+    "cat": "Rött vin",
+    "price": 239.0,
+    "vintage": "2024",
+    "grapes": [],
     "organic": true,
     "conf": 0.9,
     "method": "claude",
@@ -1196,25 +1246,6 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "807497",
-    "num": "2469",
-    "name": "Les Pious",
-    "sub": "Côtes du Rhône",
-    "producer": "REMI POUIZIN",
-    "country": "Frankrike",
-    "cat": "Rött vin",
-    "price": 99.0,
-    "vintage": "2024",
-    "grapes": [
-      "Grenache",
-      "Syrah"
-    ],
-    "organic": true,
-    "conf": 0.9,
-    "method": "claude",
-    "assortment": "Fast sortiment"
-  },
-  {
     "id": "24655716",
     "num": "7959",
     "name": "Loxarel",
@@ -1265,6 +1296,22 @@
     "vintage": "2023",
     "grapes": [],
     "organic": true,
+    "conf": 0.9,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "58095037",
+    "num": "92637",
+    "name": "Marko",
+    "sub": "Gure Arbasoak",
+    "producer": "Oxer Bastegieta Zenigaonaindia",
+    "country": "Spanien",
+    "cat": "Vitt vin",
+    "price": 249.0,
+    "vintage": "2024",
+    "grapes": [],
+    "organic": false,
     "conf": 0.9,
     "method": "claude",
     "assortment": "Tillfälligt sortiment"
@@ -1329,24 +1376,6 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "56804186",
-    "num": "92352",
-    "name": "Monteraponi",
-    "sub": "Chianti Classico",
-    "producer": "Monteraponi",
-    "country": "Italien",
-    "cat": "Rött vin",
-    "price": 229.0,
-    "vintage": "2023",
-    "grapes": [
-      "Sangiovese"
-    ],
-    "organic": true,
-    "conf": 0.9,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
-  },
-  {
     "id": "53882816",
     "num": "92425",
     "name": "Neromaestri",
@@ -1384,35 +1413,17 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "24696177",
-    "num": "91135",
-    "name": "Quetsches Alors",
-    "sub": null,
-    "producer": "Achillee",
-    "country": "Frankrike",
-    "cat": "Smaksatt vin & fruktvin",
-    "price": 144.0,
-    "vintage": "2020",
-    "grapes": [],
-    "organic": true,
-    "conf": 0.9,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
-  },
-  {
-    "id": "58335173",
-    "num": "92494",
-    "name": "Raúl Pérez",
-    "sub": "Ultreia Saint Jacques",
-    "producer": "Bodegas Y Vinedos Raúl Pérez",
-    "country": "Spanien",
+    "id": "53663251",
+    "num": "92832",
+    "name": "Roagna",
+    "sub": "Barbaresco Crichët Pajé",
+    "producer": "Roagna Azienda Agricola I Paglieri S.S",
+    "country": "Italien",
     "cat": "Rött vin",
-    "price": 189.0,
-    "vintage": "2023",
+    "price": 16999.0,
+    "vintage": "2016",
     "grapes": [
-      "Bastardo",
-      "Mencía",
-      "Garnacha tintorera"
+      "Nebbiolo"
     ],
     "organic": false,
     "conf": 0.9,
@@ -1420,15 +1431,15 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "44089883",
-    "num": "90536",
-    "name": "Raúl Pérez",
-    "sub": "Ultreia Valtuille",
-    "producer": "Bodegas Y Vinedos Raúl Pérez",
-    "country": "Spanien",
+    "id": "53665827",
+    "num": "93731",
+    "name": "Roagna",
+    "sub": "Barbaresco Gallina",
+    "producer": "Roagna Azienda Agricola I Paglieri S.S",
+    "country": "Italien",
     "cat": "Rött vin",
-    "price": 619.0,
-    "vintage": "2022",
+    "price": 1999.0,
+    "vintage": "2019",
     "grapes": [],
     "organic": false,
     "conf": 0.9,
@@ -1481,6 +1492,58 @@
     "vintage": "2023",
     "grapes": [],
     "organic": true,
+    "conf": 0.9,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "53665830",
+    "num": "93737",
+    "name": "Soldera",
+    "sub": "Case Basse",
+    "producer": "Case Basse di Gianfranco Soldera",
+    "country": "Italien",
+    "cat": "Rött vin",
+    "price": 6299.0,
+    "vintage": "2020",
+    "grapes": [],
+    "organic": false,
+    "conf": 0.9,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "52988315",
+    "num": "95042",
+    "name": "Sybille Kuntz",
+    "sub": "Riesling Kabinett trocken",
+    "producer": "Weingut Sybille Kuntz",
+    "country": "Tyskland",
+    "cat": "Vitt vin",
+    "price": 289.0,
+    "vintage": "2023",
+    "grapes": [
+      "Riesling"
+    ],
+    "organic": true,
+    "conf": 0.9,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "56804265",
+    "num": "92641",
+    "name": "Sybille Kuntz",
+    "sub": "Riesling Spätlese",
+    "producer": "Weingut Sybille Kuntz",
+    "country": "Tyskland",
+    "cat": "Vitt vin",
+    "price": 449.0,
+    "vintage": "2011",
+    "grapes": [
+      "Riesling"
+    ],
+    "organic": false,
     "conf": 0.9,
     "method": "claude",
     "assortment": "Tillfälligt sortiment"
@@ -1540,6 +1603,24 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
+    "id": "51427693",
+    "num": "92606",
+    "name": "Viré-Clessé Clos de Buc",
+    "sub": "Jean-Marie Chaland",
+    "producer": "Jean-Marie Chaland",
+    "country": "Frankrike",
+    "cat": "Vitt vin",
+    "price": 439.0,
+    "vintage": "2022",
+    "grapes": [
+      "Chardonnay"
+    ],
+    "organic": true,
+    "conf": 0.9,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
     "id": "47220148",
     "num": "95576",
     "name": "Weingut Peter Jakob Kühn",
@@ -1591,144 +1672,6 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "32103668",
-    "num": "90424",
-    "name": "Zidarich",
-    "sub": "Teran",
-    "producer": "Azienda Agricola Zidarich",
-    "country": "Italien",
-    "cat": "Rött vin",
-    "price": 349.0,
-    "vintage": "2020",
-    "grapes": [],
-    "organic": false,
-    "conf": 0.9,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
-  },
-  {
-    "id": "54587933",
-    "num": "90335",
-    "name": "4 kilos",
-    "sub": "12 Volts",
-    "producer": "4Kilos",
-    "country": "Spanien",
-    "cat": "Rött vin",
-    "price": 259.0,
-    "vintage": "2022",
-    "grapes": [
-      "Callet"
-    ],
-    "organic": true,
-    "conf": 0.85,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
-  },
-  {
-    "id": "60188293",
-    "num": "94882",
-    "name": "Apostolidi",
-    "sub": "Assyrtiko Agia Triada",
-    "producer": "Ktima Apostolidi",
-    "country": "Grekland",
-    "cat": "Vitt vin",
-    "price": 189.0,
-    "vintage": "2024",
-    "grapes": [
-      "Assyrtiko"
-    ],
-    "organic": true,
-    "conf": 0.85,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
-  },
-  {
-    "id": "51343207",
-    "num": "92253",
-    "name": "Arnaud Lambert",
-    "sub": "Saumur Blanc Brézé Midi",
-    "producer": "Arnaud Lambert",
-    "country": "Frankrike",
-    "cat": "Vitt vin",
-    "price": 199.0,
-    "vintage": "2024",
-    "grapes": [
-      "Chenin blanc"
-    ],
-    "organic": true,
-    "conf": 0.85,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
-  },
-  {
-    "id": "44762200",
-    "num": "94925",
-    "name": "Barbaresco Gallina",
-    "sub": "Roagna Azienda Agricola I Paglieri",
-    "producer": "Roagna Azienda Agricola I Paglieri S.S",
-    "country": "Italien",
-    "cat": "Rött vin",
-    "price": 1999.0,
-    "vintage": "2018",
-    "grapes": [],
-    "organic": false,
-    "conf": 0.85,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
-  },
-  {
-    "id": "44674285",
-    "num": "93256",
-    "name": "Barbaresco Pajé Vecchie Viti",
-    "sub": "Roagna Azienda Agricola",
-    "producer": "Roagna Azienda Agricola I Paglieri S.S",
-    "country": "Italien",
-    "cat": "Rött vin",
-    "price": 4999.0,
-    "vintage": "2018",
-    "grapes": [
-      "Nebbiolo"
-    ],
-    "organic": false,
-    "conf": 0.85,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
-  },
-  {
-    "id": "44762208",
-    "num": "90305",
-    "name": "Barolo Pira Vecchie Viti",
-    "sub": "Roagna Azienda Agricola I Paglieri",
-    "producer": "Roagna Azienda Agricola I Paglieri S.S",
-    "country": "Italien",
-    "cat": "Rött vin",
-    "price": 4999.0,
-    "vintage": "2018",
-    "grapes": [],
-    "organic": false,
-    "conf": 0.85,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
-  },
-  {
-    "id": "44762241",
-    "num": "90692",
-    "name": "Barolo Rocche di Castiglione",
-    "sub": "Roagna Azienda Agricola I Paglieri",
-    "producer": "Roagna Azienda Agricola I Paglieri S.S",
-    "country": "Italien",
-    "cat": "Rött vin",
-    "price": 1999.0,
-    "vintage": "2018",
-    "grapes": [
-      "Nebbiolo"
-    ],
-    "organic": false,
-    "conf": 0.85,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
-  },
-  {
     "id": "59993045",
     "num": "90402",
     "name": "Barrio de los Arroyuelos",
@@ -1742,6 +1685,24 @@
       "Grenache"
     ],
     "organic": false,
+    "conf": 0.85,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "52988248",
+    "num": "92855",
+    "name": "Blaufränkisch vom Kalk",
+    "sub": "Markus Altenburger",
+    "producer": "Weingut Markus Altenburger",
+    "country": "Österrike",
+    "cat": "Rött vin",
+    "price": 199.0,
+    "vintage": "2023",
+    "grapes": [
+      "Blaufränkisch"
+    ],
+    "organic": true,
     "conf": 0.85,
     "method": "claude",
     "assortment": "Tillfälligt sortiment"
@@ -1783,15 +1744,33 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "59993085",
-    "num": "94631",
-    "name": "Domaine des Pothiers",
-    "sub": "La Chapelle",
-    "producer": "Pothiers La Chapelle",
-    "country": "Frankrike",
+    "id": "243239",
+    "num": "2242",
+    "name": "Colle Reale",
+    "sub": "Cerasuolo Rosé",
+    "producer": "Passione Natura",
+    "country": "Italien",
+    "cat": "Rosévin",
+    "price": 99.0,
+    "vintage": "2023",
+    "grapes": [
+      "Montepulciano"
+    ],
+    "organic": true,
+    "conf": 0.85,
+    "method": "claude",
+    "assortment": "Fast sortiment"
+  },
+  {
+    "id": "53882823",
+    "num": "92800",
+    "name": "Dido",
+    "sub": "La Universal",
+    "producer": "Venus La Universal, SL",
+    "country": "Spanien",
     "cat": "Rött vin",
     "price": 239.0,
-    "vintage": "2024",
+    "vintage": "2022",
     "grapes": [],
     "organic": true,
     "conf": 0.85,
@@ -1799,17 +1778,17 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "35910530",
-    "num": "93957",
-    "name": "Duemani",
-    "sub": "Cabernet franc",
-    "producer": "Duemani",
-    "country": "Italien",
-    "cat": "Rött vin",
-    "price": 1199.0,
-    "vintage": "2019",
+    "id": "53665854",
+    "num": "94043",
+    "name": "Dido",
+    "sub": "La Soluciò Rosa",
+    "producer": "Venus La Universal, SL",
+    "country": "Spanien",
+    "cat": "Rosévin",
+    "price": 249.0,
+    "vintage": "2023",
     "grapes": [],
-    "organic": true,
+    "organic": false,
     "conf": 0.85,
     "method": "claude",
     "assortment": "Tillfälligt sortiment"
@@ -1851,41 +1830,23 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "24444756",
-    "num": "7583",
-    "name": "Leclerc Briant",
-    "sub": "Champagne Rosé",
-    "producer": "Leclerc Briant",
+    "id": "807497",
+    "num": "2469",
+    "name": "Les Pious",
+    "sub": "Côtes du Rhône",
+    "producer": "REMI POUIZIN",
     "country": "Frankrike",
-    "cat": "Mousserande vin",
-    "price": 589.0,
-    "vintage": null,
+    "cat": "Rött vin",
+    "price": 99.0,
+    "vintage": "2024",
     "grapes": [
-      "Chardonnay",
-      "Pinot noir"
+      "Grenache",
+      "Syrah"
     ],
     "organic": true,
     "conf": 0.85,
     "method": "claude",
     "assortment": "Fast sortiment"
-  },
-  {
-    "id": "56637849",
-    "num": "95257",
-    "name": "Liebedich Grüner Veltliner",
-    "sub": "Weingut Veyder-Malberg",
-    "producer": "Weingut Veyder-Malberg",
-    "country": "Österrike",
-    "cat": "Vitt vin",
-    "price": 299.0,
-    "vintage": "2024",
-    "grapes": [
-      "Grüner veltliner"
-    ],
-    "organic": false,
-    "conf": 0.85,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
   },
   {
     "id": "61066712",
@@ -1922,22 +1883,6 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "58095037",
-    "num": "92637",
-    "name": "Marko",
-    "sub": "Gure Arbasoak",
-    "producer": "Oxer Bastegieta Zenigaonaindia",
-    "country": "Spanien",
-    "cat": "Vitt vin",
-    "price": 249.0,
-    "vintage": "2024",
-    "grapes": [],
-    "organic": false,
-    "conf": 0.85,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
-  },
-  {
     "id": "540658",
     "num": "6470",
     "name": "Mas Louise",
@@ -1957,17 +1902,19 @@
     "assortment": "Fast sortiment"
   },
   {
-    "id": "59273540",
-    "num": "93675",
-    "name": "Moulin à Vent L'Éphémère",
-    "sub": "Jules Desjourneys",
-    "producer": "Domaine Jules Desjourneys",
-    "country": "Frankrike",
+    "id": "56804186",
+    "num": "92352",
+    "name": "Monteraponi",
+    "sub": "Chianti Classico",
+    "producer": "Monteraponi",
+    "country": "Italien",
     "cat": "Rött vin",
-    "price": 339.0,
-    "vintage": "2022",
-    "grapes": [],
-    "organic": false,
+    "price": 229.0,
+    "vintage": "2023",
+    "grapes": [
+      "Sangiovese"
+    ],
+    "organic": true,
     "conf": 0.85,
     "method": "claude",
     "assortment": "Tillfälligt sortiment"
@@ -1991,26 +1938,6 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "57774312",
-    "num": "20186",
-    "name": "Pflüger",
-    "sub": "Red Balloon Cuvée",
-    "producer": "Weinkontor A.&J. Pflüger",
-    "country": "Tyskland",
-    "cat": "Rött vin",
-    "price": 119.0,
-    "vintage": "2024",
-    "grapes": [
-      "Pinot noir",
-      "Dornfelder",
-      "Merlot"
-    ],
-    "organic": true,
-    "conf": 0.85,
-    "method": "claude",
-    "assortment": "Fast sortiment"
-  },
-  {
     "id": "53882339",
     "num": "94851",
     "name": "Pietramore",
@@ -2024,40 +1951,6 @@
       "Trebbiano"
     ],
     "organic": true,
-    "conf": 0.85,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
-  },
-  {
-    "id": "53663251",
-    "num": "92832",
-    "name": "Roagna",
-    "sub": "Barbaresco Crichët Pajé",
-    "producer": "Roagna Azienda Agricola I Paglieri S.S",
-    "country": "Italien",
-    "cat": "Rött vin",
-    "price": 16999.0,
-    "vintage": "2016",
-    "grapes": [
-      "Nebbiolo"
-    ],
-    "organic": false,
-    "conf": 0.85,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
-  },
-  {
-    "id": "53665827",
-    "num": "93731",
-    "name": "Roagna",
-    "sub": "Barbaresco Gallina",
-    "producer": "Roagna Azienda Agricola I Paglieri S.S",
-    "country": "Italien",
-    "cat": "Rött vin",
-    "price": 1999.0,
-    "vintage": "2019",
-    "grapes": [],
-    "organic": false,
     "conf": 0.85,
     "method": "claude",
     "assortment": "Tillfälligt sortiment"
@@ -2079,20 +1972,22 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "35910533",
-    "num": "93973",
-    "name": "Suisassi",
-    "sub": "Syrah",
-    "producer": "Duemani",
-    "country": "Italien",
+    "id": "53213434",
+    "num": "2135",
+    "name": "Susurro",
+    "sub": "Monastrell",
+    "producer": "Bodegas Parra Jimenez",
+    "country": "Spanien",
     "cat": "Rött vin",
-    "price": 1199.0,
-    "vintage": "2019",
-    "grapes": [],
+    "price": 149.0,
+    "vintage": "2024",
+    "grapes": [
+      "Monastrell"
+    ],
     "organic": true,
     "conf": 0.85,
     "method": "claude",
-    "assortment": "Tillfälligt sortiment"
+    "assortment": "Fast sortiment"
   },
   {
     "id": "58094990",
@@ -2130,6 +2025,56 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
+    "id": "59260499",
+    "num": "91317",
+    "name": "Valpolicella Superiore",
+    "sub": "Musella",
+    "producer": "Musella",
+    "country": "Italien",
+    "cat": "Rött vin",
+    "price": 179.0,
+    "vintage": "2022",
+    "grapes": [],
+    "organic": true,
+    "conf": 0.85,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "54587933",
+    "num": "90335",
+    "name": "4 kilos",
+    "sub": "12 Volts",
+    "producer": "4Kilos",
+    "country": "Spanien",
+    "cat": "Rött vin",
+    "price": 259.0,
+    "vintage": "2022",
+    "grapes": [
+      "Callet"
+    ],
+    "organic": true,
+    "conf": 0.8,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "53663711",
+    "num": "93399",
+    "name": "Brunello di Montalcino Riserva",
+    "sub": "Poggio Sant'Arna",
+    "producer": "Az. Agr. Santa Maria",
+    "country": "Italien",
+    "cat": "Rött vin",
+    "price": 949.0,
+    "vintage": "2019",
+    "grapes": [],
+    "organic": false,
+    "conf": 0.8,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
     "id": "56377521",
     "num": "93567",
     "name": "Cairanne",
@@ -2150,17 +2095,17 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "54946314",
-    "num": "95823",
-    "name": "Chiara Condello",
-    "sub": "Predappio",
-    "producer": "Chiara Condello",
-    "country": "Italien",
-    "cat": "Rött vin",
-    "price": 199.0,
-    "vintage": "2022",
+    "id": "59501525",
+    "num": "93892",
+    "name": "Clos Maurice",
+    "sub": "Saumur Blanc Licorne",
+    "producer": "Domaine Les Clos Maurice",
+    "country": "Frankrike",
+    "cat": "Vitt vin",
+    "price": 299.0,
+    "vintage": "2023",
     "grapes": [
-      "Sangiovese"
+      "Chenin blanc"
     ],
     "organic": true,
     "conf": 0.8,
@@ -2168,33 +2113,19 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "53882823",
-    "num": "92800",
-    "name": "Dido",
-    "sub": "La Universal",
-    "producer": "Venus La Universal, SL",
-    "country": "Spanien",
-    "cat": "Rött vin",
-    "price": 239.0,
+    "id": "55137392",
+    "num": "94878",
+    "name": "Dominique Cornin",
+    "sub": "Pouilly-Fuissé Les Plessys",
+    "producer": "Cornin",
+    "country": "Frankrike",
+    "cat": "Vitt vin",
+    "price": 399.0,
     "vintage": "2022",
-    "grapes": [],
+    "grapes": [
+      "Chardonnay"
+    ],
     "organic": true,
-    "conf": 0.8,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
-  },
-  {
-    "id": "53665854",
-    "num": "94043",
-    "name": "Dido",
-    "sub": "La Soluciò Rosa",
-    "producer": "Venus La Universal, SL",
-    "country": "Spanien",
-    "cat": "Rosévin",
-    "price": 249.0,
-    "vintage": "2023",
-    "grapes": [],
-    "organic": false,
     "conf": 0.8,
     "method": "claude",
     "assortment": "Tillfälligt sortiment"
@@ -2216,17 +2147,72 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "24595147",
-    "num": "93863",
-    "name": "Integro",
-    "sub": null,
-    "producer": "Azienda Agricola Chiusa Grande di Franco d'Eusanio",
-    "country": "Italien",
+    "id": "24612021",
+    "num": "52533",
+    "name": "Jérôme Arnoux",
+    "sub": "Tradition",
+    "producer": "Jérôme Arnoux",
+    "country": "Frankrike",
+    "cat": "Rött vin",
+    "price": 199.0,
+    "vintage": "2023",
+    "grapes": [
+      "Pinot noir",
+      "Trousseau",
+      "Poulsard"
+    ],
+    "organic": false,
+    "conf": 0.8,
+    "method": "claude",
+    "assortment": "Fast sortiment"
+  },
+  {
+    "id": "24698267",
+    "num": "56071",
+    "name": "Jérôme Arnoux",
+    "sub": "Brut Nature",
+    "producer": "Jérôme Arnoux",
+    "country": "Frankrike",
     "cat": "Mousserande vin",
-    "price": 149.0,
+    "price": 199.0,
     "vintage": null,
     "grapes": [
-      "Chardonnay"
+      "Chardonnay",
+      "Pinot noir"
+    ],
+    "organic": false,
+    "conf": 0.8,
+    "method": "claude",
+    "assortment": "Fast sortiment"
+  },
+  {
+    "id": "52580519",
+    "num": "92749",
+    "name": "Katharina Wechsler",
+    "sub": "Fräulein Hu Rosé",
+    "producer": "Weingut Katharina Wechlsler",
+    "country": "Tyskland",
+    "cat": "Mousserande vin",
+    "price": 135.0,
+    "vintage": "2023",
+    "grapes": [],
+    "organic": true,
+    "conf": 0.8,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "52988333",
+    "num": "92747",
+    "name": "Katharina Wechsler",
+    "sub": "Spätburgunder Kalk",
+    "producer": "Weingut Katharina Wechlsler",
+    "country": "Tyskland",
+    "cat": "Rött vin",
+    "price": 359.0,
+    "vintage": "2022",
+    "grapes": [
+      "Spätburgunder"
     ],
     "organic": true,
     "conf": 0.8,
@@ -2234,17 +2220,56 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "36781383",
-    "num": "94305",
-    "name": "La Barajuela Cortado",
-    "sub": null,
-    "producer": "Bodegas Luis Pérez S.L.",
-    "country": "Spanien",
-    "cat": "Starkvin",
-    "price": 779.0,
-    "vintage": "2018",
-    "grapes": [],
+    "id": "24444756",
+    "num": "7583",
+    "name": "Leclerc Briant",
+    "sub": "Champagne Rosé",
+    "producer": "Leclerc Briant",
+    "country": "Frankrike",
+    "cat": "Mousserande vin",
+    "price": 589.0,
+    "vintage": null,
+    "grapes": [
+      "Chardonnay",
+      "Pinot noir"
+    ],
+    "organic": true,
+    "conf": 0.8,
+    "method": "claude",
+    "assortment": "Fast sortiment"
+  },
+  {
+    "id": "56637849",
+    "num": "95257",
+    "name": "Liebedich Grüner Veltliner",
+    "sub": "Weingut Veyder-Malberg",
+    "producer": "Weingut Veyder-Malberg",
+    "country": "Österrike",
+    "cat": "Vitt vin",
+    "price": 299.0,
+    "vintage": "2024",
+    "grapes": [
+      "Grüner veltliner"
+    ],
     "organic": false,
+    "conf": 0.8,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "58335243",
+    "num": "92897",
+    "name": "Macération",
+    "sub": null,
+    "producer": "SAS MAISON CHARLES FREY",
+    "country": "Frankrike",
+    "cat": "Vitt vin",
+    "price": 199.0,
+    "vintage": "2024",
+    "grapes": [
+      "Gewürztraminer"
+    ],
+    "organic": true,
     "conf": 0.8,
     "method": "claude",
     "assortment": "Tillfälligt sortiment"
@@ -2284,129 +2309,140 @@
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "55617819",
-    "num": "94480",
-    "name": "Rayos Uva",
-    "sub": "Olivier Riviere",
-    "producer": "Olivier Riviere",
-    "country": "Spanien",
+    "id": "59273540",
+    "num": "93675",
+    "name": "Moulin à Vent L'Éphémère",
+    "sub": "Jules Desjourneys",
+    "producer": "Domaine Jules Desjourneys",
+    "country": "Frankrike",
     "cat": "Rött vin",
-    "price": 169.0,
-    "vintage": "2023",
-    "grapes": [
-      "Tempranillo",
-      "Garnacha",
-      "Graciano"
-    ],
+    "price": 339.0,
+    "vintage": "2022",
+    "grapes": [],
     "organic": false,
     "conf": 0.8,
     "method": "claude",
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "59260499",
-    "num": "91317",
-    "name": "Valpolicella Superiore",
-    "sub": "Musella",
-    "producer": "Musella",
-    "country": "Italien",
-    "cat": "Rött vin",
-    "price": 179.0,
-    "vintage": "2022",
-    "grapes": [],
+    "id": "53213443",
+    "num": "2041",
+    "name": "Vins el Cep",
+    "sub": "OT Xarel-lo",
+    "producer": "Vins el Cep",
+    "country": "Spanien",
+    "cat": "Vitt vin",
+    "price": 129.0,
+    "vintage": "2024",
+    "grapes": [
+      "Xarel-lo"
+    ],
     "organic": true,
     "conf": 0.8,
     "method": "claude",
-    "assortment": "Tillfälligt sortiment"
+    "assortment": "Fast sortiment"
   },
   {
-    "id": "56829273",
-    "num": "95999",
-    "name": "Vigneto di Popoli",
-    "sub": "Trebbiano d'Abruzzo",
-    "producer": "Valle Reale SRL Societa Agricola",
-    "country": "Italien",
-    "cat": "Vitt vin",
-    "price": 349.0,
-    "vintage": "2022",
-    "grapes": [
-      "Trebbiano"
-    ],
-    "organic": false,
-    "conf": 0.8,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
-  },
-  {
-    "id": "51427693",
-    "num": "92606",
-    "name": "Viré-Clessé Clos de Buc",
-    "sub": "Jean-Marie Chaland",
-    "producer": "Jean-Marie Chaland",
+    "id": "396891",
+    "num": "2295",
+    "name": "Blason de Bourgogne Mâcon-Villages",
+    "sub": "Chardonnay",
+    "producer": "Vignerons des Grandes Vignes",
     "country": "Frankrike",
     "cat": "Vitt vin",
-    "price": 439.0,
-    "vintage": "2022",
+    "price": 119.0,
+    "vintage": "2024",
     "grapes": [
       "Chardonnay"
     ],
-    "organic": true,
-    "conf": 0.8,
+    "organic": false,
+    "conf": 0.75,
     "method": "claude",
-    "assortment": "Tillfälligt sortiment"
+    "assortment": "Fast sortiment"
   },
   {
-    "id": "46284582",
-    "num": "90346",
-    "name": "Carlone",
-    "sub": "Boca Adele",
-    "producer": "Azienda Agricola Carlone Davide",
-    "country": "Italien",
-    "cat": "Rött vin",
-    "price": 439.0,
-    "vintage": "2020",
+    "id": "439776",
+    "num": "2295",
+    "name": "Blason de Bourgogne Mâcon-Villages",
+    "sub": "Chardonnay",
+    "producer": "Vignerons des Grandes Vignes",
+    "country": "Frankrike",
+    "cat": "Vitt vin",
+    "price": 79.0,
+    "vintage": "2024",
     "grapes": [
-      "Nebbiolo",
-      "Vespolina"
+      "Chardonnay"
     ],
     "organic": false,
     "conf": 0.75,
     "method": "claude",
-    "assortment": "Tillfälligt sortiment"
+    "assortment": "Fast sortiment"
   },
   {
-    "id": "59501525",
-    "num": "93892",
-    "name": "Clos Maurice",
-    "sub": "Saumur Blanc Licorne",
-    "producer": "Domaine Les Clos Maurice",
-    "country": "Frankrike",
-    "cat": "Vitt vin",
-    "price": 299.0,
-    "vintage": "2023",
-    "grapes": [
-      "Chenin blanc"
-    ],
+    "id": "35910530",
+    "num": "93957",
+    "name": "Duemani",
+    "sub": "Cabernet franc",
+    "producer": "Duemani",
+    "country": "Italien",
+    "cat": "Rött vin",
+    "price": 1199.0,
+    "vintage": "2019",
+    "grapes": [],
     "organic": true,
     "conf": 0.75,
     "method": "claude",
     "assortment": "Tillfälligt sortiment"
   },
   {
-    "id": "58335243",
-    "num": "92897",
-    "name": "Macération",
-    "sub": null,
-    "producer": "SAS MAISON CHARLES FREY",
-    "country": "Frankrike",
-    "cat": "Vitt vin",
-    "price": 199.0,
-    "vintage": "2024",
-    "grapes": [
-      "Gewürztraminer"
-    ],
+    "id": "35910533",
+    "num": "93973",
+    "name": "Suisassi",
+    "sub": "Syrah",
+    "producer": "Duemani",
+    "country": "Italien",
+    "cat": "Rött vin",
+    "price": 1199.0,
+    "vintage": "2019",
+    "grapes": [],
     "organic": true,
     "conf": 0.75,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "49381032",
+    "num": "93523",
+    "name": "Domaine Henri Cruchon",
+    "sub": "En Roman Grand Cru",
+    "producer": "Domaine Henri Cruchon",
+    "country": "Schweiz",
+    "cat": "Vitt vin",
+    "price": 289.0,
+    "vintage": "2023",
+    "grapes": [
+      "Chasselas"
+    ],
+    "organic": true,
+    "conf": 0.7,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "62418393",
+    "num": "93032",
+    "name": "Henri Cruchon",
+    "sub": "En Roman Grand Cru Chasselas",
+    "producer": "Domaine Henri Cruchon",
+    "country": "Schweiz",
+    "cat": "Vitt vin",
+    "price": 299.0,
+    "vintage": "2024",
+    "grapes": [
+      "Chasselas"
+    ],
+    "organic": true,
+    "conf": 0.7,
     "method": "claude",
     "assortment": "Tillfälligt sortiment"
   },
@@ -2424,114 +2460,6 @@
       "Cabernet franc",
       "Cabernet sauvignon",
       "Merlot"
-    ],
-    "organic": false,
-    "conf": 0.75,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
-  },
-  {
-    "id": "58094950",
-    "num": "92519",
-    "name": "Vom Kalkmergel",
-    "sub": "Spätburgunder",
-    "producer": "Weingut Andres",
-    "country": "Tyskland",
-    "cat": "Rött vin",
-    "price": 195.0,
-    "vintage": "2023",
-    "grapes": [
-      "Spätburgunder"
-    ],
-    "organic": true,
-    "conf": 0.75,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
-  },
-  {
-    "id": "54454388",
-    "num": "90653",
-    "name": "Alvarinho",
-    "sub": "Vinha do Chapim",
-    "producer": "Quinta de Santiago",
-    "country": "Portugal",
-    "cat": "Vitt vin",
-    "price": 259.0,
-    "vintage": "2022",
-    "grapes": [
-      "Alvarinho"
-    ],
-    "organic": false,
-    "conf": 0.7,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
-  },
-  {
-    "id": "56148346",
-    "num": "95205",
-    "name": "Beajoulais-Lantignié",
-    "sub": "Domaine Jean-Paul Dubost",
-    "producer": "Domaine Dubost",
-    "country": "Frankrike",
-    "cat": "Rött vin",
-    "price": 169.0,
-    "vintage": "2024",
-    "grapes": [
-      "Gamay"
-    ],
-    "organic": false,
-    "conf": 0.7,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
-  },
-  {
-    "id": "59440885",
-    "num": "96357",
-    "name": "Irancy Rouge",
-    "sub": "Gabin et Felix Richoux",
-    "producer": "Gabin et Felix Richoux",
-    "country": "Frankrike",
-    "cat": "Rött vin",
-    "price": 259.0,
-    "vintage": "2022",
-    "grapes": [
-      "Pinot noir"
-    ],
-    "organic": true,
-    "conf": 0.7,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
-  },
-  {
-    "id": "52988315",
-    "num": "95042",
-    "name": "Sybille Kuntz",
-    "sub": "Riesling Kabinett trocken",
-    "producer": "Weingut Sybille Kuntz",
-    "country": "Tyskland",
-    "cat": "Vitt vin",
-    "price": 289.0,
-    "vintage": "2023",
-    "grapes": [
-      "Riesling"
-    ],
-    "organic": true,
-    "conf": 0.7,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment"
-  },
-  {
-    "id": "56804265",
-    "num": "92641",
-    "name": "Sybille Kuntz",
-    "sub": "Riesling Spätlese",
-    "producer": "Weingut Sybille Kuntz",
-    "country": "Tyskland",
-    "cat": "Vitt vin",
-    "price": 449.0,
-    "vintage": "2011",
-    "grapes": [
-      "Riesling"
     ],
     "organic": false,
     "conf": 0.7,

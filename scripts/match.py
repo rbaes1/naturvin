@@ -82,42 +82,77 @@ def fuzzy_match(producer_name, corpus):
 
 
 def classify_producers(producers_batch):
-    api_key = os.environ.get("GEMINI_API_KEY", "")
+    api_key = os.environ.get("REPLICATE_API_TOKEN", "")
     if not api_key:
-        print("  WARNING: GEMINI_API_KEY not set")
+        print("  WARNING: REPLICATE_API_TOKEN not set")
         return {}
 
-    names_list = "\n".join(f"- {n}" for n in producers_batch)
+    # Clean names that could break JSON generation
+    clean_batch = [n.replace("S.L.", "SL").replace("S.A.", "SA").replace("S.S.", "SS").replace("S.r.l.", "Srl") for n in producers_batch]
+    names_list = "\n".join(f"- {n}" for n in clean_batch)
+    name_map = dict(zip(clean_batch, producers_batch))  # map back to originals
     prompt = f"""You are a natural wine expert. For each producer below, determine if they make natural wine.
 Natural wine means: wild/ambient fermentation, minimal or no added sulfites, organic or biodynamic farming, no fining/filtering or minimal, no added yeasts or enzymes.
-Be strict — organic alone is NOT enough. The producer must specifically be known for natural winemaking practices.
+Be strict - organic alone is NOT enough. The producer must specifically be known for natural winemaking practices.
 
 Respond ONLY with a JSON object. Keys = exact producer names as given. Values = objects with:
 - "isNatural": true or false
-- "confidence": 0.0 to 1.0 (be conservative — use <0.8 if uncertain)
-- "reason": one sentence max
-
+- "confidence": 0.0 to 1.0 (be conservative, use <0.8 if uncertain)
 Producers:
 {names_list}
 
 JSON only, no markdown:"""
 
     r = requests.post(
-        f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={api_key}",
-        headers={"content-type": "application/json"},
-        json={"contents": [{"parts": [{"text": prompt}]}],
-              "generationConfig": {"temperature": 0.1, "maxOutputTokens": 2000}},
-        timeout=30,
+        "https://api.replicate.com/v1/models/google/gemini-3.1-pro/predictions",
+        headers={"Authorization": f"Bearer {api_key}", "content-type": "application/json"},
+        json={"input": {
+            "prompt": prompt,
+            "thinking_level": "low",
+            "temperature": 0.1,
+            "max_output_tokens": 4000,
+        }},
+        timeout=60,
     )
     r.raise_for_status()
-    text = r.json()["candidates"][0]["content"]["parts"][0]["text"].strip()
+    prediction_id = r.json().get("id")
+    if not prediction_id:
+        return {}
+
+    for _ in range(120):
+        time.sleep(5)
+        poll = requests.get(
+            f"https://api.replicate.com/v1/predictions/{prediction_id}",
+            headers={"Authorization": f"Bearer {api_key}"},
+            timeout=15,
+        )
+        result = poll.json()
+        status = result.get("status")
+        if status == "succeeded":
+            output = result.get("output", "")
+            text = "".join(output) if isinstance(output, list) else str(output)
+            break
+        elif status in ("failed", "canceled"):
+            print(f"  WARNING: Replicate prediction {status}")
+            return {}
+    else:
+        print("  WARNING: Replicate timed out")
+        return {}
+
+    text = re.sub(r"<think>.*?</think>", "", text, flags=re.DOTALL).strip()
     text = re.sub(r"^```json\s*", "", text)
     text = re.sub(r"```\s*$", "", text).strip()
+    m = re.search(r"\{.*\}", text, re.DOTALL)
+    if m:
+        text = m.group(0)
     try:
-        return json.loads(text)
+        result = json.loads(text)
+        # Map cleaned names back to original names
+        return {name_map.get(k, k): v for k, v in result.items()}
     except json.JSONDecodeError:
-        print(f"  WARNING: invalid JSON from Claude")
+        print(f"  WARNING: invalid JSON: {text[:80]}")
         return {}
+
 
 
 def main():
@@ -184,7 +219,7 @@ def main():
                     "matchedTo": None,
                     "reason": v.get("reason", ""),
                 }
-            time.sleep(0.3)
+            time.sleep(4)  # free tier: max 15 req/min
 
     for producer in for_claude:
         if producer not in results:
@@ -216,7 +251,7 @@ def main():
         v = results.get(w["producer"], {"isNatural": False, "confidence": 0,
                                          "method": "unknown", "matchedTo": None, "reason": ""})
         if (v["isNatural"]
-                and v["confidence"] >= 0.80
+                and v["confidence"] >= 0.70
                 and w.get("country") in EU_COUNTRIES
                 and w.get("volume", 0) <= 1500
                 and w.get("producer", "").lower() not in blacklist):
