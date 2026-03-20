@@ -14,6 +14,8 @@ SKIP_CLAUDE = "--skip-claude" in sys.argv
 FUZZY_HIGH  = 88
 FUZZY_LOW   = 72
 
+STORE_ID    = "0114"  # PK-Huset, Stockholm
+
 ROOT = Path(__file__).parent.parent
 DATA = ROOT / "data"
 
@@ -154,8 +156,36 @@ JSON only, no markdown:"""
         return {}
 
 
+def add_store_stock(wines, api_key, store_id=STORE_ID):
+    print(f"\nFetching store stock for {store_id}...")
+    base = f"https://api-extern.systembolaget.se/sb-api-ecommerce/v1/stockbalance/store/{store_id}"
+    headers = {"Ocp-Apim-Subscription-Key": api_key}
+    hits = 0
+    for i, wine in enumerate(wines):
+        try:
+            resp = requests.get(f"{base}/{wine['id']}/", headers=headers, timeout=10)
+            if resp.status_code == 200:
+                stock = resp.json().get("stock", 0)
+                wine["inStore"] = stock > 0
+                wine["storeStock"] = stock
+                if stock > 0:
+                    hits += 1
+            else:
+                wine["inStore"] = False
+                wine["storeStock"] = 0
+        except Exception as e:
+            wine["inStore"] = False
+            wine["storeStock"] = 0
+        if i % 20 == 19:
+            print(f"  [{i+1}/{len(wines)}]...")
+        time.sleep(0.15)
+    print(f"In store {store_id}: {hits}/{len(wines)}")
+    return wines
+
 
 def main():
+    api_key = os.environ.get("SYSTEMBOLAGET_API_KEY", "8d39a7340ee7439f8b4c1e995c8f3e4a")
+
     corpus = load_corpus()
     wines  = json.loads((DATA / "systembolaget_wines.json").read_text(encoding="utf-8"))
 
@@ -256,23 +286,28 @@ def main():
                 and w.get("volume", 0) <= 1500
                 and w.get("producer", "").lower() not in blacklist):
             annotated.append({
-                "id":       w["productId"],
-                "num":      w["productNumber"],
-                "name":     w["name"],
-                "sub":      w.get("subname", ""),
-                "producer": w["producer"],
-                "country":  w["country"],
-                "cat":      w.get("categoryLevel2", ""),
-                "price":    w["price"],
-                "vintage":  w.get("vintage"),
-                "grapes":   w.get("grapes", []),
-                "organic":  w.get("isOrganic", False),
-                "conf":     round(v["confidence"], 2),
-                "method":   v["method"],
+                "id":         w["productId"],
+                "num":        w["productNumber"],
+                "name":       w["name"],
+                "sub":        w.get("subname", ""),
+                "producer":   w["producer"],
+                "country":    w["country"],
+                "cat":        w.get("categoryLevel2", ""),
+                "price":      w["price"],
+                "vintage":    w.get("vintage"),
+                "grapes":     w.get("grapes", []),
+                "organic":    w.get("isOrganic", False),
+                "conf":       round(v["confidence"], 2),
+                "method":     v["method"],
                 "assortment": w.get("assortment", ""),
+                "inStore":    False,
+                "storeStock": 0,
             })
 
     annotated.sort(key=lambda w: (-w["conf"], w["name"].lower()))
+
+    # Add store stock
+    annotated = add_store_stock(annotated, api_key)
 
     out = DATA.parent / "docs" / "data" / "results.json"
     out.parent.mkdir(parents=True, exist_ok=True)
@@ -280,10 +315,12 @@ def main():
         json.dumps(annotated, ensure_ascii=False, indent=2), encoding="utf-8"
     )
 
+    in_store_count = sum(1 for w in annotated if w["inStore"])
     print(f"\n{'─'*50}")
-    print(f"  Natural wines (EU, ≥80%, ≤1.5L): {len(annotated)}")
+    print(f"  Natural wines (EU, ≥70%, ≤1.5L): {len(annotated)}")
+    print(f"  In store {STORE_ID}:               {in_store_count}")
     print(f"{'─'*50}")
-    print(f"Saved → data/results.json")
+    print(f"Saved → docs/data/results.json")
     print(f"Saved → data/producer_cache.json ({len(cache)} producers cached)")
 
 
