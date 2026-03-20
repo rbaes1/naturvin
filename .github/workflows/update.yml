@@ -31,7 +31,7 @@ jobs:
 
       - name: Match and classify
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          REPLICATE_API_TOKEN: ${{ secrets.REPLICATE_API_TOKEN }}
         run: python3 scripts/match.py
 
       - name: Copy results to docs
