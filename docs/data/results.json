@@ -2354,5 +2354,206 @@
     "conf": 0.8,
     "method": "claude",
     "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "46284582",
+    "num": "90346",
+    "name": "Carlone",
+    "sub": "Boca Adele",
+    "producer": "Azienda Agricola Carlone Davide",
+    "country": "Italien",
+    "cat": "Rött vin",
+    "price": 439.0,
+    "vintage": "2020",
+    "grapes": [
+      "Nebbiolo",
+      "Vespolina"
+    ],
+    "organic": false,
+    "conf": 0.75,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "59501525",
+    "num": "93892",
+    "name": "Clos Maurice",
+    "sub": "Saumur Blanc Licorne",
+    "producer": "Domaine Les Clos Maurice",
+    "country": "Frankrike",
+    "cat": "Vitt vin",
+    "price": 299.0,
+    "vintage": "2023",
+    "grapes": [
+      "Chenin blanc"
+    ],
+    "organic": true,
+    "conf": 0.75,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "58335243",
+    "num": "92897",
+    "name": "Macération",
+    "sub": null,
+    "producer": "SAS MAISON CHARLES FREY",
+    "country": "Frankrike",
+    "cat": "Vitt vin",
+    "price": 199.0,
+    "vintage": "2024",
+    "grapes": [
+      "Gewürztraminer"
+    ],
+    "organic": true,
+    "conf": 0.75,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "52714848",
+    "num": "93073",
+    "name": "Pink Punk",
+    "sub": "Chichateau Doo",
+    "producer": "Chichateau Doo",
+    "country": "Serbien",
+    "cat": "Rosévin",
+    "price": 160.0,
+    "vintage": "2024",
+    "grapes": [
+      "Cabernet franc",
+      "Cabernet sauvignon",
+      "Merlot"
+    ],
+    "organic": false,
+    "conf": 0.75,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "58094950",
+    "num": "92519",
+    "name": "Vom Kalkmergel",
+    "sub": "Spätburgunder",
+    "producer": "Weingut Andres",
+    "country": "Tyskland",
+    "cat": "Rött vin",
+    "price": 195.0,
+    "vintage": "2023",
+    "grapes": [
+      "Spätburgunder"
+    ],
+    "organic": true,
+    "conf": 0.75,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "54454388",
+    "num": "90653",
+    "name": "Alvarinho",
+    "sub": "Vinha do Chapim",
+    "producer": "Quinta de Santiago",
+    "country": "Portugal",
+    "cat": "Vitt vin",
+    "price": 259.0,
+    "vintage": "2022",
+    "grapes": [
+      "Alvarinho"
+    ],
+    "organic": false,
+    "conf": 0.7,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "56148346",
+    "num": "95205",
+    "name": "Beajoulais-Lantignié",
+    "sub": "Domaine Jean-Paul Dubost",
+    "producer": "Domaine Dubost",
+    "country": "Frankrike",
+    "cat": "Rött vin",
+    "price": 169.0,
+    "vintage": "2024",
+    "grapes": [
+      "Gamay"
+    ],
+    "organic": false,
+    "conf": 0.7,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "59440885",
+    "num": "96357",
+    "name": "Irancy Rouge",
+    "sub": "Gabin et Felix Richoux",
+    "producer": "Gabin et Felix Richoux",
+    "country": "Frankrike",
+    "cat": "Rött vin",
+    "price": 259.0,
+    "vintage": "2022",
+    "grapes": [
+      "Pinot noir"
+    ],
+    "organic": true,
+    "conf": 0.7,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "52988315",
+    "num": "95042",
+    "name": "Sybille Kuntz",
+    "sub": "Riesling Kabinett trocken",
+    "producer": "Weingut Sybille Kuntz",
+    "country": "Tyskland",
+    "cat": "Vitt vin",
+    "price": 289.0,
+    "vintage": "2023",
+    "grapes": [
+      "Riesling"
+    ],
+    "organic": true,
+    "conf": 0.7,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "56804265",
+    "num": "92641",
+    "name": "Sybille Kuntz",
+    "sub": "Riesling Spätlese",
+    "producer": "Weingut Sybille Kuntz",
+    "country": "Tyskland",
+    "cat": "Vitt vin",
+    "price": 449.0,
+    "vintage": "2011",
+    "grapes": [
+      "Riesling"
+    ],
+    "organic": false,
+    "conf": 0.7,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
+  },
+  {
+    "id": "59260516",
+    "num": "92273",
+    "name": "Tres Patas",
+    "sub": null,
+    "producer": "Bodegas Canopy",
+    "country": "Spanien",
+    "cat": "Rött vin",
+    "price": 199.0,
+    "vintage": "2022",
+    "grapes": [
+      "Garnacha"
+    ],
+    "organic": false,
+    "conf": 0.7,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment"
   }
 ]
