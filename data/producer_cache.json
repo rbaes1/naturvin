@@ -10302,5 +10302,607 @@
     "method": "unclassified",
     "matchedTo": null,
     "reason": ""
+  },
+  "Eduardo Torres Acosta Viticultore": {
+    "isNatural": true,
+    "confidence": 0.9,
+    "method": "fuzzy",
+    "matchedTo": "Eduardo Torres Acosta",
+    "reason": "Matched 'Eduardo Torres Acosta' (score 90)"
+  },
+  "Jean Foillard": {
+    "isNatural": true,
+    "confidence": 1.0,
+    "method": "fuzzy",
+    "matchedTo": "Domaine Jean Foillard",
+    "reason": "Matched 'Domaine Jean Foillard' (score 100)"
+  },
+  "Domaine aux Moines": {
+    "isNatural": true,
+    "confidence": 1.0,
+    "method": "fuzzy",
+    "matchedTo": "Domaine aux Moines",
+    "reason": "Matched 'Domaine aux Moines' (score 100)"
+  },
+  "Bodegas del Palacio de Fefiñanes": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Castello dei Rampolla": {
+    "isNatural": true,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Alfa Crux": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Le Berne": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Luigi Brunelli": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bodegas Arrocal": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bodegas Bernabeleva": {
+    "isNatural": true,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bodegas El Paraguas": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Avignonesi": {
+    "isNatural": false,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Avondale": {
+    "isNatural": false,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bodegas Baigorri": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Francesco Versio": {
+    "isNatural": false,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Piero Busso": {
+    "isNatural": false,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Vinhos Barbeito": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Azienda Agricola Elio Altare": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bodegas Albamar": {
+    "isNatural": true,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bodegas Campestral": {
+    "isNatural": true,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bodega Fulcro": {
+    "isNatural": true,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Thistle & Weed Pty Ltd": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Lukas Van Loggerenberg Wines": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Brovia": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Vinos de la Luz": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Carlevana Winery": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Ceel": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Billaud-Simon": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Hervé Dubois": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bodegas Izadi": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Jose Gil": {
+    "isNatural": true,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Joseph Phelps": {
+    "isNatural": false,
+    "confidence": 1.0,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Katharina Wechsler": {
+    "isNatural": true,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Heitlinger": {
+    "isNatural": false,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bodegas D. Mateos": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Dezzani": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Cleto Chiarli Società Agricola": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Langmeil Winery": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Raymond Usseglio & Fils": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Emilio Moro": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Vini Bella Terra": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bobal Wine Cellars S.L.": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Barraud": {
+    "isNatural": false,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Pazo de Señorans": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Aconchego da Aldeia": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine la Colombette": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Churchill Graham": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Château Pesquié - Famille Chaudière": {
+    "isNatural": false,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Cerester Wines": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Oltretorrente": {
+    "isNatural": true,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Staglin Family Vineyard Estate": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Samsara Wine Company": {
+    "isNatural": true,
+    "confidence": 0.75,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Viña Santa Helena": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Severne Street Wine Company Limited": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Stella Bella Wines": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Swell Season": {
+    "isNatural": false,
+    "confidence": 0.6,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Tablas Creek Vineyard": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Villa Maria Estate": {
+    "isNatural": false,
+    "confidence": 1.0,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Friedrich Becker": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Luis Seabra Vinhos": {
+    "isNatural": true,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Yarra Yering Vineyards": {
+    "isNatural": false,
+    "confidence": 1.0,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Champagne Deutz": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Trapet": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Château Ausone": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Château de Fargues": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Vignoble Michel Gassier": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Château Labadie": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Château Lafite Rothschild": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine d'Eugénie": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Paul Avril": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Madalle Jean-Philippe": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Weinbach": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Ternynck": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "J Garcia Carrion": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "J Garcia Carrión": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Doniene Gorrondona": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Eisenstone Wines": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Quinta da Pigarra - Sociedade Agricola, Lda.": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Feudi di San Gregorio": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Dom. des Deux Fontaines": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Acienda Agricola Boas Quintas": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Saint Damien": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Pepe Mendoza Casa Agricola": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Glaetzer Wines": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Vinevinu": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Golan Heights Winery": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
   }
 }
