@@ -47,7 +47,6 @@ def normalize(name):
 
 
 def load_corpus():
-    # Use docs/data/producers.json if available (updated corpus), else data/
     corpus_path = DATA.parent / "docs" / "data" / "producers.json"
     if not corpus_path.exists():
         corpus_path = DATA / "producers.json"
@@ -64,7 +63,6 @@ def combined_score(a, b):
         ratio = tokens_a / max(tokens_b, 1)
         set_score = set_score * (0.5 + 0.5 * ratio)
     base = 0.55 * set_score + 0.45 * sort_score
-    # Require meaningful exact token overlap
     overlap = {t for t in a.split() if len(t) > 3} & {t for t in b.split() if len(t) > 3}
     if not overlap:
         base = min(base, 79.0)
@@ -89,10 +87,9 @@ def classify_producers(producers_batch):
         print("  WARNING: REPLICATE_API_TOKEN not set")
         return {}
 
-    # Clean names that could break JSON generation
     clean_batch = [n.replace("S.L.", "SL").replace("S.A.", "SA").replace("S.S.", "SS").replace("S.r.l.", "Srl") for n in producers_batch]
     names_list = "\n".join(f"- {n}" for n in clean_batch)
-    name_map = dict(zip(clean_batch, producers_batch))  # map back to originals
+    name_map = dict(zip(clean_batch, producers_batch))
     prompt = f"""You are a natural wine expert. For each producer below, determine if they make natural wine.
 Natural wine means: wild/ambient fermentation, minimal or no added sulfites, organic or biodynamic farming, no fining/filtering or minimal, no added yeasts or enzymes.
 Be strict - organic alone is NOT enough. The producer must specifically be known for natural winemaking practices.
@@ -149,7 +146,6 @@ JSON only, no markdown:"""
         text = m.group(0)
     try:
         result = json.loads(text)
-        # Map cleaned names back to original names
         return {name_map.get(k, k): v for k, v in result.items()}
     except json.JSONDecodeError:
         print(f"  WARNING: invalid JSON: {text[:80]}")
@@ -162,23 +158,33 @@ def add_store_stock(wines, api_key, store_id=STORE_ID):
     headers = {"Ocp-Apim-Subscription-Key": api_key}
     hits = 0
     for i, wine in enumerate(wines):
-        try:
-            resp = requests.get(f"{base}/{wine['id']}/", headers=headers, timeout=10)
-            if resp.status_code == 200:
-                stock = resp.json().get("stock", 0)
-                wine["inStore"] = stock > 0
-                wine["storeStock"] = stock
-                if stock > 0:
-                    hits += 1
-            else:
+        for attempt in range(3):
+            try:
+                resp = requests.get(f"{base}/{wine['id']}/", headers=headers, timeout=30)
+                if resp.status_code == 200:
+                    stock = resp.json().get("stock", 0)
+                    wine["inStore"] = stock > 0
+                    wine["storeStock"] = stock
+                    if stock > 0:
+                        hits += 1
+                else:
+                    wine["inStore"] = False
+                    wine["storeStock"] = 0
+                break
+            except requests.exceptions.Timeout:
+                if attempt < 2:
+                    print(f"  Timeout on {wine.get('name')}, retrying...")
+                    time.sleep(3)
+                else:
+                    wine["inStore"] = False
+                    wine["storeStock"] = 0
+            except Exception:
                 wine["inStore"] = False
                 wine["storeStock"] = 0
-        except Exception as e:
-            wine["inStore"] = False
-            wine["storeStock"] = 0
+                break
         if i % 20 == 19:
             print(f"  [{i+1}/{len(wines)}]...")
-        time.sleep(0.15)
+        time.sleep(0.2)
     print(f"In store {store_id}: {hits}/{len(wines)}")
     return wines
 
@@ -189,11 +195,9 @@ def main():
     corpus = load_corpus()
     wines  = json.loads((DATA / "systembolaget_wines.json").read_text(encoding="utf-8"))
 
-    # Load cache of previously classified producers
     cache_path = DATA / "producer_cache.json"
     cache = json.loads(cache_path.read_text(encoding="utf-8")) if cache_path.exists() else {}
 
-    # Filter to in-stock only
     in_stock = [w for w in wines
                 if not w.get("isCompletelyOutOfStock")
                 and not w.get("isTemporaryOutOfStock")
@@ -210,7 +214,6 @@ def main():
             producers[p] = w["country"]
     print(f"Unique producers: {len(producers)}")
 
-    # Step 1: fuzzy + cache
     results = {}
     for_claude = []
 
@@ -233,7 +236,6 @@ def main():
     print(f"Fuzzy matched: {sum(1 for p, v in results.items() if v['method'] == 'fuzzy')}")
     print(f"For Claude:    {len(for_claude)}")
 
-    # Step 2: Claude for unknowns
     if not SKIP_CLAUDE and for_claude:
         print(f"\nClaude Haiku ({len(for_claude)} producers)...")
         BATCH = 25
@@ -249,18 +251,16 @@ def main():
                     "matchedTo": None,
                     "reason": v.get("reason", ""),
                 }
-            time.sleep(4)  # free tier: max 15 req/min
+            time.sleep(4)
 
     for producer in for_claude:
         if producer not in results:
             results[producer] = {"isNatural": False, "confidence": 0,
                                  "method": "unclassified", "matchedTo": None, "reason": ""}
 
-    # Update cache with new results
     cache.update(results)
     cache_path.write_text(json.dumps(cache, ensure_ascii=False, indent=2), encoding="utf-8")
 
-    # Load blacklist
     blacklist_path = DATA / "blacklist.json"
     blacklist = set()
     if blacklist_path.exists():
@@ -268,7 +268,6 @@ def main():
         blacklist = {p.lower() for p in bl.get("producers", [])}
         print(f"Blacklist: {len(blacklist)} producers")
 
-    # Annotate and save
     EU_COUNTRIES = {
         'Frankrike','Italien','Spanien','Österrike','Tyskland','Portugal',
         'Slovenien','Ungern','Kroatien','Georgien','Grekland','Schweiz',
@@ -300,13 +299,13 @@ def main():
                 "conf":       round(v["confidence"], 2),
                 "method":     v["method"],
                 "assortment": w.get("assortment", ""),
+                "launched":   w.get("productLaunchDate", ""),
                 "inStore":    False,
                 "storeStock": 0,
             })
 
     annotated.sort(key=lambda w: (-w["conf"], w["name"].lower()))
 
-    # Add store stock
     annotated = add_store_stock(annotated, api_key)
 
     out = DATA.parent / "docs" / "data" / "results.json"

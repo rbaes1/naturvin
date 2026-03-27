@@ -46,8 +46,6 @@ h1 em { font-style: italic; color: var(--accent-light); }
 }
 .filter-btn:hover { border-color: var(--accent); color: var(--accent); }
 .filter-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
-
-/* Store toggle button */
 .store-btn {
   display: inline-flex; align-items: center; gap: 0.4rem;
   padding: 0.45rem 0.9rem; border: 1px solid var(--border); border-radius: 2rem;
@@ -61,7 +59,6 @@ h1 em { font-style: italic; color: var(--accent-light); }
   background: var(--border); transition: background 0.15s; flex-shrink: 0;
 }
 .store-btn.active .dot { background: #8fdb6a; }
-
 select.sort-select {
   padding: 0.45rem 0.9rem; border: 1px solid var(--border); border-radius: 2rem;
   background: var(--surface); font-family: inherit; font-size: 0.78rem;
@@ -94,14 +91,11 @@ select.sort-select {
 }
 .badge-eko { background: #dff0d8; color: #2a4519; }
 .badge-tilf { background: #f0e8d4; color: #7a5a14; }
-
-/* In-store stock indicator on card */
 .stock-bar {
   display: flex; align-items: center; gap: 0.35rem;
   padding: 0.35rem 1rem 0; font-size: 0.68rem; color: var(--accent-light); font-weight: 500;
 }
 .stock-bar .stock-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--accent-light); flex-shrink: 0; }
-
 .card-body { padding: 0.9rem 1rem 1rem; flex: 1; display: flex; flex-direction: column; }
 .card-name { font-family: 'DM Serif Display', serif; font-size: 0.98rem; line-height: 1.25; font-weight: 400; }
 .card-sub { font-size: 0.72rem; color: var(--text-muted); font-style: italic; margin-top: 0.15rem; }
@@ -138,6 +132,7 @@ select.sort-select {
   </button>
   <select class="sort-select" id="sort">
     <option value="conf">Säkrast</option>
+    <option value="new">Nyast</option>
     <option value="price-asc">Pris ↑</option>
     <option value="price-desc">Pris ↓</option>
     <option value="name">Namn</option>
@@ -179,11 +174,12 @@ function getFiltered() {
     );
   }
   return [...list].sort((a, b) => {
-    if (sort === 'conf') return b.conf - a.conf || a.name.localeCompare(b.name, 'sv');
-    if (sort === 'price-asc') return a.price - b.price;
+    if (sort === 'conf')       return b.conf - a.conf || a.name.localeCompare(b.name, 'sv');
+    if (sort === 'new')        return (b.launched || '').localeCompare(a.launched || '');
+    if (sort === 'price-asc')  return a.price - b.price;
     if (sort === 'price-desc') return b.price - a.price;
-    if (sort === 'name') return a.name.localeCompare(b.name, 'sv');
-    if (sort === 'country') return a.country.localeCompare(b.country, 'sv') || a.name.localeCompare(b.name, 'sv');
+    if (sort === 'name')       return a.name.localeCompare(b.name, 'sv');
+    if (sort === 'country')    return a.country.localeCompare(b.country, 'sv') || a.name.localeCompare(b.name, 'sv');
     return 0;
   });
 }
