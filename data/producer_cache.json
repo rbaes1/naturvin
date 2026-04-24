@@ -11422,5 +11422,194 @@
     "method": "claude",
     "matchedTo": null,
     "reason": ""
+  },
+  "Vadin-Plateau": {
+    "isNatural": true,
+    "confidence": 1.0,
+    "method": "fuzzy",
+    "matchedTo": "Champagne Vadin-Plateau",
+    "reason": "Matched 'Champagne Vadin-Plateau' (score 100)"
+  },
+  "Amabuki Sake Brewery": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Maison Louis Jadot/Domaine Gagey": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Chateau d´Astros": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "J. Chivite Family Estates": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Tollot Beaut et Fils SARL": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Chateau Cantemerle": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Château Chasse-Spleen": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Château d'Issan": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Château Camensac": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Château Gloria": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Château Pedesclaux": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Château Poujeax": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Craggy Range": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Graeme & Julie Bott": {
+    "isNatural": false,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Gassier": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Tsuji Honten": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Hogan Wines": {
+    "isNatural": false,
+    "confidence": 0.75,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Pernod Ricard Winemakers": {
+    "isNatural": false,
+    "confidence": 0.99,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Twee Jonge Gezellen Estate": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Château Montrose": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Jim Barry": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Ministry of Clouds": {
+    "isNatural": false,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Paul Janin & Fils": {
+    "isNatural": false,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bodega Argento S.A": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Quinta da Devesa": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Azienda Agricola Le Battistelle": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
   }
 }
