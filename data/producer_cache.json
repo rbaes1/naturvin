@@ -11751,5 +11751,278 @@
     "method": "claude",
     "matchedTo": null,
     "reason": ""
+  },
+  "Domaine Denis Père & Fils": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Pike Road Wines": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Pio del Ramo": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "António Lopes Ribeiro Wines Lda": {
+    "isNatural": true,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Roc des Boutires": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Prophet's Rock Wines LTD": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "José Luis Ripa Sáenz de Navarrete": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Famille Paquet": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "SHABO": {
+    "isNatural": false,
+    "confidence": 1.0,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bodegas Valcuerna": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Arnaldo Rivera": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bodegas Riojanas Grupo": {
+    "isNatural": false,
+    "confidence": 1.0,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Markus Riedlin": {
+    "isNatural": true,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Wirra Wirra Vineyards": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bodegas Alta Vista": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Blank Canvas Wines Limited": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bindi Sergardi": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Ch. Coutet": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Château Grand Corbin-Despagne": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Vignobles Dom Brial": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Châteu Soutard": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Clape": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Mateus Nicolau de Almeida": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine de Vernus": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine du Tartemain": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "CAVE D’ALERIA": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Fournier Père & Fils": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Ixsir": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Kruger-Rumpf": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine de la Mordorée": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Poderi Fiorini Soc. Agric. S.s.": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Trediberri": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bodegas Lanzaga - Telmo Rodriguez": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Lievland Vineyards": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Fred Loimer": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Nik Weis": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "MIRA s.r.o.": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Castello di Monsanto": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Kintonis Winery": {
+    "isNatural": false,
+    "confidence": 0,
+    "method": "unclassified",
+    "matchedTo": null,
+    "reason": ""
   }
 }
