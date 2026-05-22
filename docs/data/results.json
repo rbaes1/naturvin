@@ -1,26 +1,5 @@
 [
   {
-    "id": "56088681",
-    "num": "92681",
-    "name": "Chablis",
-    "sub": "Domaine Pattes Loup",
-    "producer": "Domaine Pattes Loup",
-    "country": "Frankrike",
-    "cat": "Vitt vin",
-    "price": 400.0,
-    "vintage": "2022",
-    "grapes": [
-      "Chardonnay"
-    ],
-    "organic": true,
-    "conf": 1.0,
-    "method": "fuzzy",
-    "assortment": "Tillfälligt sortiment",
-    "launched": "2026-01-23T00:00:00",
-    "inStore": false,
-    "storeStock": 0
-  },
-  {
     "id": "56583532",
     "num": "91340",
     "name": "Clos de la Roilette",
@@ -62,7 +41,7 @@
     "assortment": "Fast sortiment",
     "launched": "2022-03-23T00:00:00",
     "inStore": true,
-    "storeStock": 21
+    "storeStock": 19
   },
   {
     "id": "53882826",
@@ -83,7 +62,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-02-20T00:00:00",
     "inStore": true,
-    "storeStock": 38
+    "storeStock": 30
   },
   {
     "id": "61402083",
@@ -102,7 +81,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-03-20T00:00:00",
     "inStore": true,
-    "storeStock": 18
+    "storeStock": 16
   },
   {
     "id": "59501533",
@@ -205,7 +184,7 @@
     "assortment": "Fast sortiment",
     "launched": "2019-09-16T00:00:00",
     "inStore": true,
-    "storeStock": 24
+    "storeStock": 18
   },
   {
     "id": "24401831",
@@ -226,7 +205,7 @@
     "assortment": "Fast sortiment",
     "launched": "2019-09-23T00:00:00",
     "inStore": true,
-    "storeStock": 18
+    "storeStock": 15
   },
   {
     "id": "24401830",
@@ -316,7 +295,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-03-20T00:00:00",
     "inStore": true,
-    "storeStock": 4
+    "storeStock": 22
   },
   {
     "id": "58373366",
@@ -336,8 +315,27 @@
     "method": "fuzzy",
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-03-20T00:00:00",
-    "inStore": true,
-    "storeStock": 12
+    "inStore": false,
+    "storeStock": 0
+  },
+  {
+    "id": "51088332",
+    "num": "93099",
+    "name": "Pommard Premier Cru Les Epentos",
+    "sub": "Philippe Pacalet",
+    "producer": "Philippe Pacalet",
+    "country": "Frankrike",
+    "cat": "Rött vin",
+    "price": 1919.0,
+    "vintage": "2022",
+    "grapes": [],
+    "organic": true,
+    "conf": 1.0,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment",
+    "launched": "2025-02-13T00:00:00",
+    "inStore": false,
+    "storeStock": 0
   },
   {
     "id": "59269790",
@@ -420,28 +418,6 @@
     "storeStock": 5
   },
   {
-    "id": "54661812",
-    "num": "92674",
-    "name": "Trebbiolo",
-    "sub": "La Stoppa",
-    "producer": "Azienda Vitivinicola La Stoppa di Elena Pantaleoni",
-    "country": "Italien",
-    "cat": "Rött vin",
-    "price": 199.0,
-    "vintage": "2023",
-    "grapes": [
-      "Barbera",
-      "Bonarda"
-    ],
-    "organic": false,
-    "conf": 1.0,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment",
-    "launched": "2025-11-28T00:00:00",
-    "inStore": false,
-    "storeStock": 0
-  },
-  {
     "id": "59732860",
     "num": "92422",
     "name": "Vadin-Plateau",
@@ -461,7 +437,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-05-15T00:00:00",
     "inStore": true,
-    "storeStock": 40
+    "storeStock": 22
   },
   {
     "id": "54893267",
@@ -523,7 +499,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-04-17T00:00:00",
     "inStore": true,
-    "storeStock": 19
+    "storeStock": 8
   },
   {
     "id": "58511856",
@@ -547,25 +523,6 @@
     "storeStock": 0
   },
   {
-    "id": "59732937",
-    "num": "94489",
-    "name": "Emidio Pepe",
-    "sub": "Montepulciano d'Abruzzo Branella",
-    "producer": "Emidio Pepe",
-    "country": "Italien",
-    "cat": "Rött vin",
-    "price": 1225.0,
-    "vintage": "2022",
-    "grapes": [],
-    "organic": false,
-    "conf": 0.95,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment",
-    "launched": "2026-02-19T00:00:00",
-    "inStore": false,
-    "storeStock": 0
-  },
-  {
     "id": "58511886",
     "num": "93497",
     "name": "Epochè",
@@ -583,8 +540,8 @@
     "method": "claude",
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-04-24T00:00:00",
-    "inStore": true,
-    "storeStock": 7
+    "inStore": false,
+    "storeStock": 0
   },
   {
     "id": "54346999",
@@ -685,7 +642,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-03-13T00:00:00",
     "inStore": true,
-    "storeStock": 14
+    "storeStock": 19
   },
   {
     "id": "58373355",
@@ -725,7 +682,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-03-13T00:00:00",
     "inStore": true,
-    "storeStock": 13
+    "storeStock": 11
   },
   {
     "id": "507128",
@@ -749,7 +706,28 @@
     "assortment": "Fast sortiment",
     "launched": "2010-10-01T00:00:00",
     "inStore": true,
-    "storeStock": 19
+    "storeStock": 12
+  },
+  {
+    "id": "40810555",
+    "num": "94976",
+    "name": "Verdeca Sette Lune",
+    "sub": "L’Archetipo",
+    "producer": "L’Archetipo",
+    "country": "Italien",
+    "cat": "Vitt vin",
+    "price": 199.0,
+    "vintage": "2021",
+    "grapes": [
+      "Verdeca"
+    ],
+    "organic": true,
+    "conf": 0.95,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment",
+    "launched": "2024-09-20T00:00:00",
+    "inStore": false,
+    "storeStock": 0
   },
   {
     "id": "32103668",
@@ -831,7 +809,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-04-24T00:00:00",
     "inStore": true,
-    "storeStock": 34
+    "storeStock": 27
   },
   {
     "id": "24544725",
@@ -852,45 +830,7 @@
     "assortment": "Fast sortiment",
     "launched": "2020-11-30T00:00:00",
     "inStore": true,
-    "storeStock": 24
-  },
-  {
-    "id": "39778111",
-    "num": "94745",
-    "name": "Barbaresco Crichët Pajé",
-    "sub": "Roagna  Azienda Agricola I Paglieri",
-    "producer": "Roagna Azienda Agricola I Paglieri S.S",
-    "country": "Italien",
-    "cat": "Rött vin",
-    "price": 30004.0,
-    "vintage": "2014",
-    "grapes": [],
-    "organic": false,
-    "conf": 0.9,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment",
-    "launched": "2024-02-22T00:00:00",
-    "inStore": false,
-    "storeStock": 0
-  },
-  {
-    "id": "39778112",
-    "num": "94738",
-    "name": "Barbaresco Crichët Pajé",
-    "sub": "Roagna Azienda Agricola I Paglieri",
-    "producer": "Roagna Azienda Agricola I Paglieri S.S",
-    "country": "Italien",
-    "cat": "Rött vin",
-    "price": 15501.0,
-    "vintage": "2014",
-    "grapes": [],
-    "organic": false,
-    "conf": 0.9,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment",
-    "launched": "2024-02-22T00:00:00",
-    "inStore": false,
-    "storeStock": 0
+    "storeStock": 20
   },
   {
     "id": "44762200",
@@ -1012,7 +952,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-04-10T00:00:00",
     "inStore": true,
-    "storeStock": 20
+    "storeStock": 18
   },
   {
     "id": "54946314",
@@ -1033,7 +973,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-02-20T00:00:00",
     "inStore": true,
-    "storeStock": 59
+    "storeStock": 54
   },
   {
     "id": "24447501",
@@ -1054,7 +994,7 @@
     "assortment": "Fast sortiment",
     "launched": "2020-03-02T00:00:00",
     "inStore": true,
-    "storeStock": 20
+    "storeStock": 12
   },
   {
     "id": "54946313",
@@ -1073,7 +1013,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-02-27T00:00:00",
     "inStore": true,
-    "storeStock": 42
+    "storeStock": 41
   },
   {
     "id": "53532963",
@@ -1135,7 +1075,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-04-17T00:00:00",
     "inStore": true,
-    "storeStock": 14
+    "storeStock": 10
   },
   {
     "id": "35310756",
@@ -1199,7 +1139,7 @@
     "assortment": "Fast sortiment",
     "launched": "2024-12-02T00:00:00",
     "inStore": true,
-    "storeStock": 17
+    "storeStock": 11
   },
   {
     "id": "55583097",
@@ -1239,7 +1179,7 @@
     "assortment": "Fast sortiment",
     "launched": "2016-06-01T00:00:00",
     "inStore": true,
-    "storeStock": 8
+    "storeStock": 2
   },
   {
     "id": "45332803",
@@ -1260,7 +1200,7 @@
     "assortment": "Fast sortiment",
     "launched": "2024-09-02T00:00:00",
     "inStore": true,
-    "storeStock": 11
+    "storeStock": 7
   },
   {
     "id": "11092018",
@@ -1281,7 +1221,7 @@
     "assortment": "Fast sortiment",
     "launched": "2018-06-01T00:00:00",
     "inStore": true,
-    "storeStock": 34
+    "storeStock": 45
   },
   {
     "id": "58367556",
@@ -1301,8 +1241,8 @@
     "method": "claude",
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-04-17T00:00:00",
-    "inStore": false,
-    "storeStock": 0
+    "inStore": true,
+    "storeStock": 43
   },
   {
     "id": "59987410",
@@ -1321,7 +1261,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-03-20T00:00:00",
     "inStore": true,
-    "storeStock": 40
+    "storeStock": 38
   },
   {
     "id": "54644057",
@@ -1405,7 +1345,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-02-13T00:00:00",
     "inStore": true,
-    "storeStock": 80
+    "storeStock": 69
   },
   {
     "id": "24655716",
@@ -1427,7 +1367,7 @@
     "assortment": "Fast sortiment",
     "launched": "2022-03-01T00:00:00",
     "inStore": true,
-    "storeStock": 32
+    "storeStock": 30
   },
   {
     "id": "13430272",
@@ -1450,7 +1390,7 @@
     "assortment": "Fast sortiment",
     "launched": "2018-09-01T00:00:00",
     "inStore": true,
-    "storeStock": 52
+    "storeStock": 23
   },
   {
     "id": "52988289",
@@ -1536,25 +1476,6 @@
     "storeStock": 0
   },
   {
-    "id": "59409495",
-    "num": "93876",
-    "name": "Pita",
-    "sub": "Pet-Nat",
-    "producer": "António Lopes Ribeiro Wines Lda",
-    "country": "Portugal",
-    "cat": "Mousserande vin",
-    "price": 199.0,
-    "vintage": "2025",
-    "grapes": [],
-    "organic": true,
-    "conf": 0.9,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment",
-    "launched": "2026-05-29T00:00:00",
-    "inStore": false,
-    "storeStock": 0
-  },
-  {
     "id": "53663251",
     "num": "92832",
     "name": "Roagna",
@@ -1595,28 +1516,6 @@
     "storeStock": 2
   },
   {
-    "id": "17797411",
-    "num": "92014",
-    "name": "Rosso Colli Tortonesi",
-    "sub": null,
-    "producer": "Oltretorrente",
-    "country": "Italien",
-    "cat": "Rött vin",
-    "price": 169.0,
-    "vintage": "2024",
-    "grapes": [
-      "Barbera",
-      "Dolcetto"
-    ],
-    "organic": false,
-    "conf": 0.9,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment",
-    "launched": "2026-04-17T00:00:00",
-    "inStore": true,
-    "storeStock": 47
-  },
-  {
     "id": "24694379",
     "num": "55904",
     "name": "Scheuermann",
@@ -1633,7 +1532,7 @@
     "assortment": "Fast sortiment",
     "launched": "2022-04-19T00:00:00",
     "inStore": true,
-    "storeStock": 47
+    "storeStock": 42
   },
   {
     "id": "47345953",
@@ -1777,43 +1676,23 @@
     "storeStock": 0
   },
   {
-    "id": "47220148",
-    "num": "95576",
-    "name": "Weingut Peter Jakob Kühn",
-    "sub": "Jungfer GG Trocken",
-    "producer": "Weingut Peter Jakob Kühn",
-    "country": "Tyskland",
+    "id": "51427693",
+    "num": "92606",
+    "name": "Viré-Clessé Clos de Buc",
+    "sub": "Jean-Marie Chaland",
+    "producer": "Jean-Marie Chaland",
+    "country": "Frankrike",
     "cat": "Vitt vin",
-    "price": 699.0,
-    "vintage": "2021",
-    "grapes": [],
-    "organic": true,
-    "conf": 0.9,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment",
-    "launched": "2024-11-07T00:00:00",
-    "inStore": false,
-    "storeStock": 0
-  },
-  {
-    "id": "58335226",
-    "num": "92710",
-    "name": "Weissburgunder & Chardonnay",
-    "sub": "Scheuermann",
-    "producer": "Scheuermann",
-    "country": "Tyskland",
-    "cat": "Vitt vin",
-    "price": 169.0,
-    "vintage": "2024",
+    "price": 439.0,
+    "vintage": "2022",
     "grapes": [
-      "Weissburgunder",
       "Chardonnay"
     ],
     "organic": true,
     "conf": 0.9,
     "method": "claude",
     "assortment": "Tillfälligt sortiment",
-    "launched": "2026-02-27T00:00:00",
+    "launched": "2025-04-04T00:00:00",
     "inStore": false,
     "storeStock": 0
   },
@@ -1939,7 +1818,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-03-06T00:00:00",
     "inStore": true,
-    "storeStock": 21
+    "storeStock": 17
   },
   {
     "id": "53882823",
@@ -1978,8 +1857,8 @@
     "method": "claude",
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-05-22T00:00:00",
-    "inStore": false,
-    "storeStock": 0
+    "inStore": true,
+    "storeStock": 45
   },
   {
     "id": "34581844",
@@ -2000,7 +1879,7 @@
     "assortment": "Fast sortiment",
     "launched": "2023-04-25T00:00:00",
     "inStore": true,
-    "storeStock": 1
+    "storeStock": 22
   },
   {
     "id": "59260503",
@@ -2062,7 +1941,7 @@
     "assortment": "Fast sortiment",
     "launched": "2014-03-01T00:00:00",
     "inStore": true,
-    "storeStock": 13
+    "storeStock": 12
   },
   {
     "id": "61065854",
@@ -2124,7 +2003,7 @@
     "assortment": "Fast sortiment",
     "launched": "2010-10-01T00:00:00",
     "inStore": true,
-    "storeStock": 7
+    "storeStock": 6
   },
   {
     "id": "60857944",
@@ -2148,7 +2027,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-05-08T00:00:00",
     "inStore": true,
-    "storeStock": 33
+    "storeStock": 27
   },
   {
     "id": "63024981",
@@ -2212,6 +2091,25 @@
     "storeStock": 0
   },
   {
+    "id": "48651474",
+    "num": "93466",
+    "name": "Rosso di Montalcino",
+    "sub": "Pian Dell´Orino",
+    "producer": "Pian dell' Orino",
+    "country": "Italien",
+    "cat": "Rött vin",
+    "price": 849.0,
+    "vintage": "2020",
+    "grapes": [],
+    "organic": true,
+    "conf": 0.85,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment",
+    "launched": "2025-01-23T00:00:00",
+    "inStore": false,
+    "storeStock": 0
+  },
+  {
     "id": "53213434",
     "num": "2135",
     "name": "Susurro",
@@ -2252,47 +2150,6 @@
     "storeStock": 0
   },
   {
-    "id": "59269795",
-    "num": "93323",
-    "name": "Val delle Corti",
-    "sub": "Chianti Classico",
-    "producer": "Val delle Corti",
-    "country": "Italien",
-    "cat": "Rött vin",
-    "price": 249.0,
-    "vintage": "2022",
-    "grapes": [
-      "Sangiovese",
-      "Canaiolo"
-    ],
-    "organic": true,
-    "conf": 0.85,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment",
-    "launched": "2026-02-27T00:00:00",
-    "inStore": false,
-    "storeStock": 0
-  },
-  {
-    "id": "59260499",
-    "num": "91317",
-    "name": "Valpolicella Superiore",
-    "sub": "Musella",
-    "producer": "Musella",
-    "country": "Italien",
-    "cat": "Rött vin",
-    "price": 179.0,
-    "vintage": "2022",
-    "grapes": [],
-    "organic": true,
-    "conf": 0.85,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment",
-    "launched": "2026-01-23T00:00:00",
-    "inStore": false,
-    "storeStock": 0
-  },
-  {
     "id": "60796646",
     "num": "90668",
     "name": "Weingut Markus Altenburger",
@@ -2309,7 +2166,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-04-10T00:00:00",
     "inStore": true,
-    "storeStock": 30
+    "storeStock": 28
   },
   {
     "id": "54587933",
@@ -2351,7 +2208,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-04-17T00:00:00",
     "inStore": true,
-    "storeStock": 10
+    "storeStock": 9
   },
   {
     "id": "61391598",
@@ -2372,7 +2229,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-04-17T00:00:00",
     "inStore": true,
-    "storeStock": 14
+    "storeStock": 5
   },
   {
     "id": "53663711",
@@ -2411,25 +2268,6 @@
     "launched": "2026-04-09T00:00:00",
     "inStore": false,
     "storeStock": 0
-  },
-  {
-    "id": "42064004",
-    "num": "95212",
-    "name": "En El Camino",
-    "sub": "Michelini i Muffato",
-    "producer": "Michelini ì Mufatto",
-    "country": "Spanien",
-    "cat": "Rött vin",
-    "price": 166.0,
-    "vintage": "2023",
-    "grapes": [],
-    "organic": false,
-    "conf": 0.8,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment",
-    "launched": "2026-04-24T00:00:00",
-    "inStore": true,
-    "storeStock": 9
   },
   {
     "id": "59732906",
@@ -2490,7 +2328,7 @@
     "assortment": "Fast sortiment",
     "launched": "2021-06-14T00:00:00",
     "inStore": true,
-    "storeStock": 24
+    "storeStock": 21
   },
   {
     "id": "24698267",
@@ -2512,29 +2350,7 @@
     "assortment": "Fast sortiment",
     "launched": "2022-03-28T00:00:00",
     "inStore": true,
-    "storeStock": 22
-  },
-  {
-    "id": "24444756",
-    "num": "7583",
-    "name": "Leclerc Briant",
-    "sub": "Champagne Rosé",
-    "producer": "Leclerc Briant",
-    "country": "Frankrike",
-    "cat": "Mousserande vin",
-    "price": 589.0,
-    "vintage": null,
-    "grapes": [
-      "Chardonnay",
-      "Pinot noir"
-    ],
-    "organic": true,
-    "conf": 0.8,
-    "method": "claude",
-    "assortment": "Fast sortiment",
-    "launched": "2020-03-02T00:00:00",
-    "inStore": true,
-    "storeStock": 10
+    "storeStock": 20
   },
   {
     "id": "56637849",
@@ -2574,7 +2390,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-03-06T00:00:00",
     "inStore": true,
-    "storeStock": 16
+    "storeStock": 15
   },
   {
     "id": "59269777",
@@ -2595,7 +2411,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-03-20T00:00:00",
     "inStore": true,
-    "storeStock": 22
+    "storeStock": 20
   },
   {
     "id": "37439339",
@@ -2637,7 +2453,7 @@
     "assortment": "Fast sortiment",
     "launched": "2025-09-01T00:00:00",
     "inStore": true,
-    "storeStock": 6
+    "storeStock": 4
   },
   {
     "id": "60796684",
@@ -2679,7 +2495,7 @@
     "assortment": "Fast sortiment",
     "launched": "2009-10-01T00:00:00",
     "inStore": true,
-    "storeStock": 10
+    "storeStock": 17
   },
   {
     "id": "439776",
@@ -2700,7 +2516,7 @@
     "assortment": "Fast sortiment",
     "launched": "2010-10-01T00:00:00",
     "inStore": true,
-    "storeStock": 6
+    "storeStock": 23
   },
   {
     "id": "49381032",
@@ -2742,7 +2558,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-03-13T00:00:00",
     "inStore": true,
-    "storeStock": 29
+    "storeStock": 25
   },
   {
     "id": "62766689",
@@ -2764,28 +2580,7 @@
     "method": "claude",
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-05-22T00:00:00",
-    "inStore": false,
-    "storeStock": 0
-  },
-  {
-    "id": "59260516",
-    "num": "92273",
-    "name": "Tres Patas",
-    "sub": null,
-    "producer": "Bodegas Canopy",
-    "country": "Spanien",
-    "cat": "Rött vin",
-    "price": 199.0,
-    "vintage": "2022",
-    "grapes": [
-      "Garnacha"
-    ],
-    "organic": false,
-    "conf": 0.7,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment",
-    "launched": "2026-01-30T00:00:00",
-    "inStore": false,
-    "storeStock": 0
+    "inStore": true,
+    "storeStock": 24
   }
 ]

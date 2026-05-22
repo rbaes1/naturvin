@@ -12346,5 +12346,12 @@
     "method": "claude",
     "matchedTo": null,
     "reason": ""
+  },
+  "Verget": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
   }
 }
