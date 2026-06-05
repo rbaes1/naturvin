@@ -12374,5 +12374,47 @@
     "method": "claude",
     "matchedTo": null,
     "reason": ""
+  },
+  "Azienda Agricola Sottimano": {
+    "isNatural": true,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Henri Boillot": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Gianni Brunelli Az. Ag. Le Chiuse di Sotto": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Château Lafleur": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Sottimano": {
+    "isNatural": true,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Sektmanufaktur Schloss VAUX AG": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
   }
 }
