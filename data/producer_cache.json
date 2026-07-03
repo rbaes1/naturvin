@@ -12773,5 +12773,166 @@
     "method": "claude",
     "matchedTo": null,
     "reason": ""
+  },
+  "Immich-Batterieberg": {
+    "isNatural": true,
+    "confidence": 1.0,
+    "method": "fuzzy",
+    "matchedTo": "Immich-Batterieberg",
+    "reason": "Matched 'Immich-Batterieberg' (score 100)"
+  },
+  "Famille Fabre": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Txakoli Ameztoi": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bernard-Massard": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bruna Grimaldi": {
+    "isNatural": false,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Famiglia Losi": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Château de Campuget": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Château Talbot": {
+    "isNatural": false,
+    "confidence": 0.99,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Denis Dubourdieu": {
+    "isNatural": false,
+    "confidence": 0.99,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "VINARIJA DOJA D.o.o": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Alma Rosa Winery & Vineyards": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Remhoogte Wine Estate": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Juvé & Camps": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Adega Entreosrios SL": {
+    "isNatural": false,
+    "confidence": 0.75,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Catherine et Pierre Breton": {
+    "isNatural": true,
+    "confidence": 0.99,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Ch Lespault-Martillac, Pessac-Leognan": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "La Collina dei Ciliegi": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Moss Wood": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Martin Diwald GmbH": {
+    "isNatural": false,
+    "confidence": 0.75,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Saltram Wine Estates": {
+    "isNatural": false,
+    "confidence": 0.99,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "The Vice Napa Valley": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Thorn-Clarke Wines": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Vallegre Vinhos do Porto": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
   }
 }
