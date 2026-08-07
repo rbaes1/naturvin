@@ -13508,5 +13508,89 @@
     "method": "claude",
     "matchedTo": null,
     "reason": ""
+  },
+  "Fratelli Cigliuti": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Viña Buena Esperanza spa": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Chateau D'Armailhac": {
+    "isNatural": false,
+    "confidence": 1.0,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Ch. Haut-Marbuzet": {
+    "isNatural": false,
+    "confidence": 1.0,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine des Bosquets": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "De Toren Private Cellar": {
+    "isNatural": false,
+    "confidence": 1.0,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Hentley Farm Wines": {
+    "isNatural": false,
+    "confidence": 1.0,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Ignacio Pino Román": {
+    "isNatural": true,
+    "confidence": 0.7,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Spier Wines a Division of Spier Farm Management (Pty) Ltd": {
+    "isNatural": false,
+    "confidence": 1.0,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Terreno": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Kaiken": {
+    "isNatural": false,
+    "confidence": 1.0,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Wittmann": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
   }
 }
