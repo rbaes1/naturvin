@@ -13907,5 +13907,215 @@
     "method": "claude",
     "matchedTo": null,
     "reason": ""
+  },
+  "Forjas del Salnés": {
+    "isNatural": true,
+    "confidence": 1.0,
+    "method": "fuzzy",
+    "matchedTo": "Forjas del Salnés",
+    "reason": "Matched 'Forjas del Salnés' (score 100)"
+  },
+  "Bodega Noemia de Patagonia S.A": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Montepeloso": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bodegas Alegre Valgañon": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bosquet des Papes": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Az. Ferruccio Deiana": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Chateau Clerc Milon": {
+    "isNatural": false,
+    "confidence": 1.0,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Chateau Fleur Pourret": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Grand Puy Lacoste": {
+    "isNatural": false,
+    "confidence": 1.0,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Font de Courtedune": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Compañia Vinicola del Norte de España": {
+    "isNatural": false,
+    "confidence": 1.0,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Amélie Guillot": {
+    "isNatural": true,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Maugeri Paola": {
+    "isNatural": false,
+    "confidence": 0.7,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Maison Cazes": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Gunderloch": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Mueller-Catoir": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Geoff Hardy": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "NAKANO BIOCHEMICAL CREATION K.K": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "SARL Château La Négly": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Sociedad Agraria de Viticultores": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Sommer": {
+    "isNatural": false,
+    "confidence": 0.7,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Marjan Simcic Domaine": {
+    "isNatural": true,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Mas Martinet": {
+    "isNatural": true,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Heretat Mas Tinell, S.L.": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Nino Negri": {
+    "isNatural": false,
+    "confidence": 1.0,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Hoch Harald e.U": {
+    "isNatural": true,
+    "confidence": 0.75,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Giovanni Rosso": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Günter + Regina Triebaumer": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Fritz Haag": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Kabushikigaisha Yamawashuzouten": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
   }
 }
