@@ -14551,5 +14551,159 @@
     "method": "claude",
     "matchedTo": null,
     "reason": ""
+  },
+  "Argentiera": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Mauro Veglio": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Cadre": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Marc Morey": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Fontaine-Gagnard": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "4Monos Viticultores": {
+    "isNatural": true,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Union des Vignerons des Côtes-du-Rhône": {
+    "isNatural": false,
+    "confidence": 0.99,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Craven Wines": {
+    "isNatural": true,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Yann Chave": {
+    "isNatural": false,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Akita Seishu": {
+    "isNatural": false,
+    "confidence": 0.99,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Giraud": {
+    "isNatural": false,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Azienda Agricola Monte del Frà s.s.": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Château Pesquié": {
+    "isNatural": false,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Ramon do Casar": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Pernod Ricard Winemakers Australia": {
+    "isNatural": false,
+    "confidence": 0.99,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Les Terres d'Ocre": {
+    "isNatural": false,
+    "confidence": 0.75,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Reverdy-Ducroux": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Seppeltfields": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Josef Jamek": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Villoes Dos Profetas": {
+    "isNatural": false,
+    "confidence": 0.75,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Wayfinder": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Springfield Estate": {
+    "isNatural": false,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
   }
 }
