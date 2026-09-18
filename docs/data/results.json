@@ -18,7 +18,45 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-09-11T00:00:00",
     "inStore": true,
-    "storeStock": 49
+    "storeStock": 24
+  },
+  {
+    "id": "61402083",
+    "num": "93239",
+    "name": "Fred",
+    "sub": "Strekov 1075",
+    "producer": "Strekov 1075",
+    "country": "Slovakien",
+    "cat": "Rött vin",
+    "price": 260.0,
+    "vintage": null,
+    "grapes": [],
+    "organic": false,
+    "conf": 1.0,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment",
+    "launched": "2026-03-20T00:00:00",
+    "inStore": false,
+    "storeStock": 0
+  },
+  {
+    "id": "59269760",
+    "num": "93007",
+    "name": "Grotte Alte",
+    "sub": "Arianna Occhipinti",
+    "producer": "Arianna Occhipinti",
+    "country": "Italien",
+    "cat": "Rött vin",
+    "price": 601.0,
+    "vintage": "2021",
+    "grapes": [],
+    "organic": false,
+    "conf": 1.0,
+    "method": "fuzzy",
+    "assortment": "Tillfälligt sortiment",
+    "launched": "2026-02-26T00:00:00",
+    "inStore": false,
+    "storeStock": 0
   },
   {
     "id": "62856003",
@@ -60,7 +98,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-07-31T00:00:00",
     "inStore": true,
-    "storeStock": 33
+    "storeStock": 20
   },
   {
     "id": "59657490",
@@ -81,7 +119,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-09-11T00:00:00",
     "inStore": true,
-    "storeStock": 55
+    "storeStock": 23
   },
   {
     "id": "64087492",
@@ -104,7 +142,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-08-07T00:00:00",
     "inStore": true,
-    "storeStock": 42
+    "storeStock": 34
   },
   {
     "id": "52979738",
@@ -144,28 +182,7 @@
     "assortment": "Fast sortiment",
     "launched": "2019-09-16T00:00:00",
     "inStore": true,
-    "storeStock": 8
-  },
-  {
-    "id": "24401831",
-    "num": "70361",
-    "name": "Meinklang Naken",
-    "sub": "Grüner Veltliner",
-    "producer": "Meinklang",
-    "country": "Österrike",
-    "cat": "Vitt vin",
-    "price": 109.0,
-    "vintage": "2025",
-    "grapes": [
-      "Grüner veltliner"
-    ],
-    "organic": true,
-    "conf": 1.0,
-    "method": "claude",
-    "assortment": "Fast sortiment",
-    "launched": "2019-09-23T00:00:00",
-    "inStore": true,
-    "storeStock": 21
+    "storeStock": 17
   },
   {
     "id": "65996077",
@@ -185,8 +202,8 @@
     "method": "fuzzy",
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-09-11T00:00:00",
-    "inStore": true,
-    "storeStock": 39
+    "inStore": false,
+    "storeStock": 0
   },
   {
     "id": "64084533",
@@ -255,6 +272,27 @@
     "storeStock": 0
   },
   {
+    "id": "59718789",
+    "num": "94694",
+    "name": "Siccagno",
+    "sub": "Arianna Occhipinti",
+    "producer": "Arianna Occhipinti",
+    "country": "Italien",
+    "cat": "Rött vin",
+    "price": 361.0,
+    "vintage": "2022",
+    "grapes": [
+      "Nero d'avola"
+    ],
+    "organic": false,
+    "conf": 1.0,
+    "method": "fuzzy",
+    "assortment": "Tillfälligt sortiment",
+    "launched": "2026-09-11T00:00:00",
+    "inStore": true,
+    "storeStock": 29
+  },
+  {
     "id": "64606036",
     "num": "91128",
     "name": "Susucaru",
@@ -311,7 +349,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-07-31T00:00:00",
     "inStore": true,
-    "storeStock": 21
+    "storeStock": 11
   },
   {
     "id": "58089561",
@@ -331,6 +369,27 @@
     "method": "fuzzy",
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-02-27T00:00:00",
+    "inStore": false,
+    "storeStock": 0
+  },
+  {
+    "id": "58094984",
+    "num": "92412",
+    "name": "Terres Dorées",
+    "sub": "Moulin-à-Vent",
+    "producer": "Terres Dorées",
+    "country": "Frankrike",
+    "cat": "Rött vin",
+    "price": 269.0,
+    "vintage": "2023",
+    "grapes": [
+      "Gamay"
+    ],
+    "organic": false,
+    "conf": 1.0,
+    "method": "fuzzy",
+    "assortment": "Tillfälligt sortiment",
+    "launched": "2026-03-20T00:00:00",
     "inStore": false,
     "storeStock": 0
   },
@@ -355,7 +414,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-07-31T00:00:00",
     "inStore": true,
-    "storeStock": 11
+    "storeStock": 1
   },
   {
     "id": "65344046",
@@ -375,8 +434,8 @@
     "method": "claude",
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-09-18T00:00:00",
-    "inStore": false,
-    "storeStock": 0
+    "inStore": true,
+    "storeStock": 37
   },
   {
     "id": "64055672",
@@ -438,25 +497,6 @@
     "storeStock": 0
   },
   {
-    "id": "64230359",
-    "num": "92761",
-    "name": "Brunello di Montalcino",
-    "sub": " Il Paradiso di Manfredi",
-    "producer": "Il Paradiso di Manfredi",
-    "country": "Italien",
-    "cat": "Rött vin",
-    "price": 1199.0,
-    "vintage": "2018",
-    "grapes": [],
-    "organic": false,
-    "conf": 0.95,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment",
-    "launched": "2026-08-13T00:00:00",
-    "inStore": false,
-    "storeStock": 0
-  },
-  {
     "id": "60614416",
     "num": "95120",
     "name": "Calabretta",
@@ -474,8 +514,8 @@
     "method": "claude",
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-09-18T00:00:00",
-    "inStore": false,
-    "storeStock": 0
+    "inStore": true,
+    "storeStock": 14
   },
   {
     "id": "64606165",
@@ -516,7 +556,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-08-21T00:00:00",
     "inStore": true,
-    "storeStock": 15
+    "storeStock": 25
   },
   {
     "id": "60796158",
@@ -538,6 +578,48 @@
     "launched": "2026-07-03T00:00:00",
     "inStore": false,
     "storeStock": 0
+  },
+  {
+    "id": "64606379",
+    "num": "93912",
+    "name": "Coulée de Serrant",
+    "sub": null,
+    "producer": "SAS Famille Joly",
+    "country": "Frankrike",
+    "cat": "Vitt vin",
+    "price": 871.0,
+    "vintage": "2024",
+    "grapes": [
+      "Chenin blanc"
+    ],
+    "organic": true,
+    "conf": 0.95,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment",
+    "launched": "2026-10-09T00:00:00",
+    "inStore": false,
+    "storeStock": 0
+  },
+  {
+    "id": "60181688",
+    "num": "94310",
+    "name": "El Mentridano Blanco",
+    "sub": "Vitícola Mentridana",
+    "producer": "Vitícola Mentridana",
+    "country": "Spanien",
+    "cat": "Vitt vin",
+    "price": 251.0,
+    "vintage": "2024",
+    "grapes": [
+      "Garnacha blanca"
+    ],
+    "organic": false,
+    "conf": 0.95,
+    "method": "fuzzy",
+    "assortment": "Tillfälligt sortiment",
+    "launched": "2026-08-07T00:00:00",
+    "inStore": true,
+    "storeStock": 27
   },
   {
     "id": "58511886",
@@ -580,6 +662,27 @@
     "storeStock": 0
   },
   {
+    "id": "62855952",
+    "num": "92146",
+    "name": "L’Archetipo",
+    "sub": "Susumante",
+    "producer": "L’Archetipo",
+    "country": "Italien",
+    "cat": "Mousserande vin",
+    "price": 179.0,
+    "vintage": "2025",
+    "grapes": [
+      "Susumaniello"
+    ],
+    "organic": true,
+    "conf": 0.95,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment",
+    "launched": "2026-09-04T00:00:00",
+    "inStore": true,
+    "storeStock": 24
+  },
+  {
     "id": "62855946",
     "num": "90244",
     "name": "L’Archetipo",
@@ -597,8 +700,8 @@
     "method": "claude",
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-08-28T00:00:00",
-    "inStore": false,
-    "storeStock": 0
+    "inStore": true,
+    "storeStock": 18
   },
   {
     "id": "62855949",
@@ -619,28 +722,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-08-28T00:00:00",
     "inStore": true,
-    "storeStock": 26
-  },
-  {
-    "id": "62855952",
-    "num": "92146",
-    "name": "L’Archetipo",
-    "sub": "Susumante",
-    "producer": "L’Archetipo",
-    "country": "Italien",
-    "cat": "Mousserande vin",
-    "price": 179.0,
-    "vintage": "2025",
-    "grapes": [
-      "Susumaniello"
-    ],
-    "organic": true,
-    "conf": 0.95,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment",
-    "launched": "2026-09-04T00:00:00",
-    "inStore": true,
-    "storeStock": 1
+    "storeStock": 24
   },
   {
     "id": "58373355",
@@ -704,7 +786,7 @@
     "assortment": "Fast sortiment",
     "launched": "2010-10-01T00:00:00",
     "inStore": true,
-    "storeStock": 11
+    "storeStock": 4
   },
   {
     "id": "32103668",
@@ -786,7 +868,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-08-21T00:00:00",
     "inStore": true,
-    "storeStock": 40
+    "storeStock": 38
   },
   {
     "id": "24455597",
@@ -849,7 +931,7 @@
     "assortment": "Fast sortiment",
     "launched": "2020-11-30T00:00:00",
     "inStore": true,
-    "storeStock": 19
+    "storeStock": 11
   },
   {
     "id": "64230603",
@@ -871,14 +953,14 @@
     "storeStock": 0
   },
   {
-    "id": "39778112",
-    "num": "94738",
+    "id": "39778111",
+    "num": "94745",
     "name": "Barbaresco Crichët Pajé",
-    "sub": "Roagna Azienda Agricola I Paglieri",
+    "sub": "Roagna  Azienda Agricola I Paglieri",
     "producer": "Roagna Azienda Agricola I Paglieri S.S",
     "country": "Italien",
     "cat": "Rött vin",
-    "price": 15501.0,
+    "price": 30004.0,
     "vintage": "2014",
     "grapes": [],
     "organic": false,
@@ -886,8 +968,8 @@
     "method": "claude",
     "assortment": "Tillfälligt sortiment",
     "launched": "2024-02-22T00:00:00",
-    "inStore": true,
-    "storeStock": 1
+    "inStore": false,
+    "storeStock": 0
   },
   {
     "id": "64230604",
@@ -909,25 +991,6 @@
     "storeStock": 6
   },
   {
-    "id": "64267263",
-    "num": "91101",
-    "name": "Barbaresco Pajé Vecchie Viti",
-    "sub": "Roagna",
-    "producer": "Roagna Azienda Agricola I Paglieri S.S",
-    "country": "Italien",
-    "cat": "Rött vin",
-    "price": 4999.0,
-    "vintage": "2020",
-    "grapes": [],
-    "organic": false,
-    "conf": 0.9,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment",
-    "launched": "2026-05-28T00:00:00",
-    "inStore": true,
-    "storeStock": 3
-  },
-  {
     "id": "44674285",
     "num": "93256",
     "name": "Barbaresco Pajé Vecchie Viti",
@@ -947,6 +1010,25 @@
     "launched": "2024-08-15T00:00:00",
     "inStore": true,
     "storeStock": 2
+  },
+  {
+    "id": "64267263",
+    "num": "91101",
+    "name": "Barbaresco Pajé Vecchie Viti",
+    "sub": "Roagna",
+    "producer": "Roagna Azienda Agricola I Paglieri S.S",
+    "country": "Italien",
+    "cat": "Rött vin",
+    "price": 4999.0,
+    "vintage": "2020",
+    "grapes": [],
+    "organic": false,
+    "conf": 0.9,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment",
+    "launched": "2026-05-28T00:00:00",
+    "inStore": true,
+    "storeStock": 3
   },
   {
     "id": "64267260",
@@ -1085,7 +1167,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-09-11T00:00:00",
     "inStore": true,
-    "storeStock": 55
+    "storeStock": 37
   },
   {
     "id": "24447501",
@@ -1106,7 +1188,7 @@
     "assortment": "Fast sortiment",
     "launched": "2020-03-02T00:00:00",
     "inStore": true,
-    "storeStock": 16
+    "storeStock": 23
   },
   {
     "id": "64795875",
@@ -1118,7 +1200,10 @@
     "cat": "Rött vin",
     "price": 259.0,
     "vintage": "2022",
-    "grapes": [],
+    "grapes": [
+      "Garnacha",
+      "Cariñena"
+    ],
     "organic": false,
     "conf": 0.9,
     "method": "claude",
@@ -1147,28 +1232,6 @@
     "storeStock": 14
   },
   {
-    "id": "53532963",
-    "num": "91103",
-    "name": "Daï Solera",
-    "sub": null,
-    "producer": "Myrko Tépus",
-    "country": "Frankrike",
-    "cat": "Rosévin",
-    "price": 299.0,
-    "vintage": null,
-    "grapes": [
-      "Grenache",
-      "Cinsault"
-    ],
-    "organic": true,
-    "conf": 0.9,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment",
-    "launched": "2025-05-16T00:00:00",
-    "inStore": false,
-    "storeStock": 0
-  },
-  {
     "id": "59993085",
     "num": "94631",
     "name": "Domaine des Pothiers",
@@ -1185,28 +1248,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-03-27T00:00:00",
     "inStore": true,
-    "storeStock": 2
-  },
-  {
-    "id": "35310756",
-    "num": "90594",
-    "name": "EGO Vinum Espumoso Ancestral",
-    "sub": "Rosado",
-    "producer": "DIONISIS AGRICULTURA BIOLOGICA / LA BODEGA DE LAS ESTRLLAS",
-    "country": "Spanien",
-    "cat": "Rosévin",
-    "price": 179.0,
-    "vintage": "2022",
-    "grapes": [
-      "Tempranillo"
-    ],
-    "organic": true,
-    "conf": 0.9,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment",
-    "launched": "2023-07-21T00:00:00",
-    "inStore": false,
-    "storeStock": 0
+    "storeStock": 1
   },
   {
     "id": "36696795",
@@ -1227,7 +1269,7 @@
     "assortment": "Fast sortiment",
     "launched": "2023-07-25T00:00:00",
     "inStore": true,
-    "storeStock": 46
+    "storeStock": 40
   },
   {
     "id": "47345459",
@@ -1248,7 +1290,7 @@
     "assortment": "Fast sortiment",
     "launched": "2024-12-02T00:00:00",
     "inStore": true,
-    "storeStock": 16
+    "storeStock": 13
   },
   {
     "id": "61446010",
@@ -1269,7 +1311,28 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-09-04T00:00:00",
     "inStore": true,
-    "storeStock": 28
+    "storeStock": 24
+  },
+  {
+    "id": "62856053",
+    "num": "94219",
+    "name": "Il Provinciale",
+    "sub": "Langhe Nebbiolo",
+    "producer": "San Fereolo",
+    "country": "Italien",
+    "cat": "Rött vin",
+    "price": 299.0,
+    "vintage": "2021",
+    "grapes": [
+      "Nebbiolo"
+    ],
+    "organic": false,
+    "conf": 0.9,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment",
+    "launched": "2026-10-09T00:00:00",
+    "inStore": false,
+    "storeStock": 0
   },
   {
     "id": "1057670",
@@ -1290,7 +1353,7 @@
     "assortment": "Fast sortiment",
     "launched": "2016-06-01T00:00:00",
     "inStore": true,
-    "storeStock": 16
+    "storeStock": 12
   },
   {
     "id": "58367556",
@@ -1375,7 +1438,7 @@
     "assortment": "Fast sortiment",
     "launched": "2022-03-01T00:00:00",
     "inStore": true,
-    "storeStock": 19
+    "storeStock": 30
   },
   {
     "id": "13430272",
@@ -1398,7 +1461,7 @@
     "assortment": "Fast sortiment",
     "launched": "2018-09-01T00:00:00",
     "inStore": true,
-    "storeStock": 44
+    "storeStock": 67
   },
   {
     "id": "25016070",
@@ -1462,7 +1525,7 @@
     "assortment": "Fast sortiment",
     "launched": "2022-04-19T00:00:00",
     "inStore": true,
-    "storeStock": 13
+    "storeStock": 40
   },
   {
     "id": "62239802",
@@ -1507,7 +1570,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-08-28T00:00:00",
     "inStore": true,
-    "storeStock": 27
+    "storeStock": 25
   },
   {
     "id": "47345953",
@@ -1547,7 +1610,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-07-31T00:00:00",
     "inStore": true,
-    "storeStock": 52
+    "storeStock": 47
   },
   {
     "id": "53665830",
@@ -1585,7 +1648,26 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-05-28T00:00:00",
     "inStore": true,
-    "storeStock": 7
+    "storeStock": 6
+  },
+  {
+    "id": "56080390",
+    "num": "94675",
+    "name": "Tamara Kögl",
+    "sub": "Forever Young *O",
+    "producer": "Tamara Kögl",
+    "country": "Österrike",
+    "cat": "Mousserande vin",
+    "price": 199.0,
+    "vintage": "2025",
+    "grapes": [],
+    "organic": true,
+    "conf": 0.9,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment",
+    "launched": "2026-10-09T00:00:00",
+    "inStore": false,
+    "storeStock": 0
   },
   {
     "id": "54415021",
@@ -1625,7 +1707,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-08-13T00:00:00",
     "inStore": true,
-    "storeStock": 2
+    "storeStock": 1
   },
   {
     "id": "64795862",
@@ -1735,8 +1817,8 @@
     "method": "claude",
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-08-28T00:00:00",
-    "inStore": true,
-    "storeStock": 6
+    "inStore": false,
+    "storeStock": 0
   },
   {
     "id": "63432688",
@@ -1755,7 +1837,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-05-28T00:00:00",
     "inStore": true,
-    "storeStock": 4
+    "storeStock": 3
   },
   {
     "id": "61984944",
@@ -1774,7 +1856,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-09-11T00:00:00",
     "inStore": true,
-    "storeStock": 90
+    "storeStock": 82
   },
   {
     "id": "63432537",
@@ -1793,7 +1875,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-05-28T00:00:00",
     "inStore": true,
-    "storeStock": 15
+    "storeStock": 11
   },
   {
     "id": "63546802",
@@ -1835,7 +1917,7 @@
     "assortment": "Fast sortiment",
     "launched": "2023-04-25T00:00:00",
     "inStore": true,
-    "storeStock": 9
+    "storeStock": 13
   },
   {
     "id": "65870478",
@@ -1859,6 +1941,25 @@
     "storeStock": 29
   },
   {
+    "id": "59260503",
+    "num": "92155",
+    "name": "Jose Gil",
+    "sub": "San Vicente de la Sonsierra",
+    "producer": "Jose Gil",
+    "country": "Spanien",
+    "cat": "Rött vin",
+    "price": 299.0,
+    "vintage": "2023",
+    "grapes": [],
+    "organic": false,
+    "conf": 0.85,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment",
+    "launched": "2026-05-08T00:00:00",
+    "inStore": false,
+    "storeStock": 0
+  },
+  {
     "id": "64195362",
     "num": "90595",
     "name": "Juhfark Öregtokék",
@@ -1875,7 +1976,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-08-14T00:00:00",
     "inStore": true,
-    "storeStock": 36
+    "storeStock": 34
   },
   {
     "id": "24386649",
@@ -1899,7 +2000,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-08-21T00:00:00",
     "inStore": true,
-    "storeStock": 57
+    "storeStock": 54
   },
   {
     "id": "63196301",
@@ -1921,7 +2022,7 @@
     "assortment": "Fast sortiment",
     "launched": "2026-06-01T00:00:00",
     "inStore": true,
-    "storeStock": 12
+    "storeStock": 28
   },
   {
     "id": "807497",
@@ -1968,7 +2069,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-09-11T00:00:00",
     "inStore": true,
-    "storeStock": 61
+    "storeStock": 27
   },
   {
     "id": "540658",
@@ -1990,7 +2091,7 @@
     "assortment": "Fast sortiment",
     "launched": "2010-10-01T00:00:00",
     "inStore": true,
-    "storeStock": 12
+    "storeStock": 7
   },
   {
     "id": "60857944",
@@ -2057,6 +2158,27 @@
     "storeStock": 0
   },
   {
+    "id": "65911559",
+    "num": "92680",
+    "name": "Pequenos Rebentos O Caminho",
+    "sub": "Marcio Lopes",
+    "producer": "Marcio Lopes",
+    "country": "Portugal",
+    "cat": "Vitt vin",
+    "price": 239.0,
+    "vintage": "2024",
+    "grapes": [
+      "Alvarinho"
+    ],
+    "organic": false,
+    "conf": 0.85,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment",
+    "launched": "2026-10-09T00:00:00",
+    "inStore": false,
+    "storeStock": 0
+  },
+  {
     "id": "64084478",
     "num": "92534",
     "name": "Pic Saint Loup l'Olivette",
@@ -2073,7 +2195,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-08-14T00:00:00",
     "inStore": true,
-    "storeStock": 34
+    "storeStock": 33
   },
   {
     "id": "48651474",
@@ -2112,8 +2234,8 @@
     "method": "claude",
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-08-21T00:00:00",
-    "inStore": true,
-    "storeStock": 4
+    "inStore": false,
+    "storeStock": 0
   },
   {
     "id": "53213434",
@@ -2124,7 +2246,7 @@
     "country": "Spanien",
     "cat": "Rött vin",
     "price": 149.0,
-    "vintage": "2024",
+    "vintage": "2025",
     "grapes": [
       "Monastrell"
     ],
@@ -2134,7 +2256,7 @@
     "assortment": "Fast sortiment",
     "launched": "2025-06-02T00:00:00",
     "inStore": true,
-    "storeStock": 3
+    "storeStock": 9
   },
   {
     "id": "60796646",
@@ -2174,7 +2296,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-08-21T00:00:00",
     "inStore": true,
-    "storeStock": 30
+    "storeStock": 25
   },
   {
     "id": "64795749",
@@ -2238,7 +2360,28 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-09-04T00:00:00",
     "inStore": true,
-    "storeStock": 36
+    "storeStock": 28
+  },
+  {
+    "id": "61391598",
+    "num": "92429",
+    "name": "Bodegas Fulcro",
+    "sub": "A Pedreira",
+    "producer": "Bodega Fulcro",
+    "country": "Spanien",
+    "cat": "Vitt vin",
+    "price": 219.0,
+    "vintage": "2024",
+    "grapes": [
+      "Albariño"
+    ],
+    "organic": false,
+    "conf": 0.8,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment",
+    "launched": "2026-04-17T00:00:00",
+    "inStore": false,
+    "storeStock": 0
   },
   {
     "id": "53663711",
@@ -2256,6 +2399,28 @@
     "method": "claude",
     "assortment": "Tillfälligt sortiment",
     "launched": "2025-08-07T00:00:00",
+    "inStore": false,
+    "storeStock": 0
+  },
+  {
+    "id": "66757608",
+    "num": "94682",
+    "name": "Domaine le Sang de Cailloux",
+    "sub": "Lopy",
+    "producer": "Domaine le Sang de Cailloux",
+    "country": "Frankrike",
+    "cat": "Rött vin",
+    "price": 349.0,
+    "vintage": "2024",
+    "grapes": [
+      "Grenache",
+      "Syrah"
+    ],
+    "organic": true,
+    "conf": 0.8,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment",
+    "launched": "2026-10-09T00:00:00",
     "inStore": false,
     "storeStock": 0
   },
@@ -2280,7 +2445,7 @@
     "assortment": "Fast sortiment",
     "launched": "2021-06-14T00:00:00",
     "inStore": true,
-    "storeStock": 11
+    "storeStock": 9
   },
   {
     "id": "24698267",
@@ -2302,7 +2467,7 @@
     "assortment": "Fast sortiment",
     "launched": "2022-03-28T00:00:00",
     "inStore": true,
-    "storeStock": 14
+    "storeStock": 34
   },
   {
     "id": "24444756",
@@ -2327,25 +2492,6 @@
     "storeStock": 0
   },
   {
-    "id": "59657448",
-    "num": "90676",
-    "name": "Magoutes",
-    "sub": "Moschomavro",
-    "producer": "Magoutes Vineyard",
-    "country": "Grekland",
-    "cat": "Rött vin",
-    "price": 229.0,
-    "vintage": "2023",
-    "grapes": [],
-    "organic": false,
-    "conf": 0.8,
-    "method": "claude",
-    "assortment": "Tillfälligt sortiment",
-    "launched": "2026-03-06T00:00:00",
-    "inStore": false,
-    "storeStock": 0
-  },
-  {
     "id": "64606320",
     "num": "93641",
     "name": "Marjan Simcic Domaine",
@@ -2364,7 +2510,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-09-11T00:00:00",
     "inStore": true,
-    "storeStock": 60
+    "storeStock": 56
   },
   {
     "id": "64989015",
@@ -2385,7 +2531,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-07-10T00:00:00",
     "inStore": true,
-    "storeStock": 21
+    "storeStock": 20
   },
   {
     "id": "37439339",
@@ -2427,7 +2573,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-09-11T00:00:00",
     "inStore": true,
-    "storeStock": 49
+    "storeStock": 27
   },
   {
     "id": "18204519",
@@ -2448,7 +2594,7 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-09-04T00:00:00",
     "inStore": true,
-    "storeStock": 75
+    "storeStock": 57
   },
   {
     "id": "65010315",
@@ -2468,8 +2614,8 @@
     "method": "claude",
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-08-21T00:00:00",
-    "inStore": false,
-    "storeStock": 0
+    "inStore": true,
+    "storeStock": 13
   },
   {
     "id": "396891",
@@ -2490,7 +2636,7 @@
     "assortment": "Fast sortiment",
     "launched": "2009-10-01T00:00:00",
     "inStore": true,
-    "storeStock": 17
+    "storeStock": 26
   },
   {
     "id": "439776",
@@ -2511,7 +2657,7 @@
     "assortment": "Fast sortiment",
     "launched": "2010-10-01T00:00:00",
     "inStore": true,
-    "storeStock": 12
+    "storeStock": 21
   },
   {
     "id": "64795698",
@@ -2535,6 +2681,30 @@
     "storeStock": 0
   },
   {
+    "id": "62201298",
+    "num": "92122",
+    "name": "Douro Branco",
+    "sub": "Pormenor",
+    "producer": "Pormenor Vinhos",
+    "country": "Portugal",
+    "cat": "Vitt vin",
+    "price": 180.0,
+    "vintage": "2024",
+    "grapes": [
+      "Rabigato",
+      "Gouveio",
+      "Malvasia fina",
+      "Códega do larinho"
+    ],
+    "organic": false,
+    "conf": 0.75,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment",
+    "launched": "2026-09-18T00:00:00",
+    "inStore": true,
+    "storeStock": 29
+  },
+  {
     "id": "35553340",
     "num": "92241",
     "name": "Peter & Paul",
@@ -2555,7 +2725,26 @@
     "assortment": "Tillfälligt sortiment",
     "launched": "2026-09-11T00:00:00",
     "inStore": true,
-    "storeStock": 42
+    "storeStock": 29
+  },
+  {
+    "id": "60624610",
+    "num": "91151",
+    "name": "Ravazzol",
+    "sub": "Amarone della Valpolicella Classico",
+    "producer": "Ca' La Bionda",
+    "country": "Italien",
+    "cat": "Rött vin",
+    "price": 645.0,
+    "vintage": "2019",
+    "grapes": [],
+    "organic": true,
+    "conf": 0.75,
+    "method": "claude",
+    "assortment": "Tillfälligt sortiment",
+    "launched": "2026-10-09T00:00:00",
+    "inStore": false,
+    "storeStock": 0
   },
   {
     "id": "62418393",
