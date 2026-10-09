@@ -15076,5 +15076,89 @@
     "method": "claude",
     "matchedTo": null,
     "reason": ""
+  },
+  "Quinta do Casal da Coelheira": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Château Peyrabon": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Le Vieux Donjon": {
+    "isNatural": false,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Toro Albalá": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Ostertag": {
+    "isNatural": false,
+    "confidence": 0.75,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Salwey": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Kracher Fine Wine GmbH": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Château des Jacques": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine des Braves": {
+    "isNatural": false,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Small Wonder": {
+    "isNatural": false,
+    "confidence": 0.75,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Trinity Hill": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Winzerkeller Seewinkel": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
   }
 }
