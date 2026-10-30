@@ -15328,5 +15328,159 @@
     "method": "claude",
     "matchedTo": null,
     "reason": ""
+  },
+  "Noah of Areni LLC": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Balthasar Ress KG": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Botanica Wines": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Ca' del Bosco": {
+    "isNatural": false,
+    "confidence": 1.0,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Carlo Revello & Figli": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Celler Kripta": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Antonin Guyon": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Vendôme": {
+    "isNatural": false,
+    "confidence": 0.7,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Celler Jan Vidal SL": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Soto Manrique Bodega, Kork Value SL": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Podere San Cristofero": {
+    "isNatural": false,
+    "confidence": 0.7,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bodegas Lustau": {
+    "isNatural": false,
+    "confidence": 1.0,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Seckinger": {
+    "isNatural": true,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Miles Mossop Wines": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "JOISEPH Natur Weingut": {
+    "isNatural": true,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine du Bouchot": {
+    "isNatural": true,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Casino Nitti": {
+    "isNatural": false,
+    "confidence": 0.7,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Paul Prieur & Fils": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Terroir al Limit": {
+    "isNatural": true,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Terres Blanches": {
+    "isNatural": false,
+    "confidence": 0.6,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Wine & Soul": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Tenuta di Gracciano della Seta": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
   }
 }
