@@ -15482,5 +15482,250 @@
     "method": "claude",
     "matchedTo": null,
     "reason": ""
+  },
+  "Patrick Sullivan, Laffers Lane Wine Pty LTD": {
+    "isNatural": true,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Vietti": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Philippe Fourrier": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Bodegas Proelio": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Diatom": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Chateau Coutet": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Churchill's Port": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Sautereau": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "BODEGAS Y VIÑEDOS EL PACTO S.L.U.": {
+    "isNatural": false,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Viticultor Envinate, S.L.": {
+    "isNatural": true,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Qta Regueiro-Prod Alvarinho Melgaco, LDA": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Montirius": {
+    "isNatural": false,
+    "confidence": 0.75,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Graham Beck": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Champagne Hervieux-Dumez": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Tosa Sake Brewery": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Kobal Wine Estate D.O.O.": {
+    "isNatural": true,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Express Winemakers": {
+    "isNatural": true,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Dominio do Bibei": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine des Aubuisières": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Marlborough Valley Cellars": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Mas Amiel": {
+    "isNatural": false,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Az. Agr. Vigna Rionda S.S. di Massolino F.lli": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Jaques Prieur": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Nuno Mira do Ó": {
+    "isNatural": false,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Nyetimber": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Legaris": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Remy Massin & Fils": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Rocca di Castagnoli": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Domaine Coursodon": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Askaneli Brother Ltd": {
+    "isNatural": false,
+    "confidence": 0.9,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Rozes Port": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Tradita sh.p.k. Family Estate Hamdi Kastrati": {
+    "isNatural": false,
+    "confidence": 0.75,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Upsidedown Wine": {
+    "isNatural": false,
+    "confidence": 0.85,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Kettern": {
+    "isNatural": false,
+    "confidence": 0.8,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
+  },
+  "Weingut Kollwentz": {
+    "isNatural": false,
+    "confidence": 0.95,
+    "method": "claude",
+    "matchedTo": null,
+    "reason": ""
   }
 }
